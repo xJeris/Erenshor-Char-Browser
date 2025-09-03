@@ -2,10 +2,13 @@
 Character Browser for Erenshor
 
 ## Web File Structure
-|--> /var/www/server   
+--> /var/www/server   
 &nbsp;&nbsp;&nbsp;--> server.js   
-|--> /var/www/SiteRoot     
+--> /var/www/SiteRoot     
 &nbsp;&nbsp;&nbsp;--> /assets   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /items   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /skills   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /spells   
 &nbsp;&nbsp;&nbsp;--> /data   
 &nbsp;&nbsp;&nbsp;--> app.js   
 &nbsp;&nbsp;&nbsp;--> index.html   
