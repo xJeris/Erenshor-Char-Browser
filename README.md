@@ -11,6 +11,7 @@ Character Browser for Erenshor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /spells   
 &nbsp;&nbsp;&nbsp;--> /data   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> characters.json   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> admin_key.txt   
 &nbsp;&nbsp;&nbsp;--> app.js   
 &nbsp;&nbsp;&nbsp;--> index.html   
 &nbsp;&nbsp;&nbsp;--> items.xml   
@@ -30,3 +31,8 @@ You will need to have the following packages installed.
 - Express
 
 Make sure your package.json reflects the correct versions of these packages for your server.
+
+## Additional Notes
+On startup of your node service, an admin_key file will be created with a randomly generated password. This will be saved as an encrypted value in the /data folder. They key will only be displayed once in your server console (can use journalctl). Otherwise, you will have to delete the file and restart the service to have it recreated.
+
+This key allows the admin to delete uploaded characters should the need arise.
