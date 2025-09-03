@@ -10,6 +10,7 @@ Character Browser for Erenshor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /skills   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /spells   
 &nbsp;&nbsp;&nbsp;--> /data   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> characters.json   
 &nbsp;&nbsp;&nbsp;--> app.js   
 &nbsp;&nbsp;&nbsp;--> index.html   
 &nbsp;&nbsp;&nbsp;--> items.xml   
