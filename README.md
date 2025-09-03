@@ -7,8 +7,11 @@ Character Browser for Erenshor
 --> /var/www/SiteRoot     
 &nbsp;&nbsp;&nbsp;--> /assets   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /items   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> *.PNG files   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /skills   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> *.PNG files   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> /spells   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> *.PNG files   
 &nbsp;&nbsp;&nbsp;--> /data   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> characters.json   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> admin_key.txt   
