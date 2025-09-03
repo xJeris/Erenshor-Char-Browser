@@ -1,0 +1,480 @@
+/* Reset & Base Layout */
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #5353C6;
+  color: #F8F8F8;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+/* Banner */
+.banner {
+  position: relative;
+  height: 75px;
+  background: #333;
+  overflow: hidden;
+}
+
+.banner-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.4;
+}
+
+.banner-title {
+  position: relative;
+  color: #ffd700;
+  font-size: 24px;
+  line-height: 50px;
+  margin: 0 20px;
+  font-weight: bold;
+}
+
+/* Controls: search + upload button */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1em 0;
+}
+
+.search-group {
+  display: flex;
+  align-items: center;
+}
+
+.search-group input#search-input {
+  padding: 4px 8px;
+  width: 200px;
+}
+
+.search-group button,
+#open-upload-btn {
+  margin-left: 8px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.modal-content .delete {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.modal-content #delete-char-btn.danger-btn {
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  margin: 0;
+  padding: 8px 16px;
+}
+
+/* Character Table */
+#char-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+
+#char-table th,
+#char-table td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+#char-table th {
+  cursor: pointer;
+  user-select: none;
+}
+
+#char-table tr:hover {
+  background: #B3DAFF;
+}
+
+.char-link {
+  color: #FFCC33;
+  text-decoration: none;
+}
+
+.char-link:hover {
+  text-decoration: underline;
+}
+
+/* Modal Overlay & Container */
+.hidden {
+  display: none !important;
+}
+
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  min-height: 650px;
+  max-height: 90vh;
+  overflow-y: auto;
+  background: #222;
+  color: #eee;
+  padding: 20px;
+  border-radius: 4px;
+  width: 90%;
+  max-width: 600px;
+  position: relative;
+}
+
+/* Close button */
+.close-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: transparent;
+  border: none;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+/* Upload form inside modal */
+#upload-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+#upload-form label {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+#upload-form input[type="file"],
+#upload-form input[type="password"],
+#upload-form input[type="text"] {
+  margin-top: 4px;
+  width: 200px;
+  max-widht: 100%;
+}
+
+#upload-form button[type="submit"] {
+  width: 150px;
+  max-width: 100%;
+}
+
+/* Dark theme for details modal */
+#modal.modal .modal-content {
+  background: #222;
+  color: #eee;
+}
+
+/* Character Header in Details Modal */
+#char-name {
+  margin: 0;
+  font-size: 1.8em;
+}
+
+#char-class-level {
+  margin: 4px 0 20px;
+  color: #ccc;
+  text-align: center;
+}
+
+/* Equipment Grid: 4 rows, centered slots */
+.equip-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px; /* space between rows */
+  align-items: center;
+}
+
+.equip-grid .row {
+  display: flex;
+  justify-content: center;
+  gap: 8px; /* space between slots */
+}
+
+/* Slot styling */
+.slot {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #555;
+  border-radius: 4px;
+  position: relative;
+  font-size: 0.75em;
+  color: #fff;
+  overflow: hidden;
+}
+
+.slot img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Label at bottom of each slot */
+.slot::after {
+  content: attr(data-slot);
+  position: absolute;
+  bottom: 4px;
+  left: 0;
+  right: 0;
+  text-shadow: 0 0 2px #000;
+}
+
+/* Empty slot styling */
+.slot.empty-slot {
+  opacity: 0.5;
+  background-color: #1a1a1a;
+}
+
+/* Fallback text when image is missing */
+.item-id-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: 0.8em;
+  line-height: 1.1;
+  color: #fff;
+  text-shadow: 0 0 2px #000;
+}
+
+/* Tab header container */
+.modal-tabs {
+  display: flex;
+  border-bottom: 1px solid #555;
+  margin-bottom: 1em;
+}
+
+/* Individual tab buttons */
+.modal-tab {
+  flex: 1;
+  padding: 8px 0;
+  background: #222;
+  color: #ccc;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.2s, color 0.2s;
+}
+
+.modal-tab:hover {
+  background: #2a2a2a;
+}
+
+.modal-tab.active {
+  background: #333;
+  color: #fff;
+  border-bottom: 2px solid #fff;
+}
+
+/* Tab content panels */
+.modal-tab-content {
+  display: none;
+  overflow-y: auto;
+}
+
+.modal-tab-content.active {
+  display: block;
+}
+
+/* Skills and Spells Grid Layout */
+.skills-grid,
+.spells-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  padding: 12px;
+}
+
+.skill-row,
+.spell-row {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.skill-tile,
+.spell-tile {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #555;
+  border-radius: 4px;
+  position: relative;
+  font-size: 0.75em;
+  color: #fff;
+  overflow: hidden;
+  background-color: #1a1a1a;
+}
+
+.skill-tile img,
+.spell-tile img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.skill-tile .skill-name,
+.spell-tile .spell-name {
+  position: absolute;
+  bottom: 4px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 2px;
+  font-size: 0.9em;
+  text-shadow: 0 0 2px #000;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.skill-tile.empty,
+.spell-tile.empty {
+  opacity: 0.5;
+}
+
+/* Fallback for missing images */
+.skill-tile .skill-id-fallback,
+.spell-tile .spell-id-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: 0.8em;
+  line-height: 1.1;
+  color: #fff;
+  text-shadow: 0 0 2px #000;
+}
+
+/* Quest two-column layout */
+.quest-columns {
+  display: flex;
+  gap: 20px;
+  height: 300px;
+}
+
+.quest-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #555;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #2a2a2a;
+}
+
+.quest-column h4 {
+  margin: 0;
+  padding: 10px;
+  background-color: #3a3a3a;
+  border-bottom: 1px solid #555;
+  font-size: 14px;
+  font-weight: bold;
+  color: #e0e0e0;
+}
+
+.quest-scroll {
+  flex: 1;
+  overflow-y: auto;
+  padding: 5px;
+}
+
+.quest-entry {
+  padding: 8px 10px;
+  border-bottom: 1px solid #444;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.quest-entry:last-child {
+  border-bottom: none;
+}
+
+.quest-entry.completed {
+  color: #b0b0b0;
+}
+
+.quest-entry.active {
+  color: #e0e0e0;
+  font-weight: 500;
+}
+
+.quest-entry.empty {
+  color: #888;
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+
+.quest-entry.completed::before {
+  content: "✓ ";
+  color: #28a745;
+  font-weight: bold;
+}
+
+.quest-entry.active::before {
+  content: "→ ";
+  color: #007bff;
+  font-weight: bold;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin: 12px 0;
+}
+.pagination button {
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  background: #fff;
+  cursor: pointer;
+}
+.pagination button.current {
+  font-weight: bold;
+  background: #e8f4ff;
+}
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+#item-tooltip {
+    position: fixed;
+    display: none;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    pointer-events: none;
+    z-index: 1000;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    white-space: nowrap;
+    border: 1px solid #555;
+}

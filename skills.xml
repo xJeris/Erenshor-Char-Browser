@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Skills>
+  <Skill>
+    <id>8312964</id>
+    <name>Arcane Proficiency</name>
+    <image>8312964.png</image>
+  </Skill>
+  <Skill>
+    <id>4069290</id>
+    <name>Arcane Recovery</name>
+    <image>4069290.png</image>
+  </Skill>
+  <Skill>
+    <id>56483359</id>
+    <name>Arcane Resonance</name>
+    <image>56483359.png</image>
+  </Skill>
+  <Skill>
+    <id>63114341</id>
+    <name>Backstab</name>
+    <image>63114341.png</image>
+  </Skill>
+  <Skill>
+    <id>4776544</id>
+    <name>Block</name>
+    <image>4776544.png</image>
+  </Skill>
+  <Skill>
+    <id>20546775</id>
+    <name>Block II</name>
+    <image>20546775.png</image>
+  </Skill>
+  <Skill>
+    <id>18736326</id>
+    <name>Block III</name>
+    <image>18736326.png</image>
+  </Skill>
+  <Skill>
+    <id>24379584</id>
+    <name>Block IV</name>
+    <image>24379584.png</image>
+  </Skill>
+  <Skill>
+    <id>16059516</id>
+    <name>Blood Feast</name>
+    <image>16059516.png</image>
+  </Skill>
+  <Skill>
+    <id>21123846</id>
+    <name>Celestial Smite</name>
+    <image>21123846.png</image>
+  </Skill>
+  <Skill>
+    <id>4139520</id>
+    <name>Cleave</name>
+    <image>4139520.png</image>
+  </Skill>
+  <Skill>
+    <id>28213536</id>
+    <name>Crippling Blow</name>
+    <image>28213536.png</image>
+  </Skill>
+  <Skill>
+    <id>3507035</id>
+    <name>Dodge</name>
+    <image>3507035.png</image>
+  </Skill>
+  <Skill>
+    <id>94782922</id>
+    <name>Dodge II</name>
+    <image>94782922.png</image>
+  </Skill>
+  <Skill>
+    <id>79193520</id>
+    <name>Dodge III</name>
+    <image>79193520.png</image>
+  </Skill>
+  <Skill>
+    <id>481539</id>
+    <name>Dodge IV</name>
+    <image>481539.png</image>
+  </Skill>
+  <Skill>
+    <id>5668032</id>
+    <name>Double Attack</name>
+    <image>5668032.png</image>
+  </Skill>
+  <Skill>
+    <id>33078850</id>
+    <name>Dual Wield</name>
+    <image>33078850.png</image>
+  </Skill>
+  <Skill>
+    <id>26194688</id>
+    <name>Fishing</name>
+    <image>26194688.png</image>
+  </Skill>
+  <Skill>
+    <id>37647810</id>
+    <name>Kick</name>
+    <image>37647810.png</image>
+  </Skill>
+  <Skill>
+    <id>403426</id>
+    <name>Lingering Inferno</name>
+    <image>403426.png</image>
+  </Skill>
+  <Skill>
+    <id>51019428</id>
+    <name>Melee Proficiency</name>
+    <image>51019428.png</image>
+  </Skill>
+  <Skill>
+    <id>16164576</id>
+    <name>Victor's Pride</name>
+    <image>16164576.png</image>
+  </Skill>
+  <Skill>
+    <id>1227798</id>
+    <name>Priel Strike</name>
+    <image>1227798.png</image>
+  </Skill>
+  <Skill>
+    <id>14198580</id>
+    <name>Reap and Renew</name>
+    <image>14198580.png</image>
+  </Skill>
+  <Skill>
+    <id>54502720</id>
+    <name>Shield Bash</name>
+    <image>54502720.png</image>
+  </Skill>
+  <Skill>
+    <id>38827190</id>
+    <name>Soluna's Touch</name>
+    <image>38827190.png</image>
+  </Skill>
+  <Skill>
+    <id>59819904</id>
+    <name>Stunning Strike</name>
+    <image>59819904.png</image>
+  </Skill>
+</Skills>

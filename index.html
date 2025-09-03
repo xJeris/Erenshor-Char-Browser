@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Erenshor Character Manager</title>
+  <link rel="stylesheet" href="styles.css?v=0.0.1" />
+</head>
+<body>
+
+  <!-- Banner -->
+  <header class="banner">
+    <img src="../assets/banner_bg.png" alt="Banner background" class="banner-bg" />
+    <h1 class="banner-title">Banner Title</h1>
+  </header>
+
+  <main>
+    <!-- Controls: Search + Upload -->
+    <section class="controls">
+      <div class="search-group">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search by name…"
+        />
+        <button id="show-all-btn">Show All</button>
+      </div>
+      <button id="open-upload-btn">Upload</button>
+    </section>
+
+    <!-- Character Table -->
+    <section class="character-list">
+      <table id="char-table">
+        <thead>
+          <tr>
+            <th data-sort="CharName">Character Name ▲▼</th>
+            <th data-sort="CharClass">Class ▲▼</th>
+            <th data-sort="CharLevel">Level ▲▼</th>
+            <th data-sort="DiscordId">Discord ID ▲▼</th>
+          </tr>
+        </thead>
+        <tbody id="results-list">
+          <!-- Populated by app.js -->
+        </tbody>
+      </table>
+      <div id="pagination" class="pagination"></div>
+    </section>
+  </main>
+
+  <!-- Upload Modal -->
+  <div id="upload-modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="close-upload-modal" class="close-btn">&times;</button>
+      <h2>Upload Character File</h2>
+      <form id="upload-form">
+        <label>
+          Character File: </span>
+          <input
+            type="file"
+            id="file-input"
+            required
+          />
+        </label>
+        <label>
+          Secret Key: <span style="font-style: italic; font-size: 9pt;">Used to update your character</span>
+          <input
+            type="password"
+            id="key-input"
+            placeholder="Your secret key"
+            required
+          />
+        </label>
+        <label>
+          Discord ID (optional):
+          <input type="text" id="discord-input" />
+        </label>
+        <button type="submit">Upload</button>
+      </form>
+      <p id="upload-message"></p>
+    </div>
+  </div>
+
+  <!-- Character Details Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="close-modal" class="close-btn">&times;</button>
+
+      <!-- Tabs -->
+      <div class="modal-tabs">
+        <button class="modal-tab active" data-tab="main">Main</button>
+        <button class="modal-tab"       data-tab="quests">Quests</button>
+        <button class="modal-tab"       data-tab="skills">Skills</button>
+        <button class="modal-tab"       data-tab="spells">Spells</button>
+      </div>
+
+      <!-- Main Tab Content -->
+      <div class="modal-tab-content active" id="tab-main">
+        <h2 id="char-name">Character Name</h2>
+        <p id="char-class-level">Level X Class</p>
+
+      <!-- Equipment Grid -->
+      <div class="equip-grid">
+        <div class="row row-1">
+          <div class="slot" data-slot="Aura"></div>
+          <div class="slot" data-slot="Charm"></div>
+          <div class="slot" data-slot="Head"></div>
+          <div class="slot" data-slot="Neck"></div>
+        </div>
+
+        <div class="row row-2">
+          <div class="slot" data-slot="Ring 1"></div>
+          <div class="slot" data-slot="Hands"></div>
+          <div class="slot" data-slot="Torso"></div>
+          <div class="slot" data-slot="Shoulders"></div>
+          <div class="slot" data-slot="Ring 2"></div>
+        </div>
+
+        <div class="row row-3">
+          <div class="slot" data-slot="Wrist 1"></div>
+          <div class="slot" data-slot="Legs"></div>
+          <div class="slot" data-slot="Wrist 2"></div>
+        </div>
+
+        <div class="row row-4">
+          <div class="slot" data-slot="Primary"></div>
+          <div class="slot" data-slot="Waist"></div>
+          <div class="slot" data-slot="Feet"></div>
+          <div class="slot" data-slot="Back"></div>
+          <div class="slot" data-slot="Secondary"></div>
+        </div>
+      </div>
+
+      <div class="delete">
+        <button id="delete-char-btn" class="danger-btn">Delete</button>
+      </div>
+    </div>
+
+    <!-- Quests Tab Content -->
+      <div class="modal-tab-content" id="tab-quests">
+        <h3>Quests</h3>
+        <div id="quest-columns" class="quest-columns">
+          <!-- Will be populated by JavaScript -->
+        </div>
+      </div>
+
+      <!-- Skills Tab Content -->
+      <div class="modal-tab-content" id="tab-skills">
+        <h3>Skills</h3>
+        <div id="skills-grid" class="skills-grid">
+          <!-- Populated dynamically with rows of 5 skill tiles -->
+        </div>
+      </div>
+
+      <!-- Spells Tab Content -->
+      <div class="modal-tab-content" id="tab-spells">
+        <h3>Spells</h3>
+        <div id="spells-grid" class="spells-grid">
+          <!-- Populated dynamically with rows of 5 spell tiles -->
+        </div>
+      </div>
+
+  </div>
+</div>
+
+  <div id="item-tooltip"></div>  
+  <script src="app.js?v=0.0.1"></script>
+</body>
+</html>

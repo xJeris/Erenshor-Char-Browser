@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Spells>
+  <Spell>
+    <id>20309875</id>
+    <name>Hydrated</name>
+    <image>20309875.png</image>
+  </Spell>
+  <Spell>
+    <id>62662014</id>
+    <name>Marsh Rot</name>
+    <image>62662014.png</image>
+  </Spell>
+  <Spell>
+    <id>15855356</id>
+    <name>Minor Protection</name>
+    <image>15855356.png</image>
+  </Spell>
+  <Spell>
+    <id>1735287</id>
+    <name>Nourished</name>
+    <image>1735287.png</image>
+  </Spell>
+  <Spell>
+    <id>29490660</id>
+    <name>Protection</name>
+    <image>29490660.png</image>
+  </Spell>
+  <Spell>
+    <id>7328452</id>
+    <name>Spiced Fury</name>
+    <image>7328452.png</image>
+  </Spell>
+  <Spell>
+    <id>51152210</id>
+    <name>Aetherstorm</name>
+    <image>51152210.png</image>
+  </Spell>
+  <Spell>
+    <id>81596368</id>
+    <name>Brax&apos;s Fury</name>
+    <image>81596368.png</image>
+  </Spell>
+  <Spell>
+    <id>6047104</id>
+    <name>Brax&apos;s Rage</name>
+    <image>6047104.png</image>
+  </Spell>
+  <Spell>
+    <id>34664684</id>
+    <name>Brax&apos;s Touch</name>
+    <image>34664684.png</image>
+  </Spell>
+  <Spell>
+    <id>10108096</id>
+    <name>Burning Chains</name>
+    <image>10108096.png</image>
+  </Spell>
+  <Spell>
+    <id>4865624</id>
+    <name>Call of the Void</name>
+    <image>4865624.png</image>
+  </Spell>
+  <Spell>
+    <id>6669884</id>
+    <name>Coma</name>
+    <image>6669884.png</image>
+  </Spell>
+  <Spell>
+    <id>28902287</id>
+    <name>Dazzle</name>
+    <image>28902287.png</image>
+  </Spell>
+  <Spell>
+    <id>6641664</id>
+    <name>Dimensional Rift</name>
+    <image>6641664.png</image>
+  </Spell>
+  <Spell>
+    <id>441842</id>
+    <name>Ethereal Rending</name>
+    <image>441842.png</image>
+  </Spell>
+  <Spell>
+    <id>51559354</id>
+    <name>Focus</name>
+    <image>51559354.png</image>
+  </Spell>
+  <Spell>
+    <id>7281576</id>
+    <name>Hardened Skin</name>
+    <image>7281576.png</image>
+  </Spell>
+  <Spell>
+    <id>13758096</id>
+    <name>Ice Bolt</name>
+    <image>13758096.png</image>
+  </Spell>
+  <Spell>
+    <id>4343577</id>
+    <name>Ice Spear</name>
+    <image>4343577.png</image>
+  </Spell>
+  <Spell>
+    <id>8513952</id>
+    <name>Immolation</name>
+    <image>8513952.png</image>
+  </Spell>
+  <Spell>
+    <id>59622570</id>
+    <name>Infernis</name>
+    <image>59622570.png</image>
+  </Spell>
+  <Spell>
+    <id>23358166</id>
+    <name>Intruisive Ideas</name>
+    <image>23358166.png</image>
+  </Spell>
+  <Spell>
+    <id>40924576</id>
+    <name>Invasive Thoughts</name>
+    <image>40924576.png</image>
+  </Spell>
+  <Spell>
+    <id>10644536</id>
+    <name>Lingering Inferno</name>
+    <image>10644536.png</image>
+  </Spell>
+  <Spell>
+    <id>9867251</id>
+    <name>Magical Skin</name>
+    <image>9867251.png</image>
+  </Spell>
+  <Spell>
+    <id>5379426</id>
+    <name>Magical Skin II</name>
+    <image>5379426.png</image>
+  </Spell>
+  <Spell>
+    <id>49947232</id>
+    <name>Mana Charge</name>
+    <image>49947232.png</image>
+  </Spell>
+  <Spell>
+    <id>2933490</id>
+    <name>Mana Burst</name>
+    <image>2933490.png</image>
+  </Spell>
+  <Spell>
+    <id>27383139</id>
+    <name>Mana Call</name>
+    <image>27383139.png</image>
+  </Spell>
+  <Spell>
+    <id>4140192</id>
+    <name>Mana Flood</name>
+    <image>4140192.png</image>
+  </Spell>
+  <Spell>
+    <id>49559349</id>
+    <name>Portal to Azure</name>
+    <image>49559349.png</image>
+  </Spell>
+  <Spell>
+    <id>35274215</id>
+    <name>Portal to Braxonian</name>
+    <image>35274215.png</image>
+  </Spell>
+  <Spell>
+    <id>41946378</id>
+    <name>Portal to Ripper&apos;s Keep</name>
+    <image>41946378.png</image>
+  </Spell>
+  <Spell>
+    <id>67937287</id>
+    <name>Portal to Silkengrass</name>
+    <image>67937287.png</image>
+  </Spell>
+  <Spell>
+    <id>84577108</id>
+    <name>Portal to Soluna&apos;s Landing</name>
+    <image>84577108.png</image>
+  </Spell>
+  <Spell>
+    <id>41721290</id>
+    <name>Funeral Pyre</name>
+    <image>41721290.png</image>
+  </Spell>
+  <Spell>
+    <id>13136640</id>
+    <name>Returning Wish</name>
+    <image>13136640.png</image>
+  </Spell>
+  <Spell>
+    <id>61166248</id>
+    <name>Sleep</name>
+    <image>61166248.png</image>
+  </Spell>
+  <Spell>
+    <id>27722772</id>
+    <name>Sunburst</name>
+    <image>27722772.png</image>
+  </Spell>
+  <Spell>
+    <id>48295394</id>
+    <name>Tenebris</name>
+    <image>48295394.png</image>
+  </Spell>
+  <Spell>
+    <id>39532889</id>
+    <name>Twisting MInd</name>
+    <image>39532889.png</image>
+  </Spell>
+  <Spell>
+    <id>63468487</id>
+    <name>Winter&apos;s Bite</name>
+    <image>63468487.png</image>
+  </Spell>
+  <Spell>
+    <id>6827460</id>
+    <name>Aura: Ancient Presence</name>
+    <image>6827460.png</image>
+  </Spell>
+  <Spell>
+    <id>4887963</id>
+    <name>Aura: Presence of Azynthi</name>
+    <image>4887963.png</image>
+  </Spell>
+  <Spell>
+    <id>29302546</id>
+    <name>Aura: Presence of Brax I</name>
+    <image>29302546.png</image>
+  </Spell>
+  <Spell>
+    <id>20833458</id>
+    <name>Aura: Presence of Brax II</name>
+    <image>20833458.png</image>
+  </Spell>
+  <Spell>
+    <id>9382716</id>
+    <name>Aura: Presence of Brax III</name>
+    <image>9382716.png</image>
+  </Spell>
+  <Spell>
+    <id>1190816</id>
+    <name>Aura: Presence of Brax IV</name>
+    <image>1190816.png</image>
+  </Spell>
+  <Spell>
+    <id>8447686</id>
+    <name>Aura: Presence of Brax V</name>
+    <image>8447686.png</image>
+  </Spell>
+  <Spell>
+    <id>375410</id>
+    <name>Aura: Corruption of Sivakaya</name>
+    <image>375410.png</image>
+  </Spell>
+  <Spell>
+    <id>3243500</id>
+    <name>Aura: Presence of Fernalla I</name>
+    <image>3243500.png</image>
+  </Spell>
+  <Spell>
+    <id>21362162</id>
+    <name>Aura: Presence of Fernalla II</name>
+    <image>21362162.png</image>
+  </Spell>
+  <Spell>
+    <id>27578964</id>
+    <name>Aura: Presence of Fernalla III</name>
+    <image>27578964.png</image>
+  </Spell>
+  <Spell>
+    <id>31722589</id>
+    <name>Aura: Presence of Fernalla IV</name>
+    <image>31722589.png</image>
+  </Spell>
+  <Spell>
+    <id>55007322</id>
+    <name>Hallows</name>
+    <image>55007322.png</image>
+  </Spell>
+  <Spell>
+    <id>53516175</id>
+    <name>Aura: Mosquito Spirit</name>
+    <image>53516175.png</image>
+  </Spell>
+  <Spell>
+    <id>12319460</id>
+    <name>Aura: The Prism</name>
+    <image>12319460.png</image>
+  </Spell>
+  <Spell>
+    <id>6014260</id>
+    <name>Resonance</name>
+    <image>6014260.png</image>
+  </Spell>
+  <Spell>
+    <id>76211272</id>
+    <name>Aura: Presence of Soluna I</name>
+    <image>76211272.png</image>
+  </Spell>
+  <Spell>
+    <id>80328040</id>
+    <name>Aura: Presence of Soluna II</name>
+    <image>80328040.png</image>
+  </Spell>
+  <Spell>
+    <id>10674990</id>
+    <name>Aura: Presence of Soluna III</name>
+    <image>10674990.png</image>
+  </Spell>
+  <Spell>
+    <id>3420731</id>
+    <name>Aura: Presence of Soluna IV</name>
+    <image>3420731.png</image>
+  </Spell>
+  <Spell>
+    <id>31521292</id>
+    <name>Aura: Spirit of the Flame Steed</name>
+    <image>31521292.png</image>
+  </Spell>
+  <Spell>
+    <id>2453698</id>
+    <name>Aura: Blessing of Stone</name>
+    <image>2453698.png</image>
+  </Spell>
+  <Spell>
+    <id>26299728</id>
+    <name>Aura: Presence of Vitheo I</name>
+    <image>26299728.png</image>
+  </Spell>
+  <Spell>
+    <id>245616</id>
+    <name>Aura: Presence of Vitheo II</name>
+    <image>245616.png</image>
+  </Spell>
+  <Spell>
+    <id>6872576</id>
+    <name>Aura: Presence of Vitheo III</name>
+    <image>6872576.png</image>
+  </Spell>
+  <Spell>
+    <id>10367574</id>
+    <name>Aura: Presence of Vitheo IV</name>
+    <image>10367574.png</image>
+  </Spell>
+  <Spell>
+    <id>61555545</id>
+    <name>Aura: Wisp&apos;s Presence</name>
+    <image>61555545.png</image>
+  </Spell>
+  <Spell>
+    <id>11532540</id>
+    <name>Death&apos;s Embrace (Caster)</name>
+    <image>11532540.png</image>
+  </Spell>
+  <Spell>
+    <id>34693164</id>
+    <name>Death&apos;s Embrace II (Caster)</name>
+    <image>34693164.png</image>
+  </Spell>
+  <Spell>
+    <id>31103868</id>
+    <name>Gift of Vitae</name>
+    <image>31103868.png</image>
+  </Spell>
+  <Spell>
+    <id>8660964</id>
+    <name>Annihilate</name>
+    <image>8660964.png</image>
+  </Spell>
+  <Spell>
+    <id>41995980</id>
+    <name>Arterial Decay</name>
+    <image>41995980.png</image>
+  </Spell>
+  <Spell>
+    <id>2207876</id>
+    <name>Biting Vines</name>
+    <image>2207876.png</image>
+  </Spell>
+  <Spell>
+    <id>49478191</id>
+    <name>Blast of Thorns</name>
+    <image>49478191.png</image>
+  </Spell>
+  <Spell>
+    <id>29935488</id>
+    <name>Cull the Unfit</name>
+    <image>29935488.png</image>
+  </Spell>
+  <Spell>
+    <id>4847296</id>
+    <name>Devour</name>
+    <image>4847296.png</image>
+  </Spell>
+  <Spell>
+    <id>1776360</id>
+    <name>Dissipate Storm</name>
+    <image>1776360.png</image>
+  </Spell>
+  <Spell>
+    <id>66845678</id>
+    <name>Extinction Bloom</name>
+    <image>66845678.png</image>
+  </Spell>
+  <Spell>
+    <id>108204</id>
+    <name>Flight of Foot</name>
+    <image>108204.png</image>
+  </Spell>
+  <Spell>
+    <id>7382601</id>
+    <name>Flight of Foot 2</name>
+    <image>7382601.png</image>
+  </Spell>
+  <Spell>
+    <id>9592596</id>
+    <name>Forest&apos;s Reckoning</name>
+    <image>9592596.png</image>
+  </Spell>
+  <Spell>
+    <id>61800508</id>
+    <name>Greater Regrowth</name>
+    <image>61800508.png</image>
+  </Spell>
+  <Spell>
+    <id>3032400</id>
+    <name>Greater Regrowth</name>
+    <image>3032400.png</image>
+  </Spell>
+  <Spell>
+    <id>10384062</id>
+    <name>Group Heal</name>
+    <image>10384062.png</image>
+  </Spell>
+  <Spell>
+    <id>1008170</id>
+    <name>Group Revitalize</name>
+    <image>1008170.png</image>
+  </Spell>
+  <Spell>
+    <id>42586336</id>
+    <name>Healing Bloom</name>
+    <image>42586336.png</image>
+  </Spell>
+  <Spell>
+    <id>12168345</id>
+    <name>Healing Bloom</name>
+    <image>12168345.png</image>
+  </Spell>
+  <Spell>
+    <id>1519210</id>
+    <name>Internal Rot</name>
+    <image>1519210.png</image>
+  </Spell>
+  <Spell>
+    <id>5279617</id>
+    <name>Invoke Storm</name>
+    <image>5279617.png</image>
+  </Spell>
+  <Spell>
+    <id>70564542</id>
+    <name>Major Group Heal</name>
+    <image>70564542.png</image>
+  </Spell>
+  <Spell>
+    <id>24045294</id>
+    <name>Major Lightning</name>
+    <image>24045294.png</image>
+  </Spell>
+  <Spell>
+    <id>18271806</id>
+    <name>Melting Bones</name>
+    <image>18271806.png</image>
+  </Spell>
+  <Spell>
+    <id>81868324</id>
+    <name>Minor Lightning</name>
+    <image>81868324.png</image>
+  </Spell>
+  <Spell>
+    <id>14066106</id>
+    <name>Morbidity&apos;s Grasp</name>
+    <image>14066106.png</image>
+  </Spell>
+  <Spell>
+    <id>5080986</id>
+    <name>Predator&apos;s Grace</name>
+    <image>5080986.png</image>
+  </Spell>
+  <Spell>
+    <id>9265597</id>
+    <name>Regrowth</name>
+    <image>9265597.png</image>
+  </Spell>
+  <Spell>
+    <id>7779982</id>
+    <name>Regrowth</name>
+    <image>7779982.png</image>
+  </Spell>
+  <Spell>
+    <id>10488989</id>
+    <name>Soul Tap</name>
+    <image>10488989.png</image>
+  </Spell>
+  <Spell>
+    <id>17010584</id>
+    <name>Spirit of the Flock</name>
+    <image>17010584.png</image>
+  </Spell>
+  <Spell>
+    <id>8413550</id>
+    <name>Summon Brute</name>
+    <image>8413550.png</image>
+  </Spell>
+  <Spell>
+    <id>11510184</id>
+    <name>Summon Cursed Fawn</name>
+    <image>11510184.png</image>
+  </Spell>
+  <Spell>
+    <id>3393636</id>
+    <name>Summon: Decayed Fawn</name>
+    <image>3393636.png</image>
+  </Spell>
+  <Spell>
+    <id>18272240</id>
+    <name>SummonDire Wolf</name>
+    <image>18272240.png</image>
+  </Spell>
+  <Spell>
+    <id>12752526</id>
+    <name>Summon Forest Spirit</name>
+    <image>12752526.png</image>
+  </Spell>
+  <Spell>
+    <id>33557878</id>
+    <name>Summon Wretched Fawn</name>
+    <image>33557878.png</image>
+  </Spell>
+  <Spell>
+    <id>21999831</id>
+    <name>Tangle</name>
+    <image>21999831.png</image>
+  </Spell>
+  <Spell>
+    <id>38914191</id>
+    <name>The Wild&apos;s Fang</name>
+    <image>38914191.png</image>
+  </Spell>
+  <Spell>
+    <id>5998729</id>
+    <name>Theft of Life</name>
+    <image>5998729.png</image>
+  </Spell>
+  <Spell>
+    <id>1802112</id>
+    <name>Toxicity</name>
+    <image>1802112.png</image>
+  </Spell>
+  <Spell>
+    <id>4259300</id>
+    <name>Weak Poison</name>
+    <image>4259300.png</image>
+  </Spell>
+  <Spell>
+    <id>16834290</id>
+    <name>Concuss</name>
+    <image>16834290.png</image>
+  </Spell>
+  <Spell>
+    <id>27880688</id>
+    <name>Jolt</name>
+    <image>27880688.png</image>
+  </Spell>
+  <Spell>
+    <id>27243775</id>
+    <name>Magic Bolt</name>
+    <image>27243775.png</image>
+  </Spell>
+  <Spell>
+    <id>63831558</id>
+    <name>Void Touch</name>
+    <image>63831558.png</image>
+  </Spell>
+  <Spell>
+    <id>11784192</id>
+    <name>Minor Regeneration</name>
+    <image>11784192.png</image>
+  </Spell>
+  <Spell>
+    <id>3449688</id>
+    <name>Regeneration</name>
+    <image>3449688.png</image>
+  </Spell>
+  <Spell>
+    <id>29107089</id>
+    <name>Healing</name>
+    <image>29107089.png</image>
+  </Spell>
+  <Spell>
+    <id>12078592</id>
+    <name>Major Healing</name>
+    <image>12078592.png</image>
+  </Spell>
+  <Spell>
+    <id>15096861</id>
+    <name>Minor Healing</name>
+    <image>15096861.png</image>
+  </Spell>
+  <Spell>
+    <id>48636496</id>
+    <name>Supreme Healing</name>
+    <image>48636496.png</image>
+  </Spell>
+  <Spell>
+    <id>14406675</id>
+    <name>Antidote</name>
+    <image>14406675.png</image>
+  </Spell>
+  <Spell>
+    <id>15725000</id>
+    <name>Death&apos;s Embrace</name>
+    <image>15725000.png</image>
+  </Spell>
+  <Spell>
+    <id>9103236</id>
+    <name>Death&apos;s Embrace II</name>
+    <image>9103236.png</image>
+  </Spell>
+  <Spell>
+    <id>2503512</id>
+    <name>Expose Weakness</name>
+    <image>2503512.png</image>
+  </Spell>
+  <Spell>
+    <id>57714566</id>
+    <name>Nightstalker&apos;s Finesse</name>
+    <image>57714566.png</image>
+  </Spell>
+  <Spell>
+    <id>18174920</id>
+    <name>Pride</name>
+    <image>18174920.png</image>
+  </Spell>
+  <Spell>
+    <id>11650080</id>
+    <name>Dooming Undertow</name>
+    <image>11650080.png</image>
+  </Spell>
+  <Spell>
+    <id>608685</id>
+    <name>Ocean&apos;s Lull</name>
+    <image>608685.png</image>
+  </Spell>
+  <Spell>
+    <id>7550883</id>
+    <name>Weight of the Sea</name>
+    <image>7550883.png</image>
+  </Spell>
+  <Spell>
+    <id>1292200</id>
+    <name>Vampiric Touch</name>
+    <image>1292200.png</image>
+  </Spell>
+  <Spell>
+    <id>36581596</id>
+    <name>Vithean Breeze</name>
+    <image>36581596.png</image>
+  </Spell>
+  <Spell>
+    <id>17504846</id>
+    <name>Vithean Frenzy</name>
+    <image>17504846.png</image>
+  </Spell>
+  <Spell>
+    <id>40669695</id>
+    <name>Vithean Gale</name>
+    <image>40669695.png</image>
+  </Spell>
+  <Spell>
+    <id>18285300</id>
+    <name>Vithean Revenge</name>
+    <image>18285300.png</image>
+  </Spell>
+  <Spell>
+    <id>13295100</id>
+    <name>Vithean Wind</name>
+    <image>13295100.png</image>
+  </Spell>
+  <Spell>
+    <id>68325939</id>
+    <name>Vitheo&apos;s Blessing of the Sea</name>
+    <image>68325939.png</image>
+  </Spell>
+  <Spell>
+    <id>1605207</id>
+    <name>Vitheo&apos;s Blessing of the Wind</name>
+    <image>1605207.png</image>
+  </Spell>
+  <Spell>
+    <id>9692298</id>
+    <name>Stun</name>
+    <image>9692298.png</image>
+  </Spell>
+  <Spell>
+    <id>30824901</id>
+    <name>Stun</name>
+    <image>30824901.png</image>
+  </Spell>
+  <Spell>
+    <id>5453665</id>
+    <name>Summon Fallen Skeleton</name>
+    <image>5453665.png</image>
+  </Spell>
+  <Spell>
+    <id>20964600</id>
+    <name>Summon Warhound</name>
+    <image>20964600.png</image>
+  </Spell>
+  <Spell>
+    <id>13802402</id>
+    <name>Ancient Rending</name>
+    <image>13802402.png</image>
+  </Spell>
+  <Spell>
+    <id>6829194</id>
+    <name>Beast&apos;s Clutch</name>
+    <image>6829194.png</image>
+  </Spell>
+  <Spell>
+    <id>48091315</id>
+    <name>Enlightened Path I</name>
+    <image>48091315.png</image>
+  </Spell>
+  <Spell>
+    <id>45942378</id>
+    <name>Enlightened Path II</name>
+    <image>45942378.png</image>
+  </Spell>
+  <Spell>
+    <id>13189590</id>
+    <name>Enlightened Path III</name>
+    <image>13189590.png</image>
+  </Spell>
+  <Spell>
+    <id>35843310</id>
+    <name>Enlightened Path IV</name>
+    <image>35843310.png</image>
+  </Spell>
+  <Spell>
+    <id>76077019</id>
+    <name>Blight</name>
+    <image>76077019.png</image>
+  </Spell>
+  <Spell>
+    <id>6788096</id>
+    <name>Blight Shock</name>
+    <image>6788096.png</image>
+  </Spell>
+  <Spell>
+    <id>10594621</id>
+    <name>Cave Lung</name>
+    <image>10594621.png</image>
+  </Spell>
+  <Spell>
+    <id>45807425</id>
+    <name>Contagious Rage</name>
+    <image>45807425.png</image>
+  </Spell>
+  <Spell>
+    <id>3690830</id>
+    <name>Dark Haste</name>
+    <image>3690830.png</image>
+  </Spell>
+  <Spell>
+    <id>22482254</id>
+    <name>Death Stare</name>
+    <image>22482254.png</image>
+  </Spell>
+  <Spell>
+    <id>10938425</id>
+    <name>Diamond Burst</name>
+    <image>10938425.png</image>
+  </Spell>
+  <Spell>
+    <id>18068040</id>
+    <name>Embrace of Shadow</name>
+    <image>18068040.png</image>
+  </Spell>
+  <Spell>
+    <id>4323587</id>
+    <name>Flow</name>
+    <image>4323587.png</image>
+  </Spell>
+  <Spell>
+    <id>2398000</id>
+    <name>Focus Pain</name>
+    <image>2398000.png</image>
+  </Spell>
+  <Spell>
+    <id>6359294</id>
+    <name>Gift of Rot</name>
+    <image>6359294.png</image>
+  </Spell>
+  <Spell>
+    <id>35732955</id>
+    <name>Grip of Azynthi</name>
+    <image>35732955.png</image>
+  </Spell>
+  <Spell>
+    <id>337008</id>
+    <name>Grip of Grief</name>
+    <image>337008.png</image>
+  </Spell>
+  <Spell>
+    <id>6769156</id>
+    <name>Magma Coat</name>
+    <image>6769156.png</image>
+  </Spell>
+  <Spell>
+    <id>57673295</id>
+    <name>Mithril Shards</name>
+    <image>57673295.png</image>
+  </Spell>
+  <Spell>
+    <id>22519770</id>
+    <name>Offering Stone</name>
+    <image>22519770.png</image>
+  </Spell>
+  <Spell>
+    <id>38526250</id>
+    <name>Queen&apos;s Bite</name>
+    <image>38526250.png</image>
+  </Spell>
+  <Spell>
+    <id>47471450</id>
+    <name>Read Map</name>
+    <image>47471450.png</image>
+  </Spell>
+  <Spell>
+    <id>65359656</id>
+    <name>Ocean&apos;s Kiss</name>
+    <image>65359656.png</image>
+  </Spell>
+  <Spell>
+    <id>27967806</id>
+    <name>Sivakaya&apos;s Dismay</name>
+    <image>27967806.png</image>
+  </Spell>
+  <Spell>
+    <id>11671960</id>
+    <name>Sivakaya&apos;s Touch</name>
+    <image>11671960.png</image>
+  </Spell>
+  <Spell>
+    <id>26496000</id>
+    <name>Slime Flow</name>
+    <image>26496000.png</image>
+  </Spell>
+  <Spell>
+    <id>31633590</id>
+    <name>Smite</name>
+    <image>31633590.png</image>
+  </Spell>
+  <Spell>
+    <id>72616514</id>
+    <name>Stolen Vigor</name>
+    <image>72616514.png</image>
+  </Spell>
+  <Spell>
+    <id>9309339</id>
+    <name>Blessing of Brax</name>
+    <image>9309339.png</image>
+  </Spell>
+  <Spell>
+    <id>31392792</id>
+    <name>Pocket Rift</name>
+    <image>31392792.png</image>
+  </Spell>
+  <Spell>
+    <id>13866312</id>
+    <name>Summon Loyal Malaroth</name>
+    <image>13866312.png</image>
+  </Spell>
+  <Spell>
+    <id>18999990</id>
+    <name>Vampirism</name>
+    <image>18999990.png</image>
+  </Spell>
+  <Spell>
+    <id>8733214</id>
+    <name>Venom of the Asp</name>
+    <image>8733214.png</image>
+  </Spell>
+  <Spell>
+    <id>4588380</id>
+    <name>Windblessed</name>
+    <image>4588380.png</image>
+  </Spell>
+  <Spell>
+    <id>85802230</id>
+    <name>Moonburst</name>
+    <image>85802230.png</image>
+  </Spell>
+  <Spell>
+    <id>55019648</id>
+    <name>Moonburst</name>
+    <image>55019648.png</image>
+  </Spell>
+  <Spell>
+    <id>7820504</id>
+    <name>Quake</name>
+    <image>7820504.png</image>
+  </Spell>
+  <Spell>
+    <id>17035864</id>
+    <name>Thornwhip</name>
+    <image>17035864.png</image>
+  </Spell>
+  <Spell>
+    <id>5148390</id>
+    <name>Voidblast</name>
+    <image>5148390.png</image>
+  </Spell>
+  <Spell>
+    <id>30304566</id>
+    <name>Celestial Pull</name>
+    <image>30304566.png</image>
+  </Spell>
+  <Spell>
+    <id>11174852</id>
+    <name>Glare of Soluna</name>
+    <image>11174852.png</image>
+  </Spell>
+  <Spell>
+    <id>21629440</id>
+    <name>Glimpse of Truth</name>
+    <image>21629440.png</image>
+  </Spell>
+  <Spell>
+    <id>20478675</id>
+    <name>Impending Doom</name>
+    <image>20478675.png</image>
+  </Spell>
+  <Spell>
+    <id>5299099</id>
+    <name>Lunar Madness</name>
+    <image>5299099.png</image>
+  </Spell>
+  <Spell>
+    <id>9311575</id>
+    <name>Moonburst</name>
+    <image>9311575.png</image>
+  </Spell>
+  <Spell>
+    <id>40129320</id>
+    <name>Moonlit Frenzy</name>
+    <image>40129320.png</image>
+  </Spell>
+  <Spell>
+    <id>3818637</id>
+    <name>Theft of Vigor</name>
+    <image>3818637.png</image>
+  </Spell>
+  <Spell>
+    <id>28062972</id>
+    <name>Soluna&apos;s Solar Blessing</name>
+    <image>28062972.png</image>
+  </Spell>
+  <Spell>
+    <id>2596816</id>
+    <name>Soluna&apos;s Solar Invigoration</name>
+    <image>2596816.png</image>
+  </Spell>
+  <Spell>
+    <id>27767124</id>
+    <name>Soluna&apos;s Touch</name>
+    <image>27767124.png</image>
+  </Spell>
+  <Spell>
+    <id>11638242</id>
+    <name>Spectrum</name>
+    <image>11638242.png</image>
+  </Spell>
+  <Spell>
+    <id>37659720</id>
+    <name>Sunburst</name>
+    <image>37659720.png</image>
+  </Spell>
+</Spells>

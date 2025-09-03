@@ -1,0 +1,6411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <Item>
+    <id>30926520</id>
+    <Name>Age-Old Armlet</Name>
+    <Slot>Shoulders</Slot>
+    <Image>30926520.png</Image>
+  </Item>
+  <Item>
+    <id>18902350</id>
+    <Name>Ancient Guardian Sleeve</Name>
+    <Slot>Shoulders</Slot>
+    <Image>18902350.png</Image>
+  </Item>
+  <Item>
+    <id>44605773</id>
+    <Name>Armband of Generals</Name>
+    <Slot>Shoulders</Slot>
+    <Image>44605773.png</Image>
+  </Item>
+  <Item>
+    <id>66574848</id>
+    <Name>Armbands of Order</Name>
+    <Slot>Shoulders</Slot>
+    <Image>66574848.png</Image>
+  </Item>
+  <Item>
+    <id>17802920</id>
+    <Name>Azure Plate Vambraces</Name>
+    <Slot>Shoulders</Slot>
+    <Image>17802920.png</Image>
+  </Item>
+  <Item>
+    <id>50797600</id>
+    <Name>Aged Plate Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>50797600.png</Image>
+  </Item>
+  <Item>
+    <id>25471085</id>
+    <Name>Azynthian Armguards</Name>
+    <Slot>Shoulders</Slot>
+    <Image>25471085.png</Image>
+  </Item>
+  <Item>
+    <id>64470710</id>
+    <Name>Boatman&apos;s Armband</Name>
+    <Slot>Shoulders</Slot>
+    <Image>64470710.png</Image>
+  </Item>
+  <Item>
+    <id>62353340</id>
+    <Name>Bonebanded Armguard</Name>
+    <Slot>Shoulders</Slot>
+    <Image>62353340.png</Image>
+  </Item>
+  <Item>
+    <id>22174668</id>
+    <Name>Braxonian Leather Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>22174668.png</Image>
+  </Item>
+  <Item>
+    <id>20398309</id>
+    <Name>Braxonian Royal Armband</Name>
+    <Slot>Shoulders</Slot>
+    <Image>20398309.png</Image>
+  </Item>
+  <Item>
+    <id>37644705</id>
+    <Name>Braxonian Spaulders</Name>
+    <Slot>Shoulders</Slot>
+    <Image>37644705.png</Image>
+  </Item>
+  <Item>
+    <id>793355</id>
+    <Name>Charred Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>793355.png</Image>
+  </Item>
+  <Item>
+    <id>45252584</id>
+    <Name>Cloth Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>45252584.png</Image>
+  </Item>
+  <Item>
+    <id>33598848</id>
+    <Name>Crested Spaulders</Name>
+    <Slot>Shoulders</Slot>
+    <Image>33598848.png</Image>
+  </Item>
+  <Item>
+    <id>3073664</id>
+    <Name>Daggersilk Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>3073664.png</Image>
+  </Item>
+  <Item>
+    <id>5557329</id>
+    <Name>Desert Silk Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>5557329.png</Image>
+  </Item>
+  <Item>
+    <id>30698425</id>
+    <Name>Dreamy Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>30698425.png</Image>
+  </Item>
+  <Item>
+    <id>10084987</id>
+    <Name>Dueling Armguards</Name>
+    <Slot>Shoulders</Slot>
+    <Image>10084987.png</Image>
+  </Item>
+  <Item>
+    <id>63129488</id>
+    <Name>Etched Armlet</Name>
+    <Slot>Shoulders</Slot>
+    <Image>63129488.png</Image>
+  </Item>
+  <Item>
+    <id>26496485</id>
+    <Name>Exoskeletal Spaulders</Name>
+    <Slot>Shoulders</Slot>
+    <Image>26496485.png</Image>
+  </Item>
+  <Item>
+    <id>1564488</id>
+    <Name>Faerie Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>1564488.png</Image>
+  </Item>
+  <Item>
+    <id>26883720</id>
+    <Name>Feathery Vambraces</Name>
+    <Slot>Shoulders</Slot>
+    <Image>26883720.png</Image>
+  </Item>
+  <Item>
+    <id>45089611</id>
+    <Name>Intricate Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>45089611.png</Image>
+  </Item>
+  <Item>
+    <id>12681216</id>
+    <Name>Flaming Vambraces</Name>
+    <Slot>Shoulders</Slot>
+    <Image>12681216.png</Image>
+  </Item>
+  <Item>
+    <id>706180</id>
+    <Name>Fungus Covered Armband</Name>
+    <Slot>Shoulders</Slot>
+    <Image>706180.png</Image>
+  </Item>
+  <Item>
+    <id>9671598</id>
+    <Name>Gifted Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>9671598.png</Image>
+  </Item>
+  <Item>
+    <id>11536560</id>
+    <Name>Islander Bandit Armwrap</Name>
+    <Slot>Shoulders</Slot>
+    <Image>11536560.png</Image>
+  </Item>
+  <Item>
+    <id>64969614</id>
+    <Name>Polished Steel Armguards</Name>
+    <Slot>Shoulders</Slot>
+    <Image>64969614.png</Image>
+  </Item>
+  <Item>
+    <id>20503860</id>
+    <Name>Priel Steel Armguards</Name>
+    <Slot>Shoulders</Slot>
+    <Image>20503860.png</Image>
+  </Item>
+  <Item>
+    <id>2228194</id>
+    <Name>Shivering Leather Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>2228194.png</Image>
+  </Item>
+  <Item>
+    <id>19929118</id>
+    <Name>Solunian Armguard</Name>
+    <Slot>Shoulders</Slot>
+    <Image>19929118.png</Image>
+  </Item>
+  <Item>
+    <id>566610</id>
+    <Name>Tattered Leather Sleeves</Name>
+    <Slot>Shoulders</Slot>
+    <Image>566610.png</Image>
+  </Item>
+  <Item>
+    <id>19288112</id>
+    <Name>Vaporous Armguard</Name>
+    <Slot>Shoulders</Slot>
+    <Image>19288112.png</Image>
+  </Item>
+  <Item>
+    <id>29158740</id>
+    <Name>Vinewrapped Vambracers</Name>
+    <Slot>Shoulders</Slot>
+    <Image>29158740.png</Image>
+  </Item>
+  <Item>
+    <id>28466850</id>
+    <Name>Aged Prism</Name>
+    <Slot>Aura</Slot>
+    <Image>28466850.png</Image>
+  </Item>
+  <Item>
+    <id>19187667</id>
+    <Name>Ancient Presence</Name>
+    <Slot>Aura</Slot>
+    <Image>19187667.png</Image>
+  </Item>
+  <Item>
+    <id>61898360</id>
+    <Name>Gift of Azynthi</Name>
+    <Slot>Aura</Slot>
+    <Image>61898360.png</Image>
+  </Item>
+  <Item>
+    <id>3959225</id>
+    <Name>Spark of Light</Name>
+    <Slot>Aura</Slot>
+    <Image>3959225.png</Image>
+  </Item>
+  <Item>
+    <id>11962521</id>
+    <Name>Essence of Flame</Name>
+    <Slot>Aura</Slot>
+    <Image>11962521.png</Image>
+  </Item>
+  <Item>
+    <id>21078534</id>
+    <Name>Glow of Eternity</Name>
+    <Slot>Aura</Slot>
+    <Image>21078534.png</Image>
+  </Item>
+  <Item>
+    <id>89844</id>
+    <Name>Flame of the Redemption</Name>
+    <Slot>Aura</Slot>
+    <Image>89844.png</Image>
+  </Item>
+  <Item>
+    <id>20528304</id>
+    <Name>Pyre of the Cleansed</Name>
+    <Slot>Aura</Slot>
+    <Image>20528304.png</Image>
+  </Item>
+  <Item>
+    <id>1951720</id>
+    <Name>Corruption of Sivakaya</Name>
+    <Slot>Aura</Slot>
+    <Image>1951720.png</Image>
+  </Item>
+  <Item>
+    <id>41640120</id>
+    <Name>Sprout</Name>
+    <Slot>Aura</Slot>
+    <Image>41640120.png</Image>
+  </Item>
+  <Item>
+    <id>8727525</id>
+    <Name>Bloom</Name>
+    <Slot>Aura</Slot>
+    <Image>8727525.png</Image>
+  </Item>
+  <Item>
+    <id>1455255</id>
+    <Name>Wilt</Name>
+    <Slot>Aura</Slot>
+    <Image>1455255.png</Image>
+  </Item>
+  <Item>
+    <id>56092104</id>
+    <Name>Decay</Name>
+    <Slot>Aura</Slot>
+    <Image>56092104.png</Image>
+  </Item>
+  <Item>
+    <id>54926832</id>
+    <Name>Gem of Echoes</Name>
+    <Slot>Aura</Slot>
+    <Image>54926832.png</Image>
+  </Item>
+  <Item>
+    <id>3422628</id>
+    <Name>Hallows Eve</Name>
+    <Slot>Aura</Slot>
+    <Image>3422628.png</Image>
+  </Item>
+  <Item>
+    <id>19957157</id>
+    <Name>Chunk of Living Stone</Name>
+    <Slot>Aura</Slot>
+    <Image>19957157.png</Image>
+  </Item>
+  <Item>
+    <id>35810640</id>
+    <Name>Amber&apos;s Gift</Name>
+    <Slot>Aura</Slot>
+    <Image>35810640.png</Image>
+  </Item>
+  <Item>
+    <id>36213445</id>
+    <Name>Dawn&apos;s Light</Name>
+    <Slot>Aura</Slot>
+    <Image>36213445.png</Image>
+  </Item>
+  <Item>
+    <id>5747071</id>
+    <Name>Morning Glow</Name>
+    <Slot>Aura</Slot>
+    <Image>5747071.png</Image>
+  </Item>
+  <Item>
+    <id>8485362</id>
+    <Name>Rising Moon</Name>
+    <Slot>Aura</Slot>
+    <Image>8485362.png</Image>
+  </Item>
+  <Item>
+    <id>359744</id>
+    <Name>Eclipse</Name>
+    <Slot>Aura</Slot>
+    <Image>359744.png</Image>
+  </Item>
+  <Item>
+    <id>22791186</id>
+    <Name>Spirit of the Steed</Name>
+    <Slot>Aura</Slot>
+    <Image>22791186.png</Image>
+  </Item>
+  <Item>
+    <id>67346600</id>
+    <Name>Scent of the Sea</Name>
+    <Slot>Aura</Slot>
+    <Image>67346600.png</Image>
+  </Item>
+  <Item>
+    <id>2308504</id>
+    <Name>Force of the Sea</Name>
+    <Slot>Aura</Slot>
+    <Image>2308504.png</Image>
+  </Item>
+  <Item>
+    <id>37690588</id>
+    <Name>Freedom of the Sky</Name>
+    <Slot>Aura</Slot>
+    <Image>37690588.png</Image>
+  </Item>
+  <Item>
+    <id>4388800</id>
+    <Name>Whispers of Wind</Name>
+    <Slot>Aura</Slot>
+    <Image>4388800.png</Image>
+  </Item>
+  <Item>
+    <id>1709849</id>
+    <Name>Wisp&apos;s Presence</Name>
+    <Slot>Aura</Slot>
+    <Image>1709849.png</Image>
+  </Item>
+  <Item>
+    <id>5600495</id>
+    <Name>Abyssal Shell</Name>
+    <Slot>Back</Slot>
+    <Image>5600495.png</Image>
+  </Item>
+  <Item>
+    <id>6357160</id>
+    <Name>Arboreal Cape</Name>
+    <Slot>Back</Slot>
+    <Image>6357160.png</Image>
+  </Item>
+  <Item>
+    <id>16835205</id>
+    <Name>Assassin&apos;s Bane</Name>
+    <Slot>Back</Slot>
+    <Image>16835205.png</Image>
+  </Item>
+  <Item>
+    <id>13444192</id>
+    <Name>Azynthian Cape</Name>
+    <Slot>Back</Slot>
+    <Image>13444192.png</Image>
+  </Item>
+  <Item>
+    <id>21753083</id>
+    <Name>Backplate</Name>
+    <Slot>Back</Slot>
+    <Image>21753083.png</Image>
+  </Item>
+  <Item>
+    <id>62853957</id>
+    <Name>Blue Leaf Cape</Name>
+    <Slot>Back</Slot>
+    <Image>62853957.png</Image>
+  </Item>
+  <Item>
+    <id>21835575</id>
+    <Name>Braxonian Cape</Name>
+    <Slot>Back</Slot>
+    <Image>21835575.png</Image>
+  </Item>
+  <Item>
+    <id>65179530</id>
+    <Name>Call To Arms</Name>
+    <Slot>Back</Slot>
+    <Image>65179530.png</Image>
+  </Item>
+  <Item>
+    <id>17861752</id>
+    <Name>Distinguished Cape</Name>
+    <Slot>Back</Slot>
+    <Image>17861752.png</Image>
+  </Item>
+  <Item>
+    <id>19111587</id>
+    <Name>Feathered Cape</Name>
+    <Slot>Back</Slot>
+    <Image>19111587.png</Image>
+  </Item>
+  <Item>
+    <id>43699722</id>
+    <Name>Flowing Cloak</Name>
+    <Slot>Back</Slot>
+    <Image>43699722.png</Image>
+  </Item>
+  <Item>
+    <id>23378232</id>
+    <Name>Fungal Scab Cape</Name>
+    <Slot>Back</Slot>
+    <Image>23378232.png</Image>
+  </Item>
+  <Item>
+    <id>1403061</id>
+    <Name>Gambler&apos;s Cape</Name>
+    <Slot>Back</Slot>
+    <Image>1403061.png</Image>
+  </Item>
+  <Item>
+    <id>3470182</id>
+    <Name>Honor Strip</Name>
+    <Slot>Back</Slot>
+    <Image>3470182.png</Image>
+  </Item>
+  <Item>
+    <id>55938840</id>
+    <Name>Layer Cape</Name>
+    <Slot>Back</Slot>
+    <Image>55938840.png</Image>
+  </Item>
+  <Item>
+    <id>17016480</id>
+    <Name>Lightkeeper&apos;s Cape</Name>
+    <Slot>Back</Slot>
+    <Image>17016480.png</Image>
+  </Item>
+  <Item>
+    <id>16443768</id>
+    <Name>Lost Cape</Name>
+    <Slot>Back</Slot>
+    <Image>16443768.png</Image>
+  </Item>
+  <Item>
+    <id>21920893</id>
+    <Name>Nightbane</Name>
+    <Slot>Back</Slot>
+    <Image>21920893.png</Image>
+  </Item>
+  <Item>
+    <id>34693357</id>
+    <Name>Night Wave</Name>
+    <Slot>Back</Slot>
+    <Image>34693357.png</Image>
+  </Item>
+  <Item>
+    <id>21871752</id>
+    <Name>Plaguewind</Name>
+    <Slot>Back</Slot>
+    <Image>21871752.png</Image>
+  </Item>
+  <Item>
+    <id>15726780</id>
+    <Name>Priel Standard</Name>
+    <Slot>Back</Slot>
+    <Image>15726780.png</Image>
+  </Item>
+  <Item>
+    <id>9633225</id>
+    <Name>Red Leaf Cape</Name>
+    <Slot>Back</Slot>
+    <Image>9633225.png</Image>
+  </Item>
+  <Item>
+    <id>6417264</id>
+    <Name>Ritual Cape</Name>
+    <Slot>Back</Slot>
+    <Image>6417264.png</Image>
+  </Item>
+  <Item>
+    <id>71767113</id>
+    <Name>Cape of the Sands</Name>
+    <Slot>Back</Slot>
+    <Image>71767113.png</Image>
+  </Item>
+  <Item>
+    <id>50746892</id>
+    <Name>Satin Cloak</Name>
+    <Slot>Back</Slot>
+    <Image>50746892.png</Image>
+  </Item>
+  <Item>
+    <id>22454212</id>
+    <Name>Seawashed Cloak</Name>
+    <Slot>Back</Slot>
+    <Image>22454212.png</Image>
+  </Item>
+  <Item>
+    <id>55612678</id>
+    <Name>Sivakayan Wings</Name>
+    <Slot>Back</Slot>
+    <Image>55612678.png</Image>
+  </Item>
+  <Item>
+    <id>6886446</id>
+    <Name>Tamer&apos;s Pack</Name>
+    <Slot>Back</Slot>
+    <Image>6886446.png</Image>
+  </Item>
+  <Item>
+    <id>12417860</id>
+    <Name>Old Torn Cape</Name>
+    <Slot>Back</Slot>
+    <Image>12417860.png</Image>
+  </Item>
+  <Item>
+    <id>43316376</id>
+    <Name>Wardwarped Cape</Name>
+    <Slot>Back</Slot>
+    <Image>43316376.png</Image>
+  </Item>
+  <Item>
+    <id>21525506</id>
+    <Name>Wingwoven Cape</Name>
+    <Slot>Back</Slot>
+    <Image>21525506.png</Image>
+  </Item>
+  <Item>
+    <id>62237496</id>
+    <Name>Beast Harness</Name>
+    <Slot>Waist</Slot>
+    <Image>62237496.png</Image>
+  </Item>
+  <Item>
+    <id>44394384</id>
+    <Name>Bonestudded Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>44394384.png</Image>
+  </Item>
+  <Item>
+    <id>169422</id>
+    <Name>Braided Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>169422.png</Image>
+  </Item>
+  <Item>
+    <id>75333375</id>
+    <Name>Braxonian Sash</Name>
+    <Slot>Waist</Slot>
+    <Image>75333375.png</Image>
+  </Item>
+  <Item>
+    <id>17808406</id>
+    <Name>Breezeworn Sash</Name>
+    <Slot>Waist</Slot>
+    <Image>17808406.png</Image>
+  </Item>
+  <Item>
+    <id>39940675</id>
+    <Name>Charmed Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>39940675.png</Image>
+  </Item>
+  <Item>
+    <id>21507563</id>
+    <Name>Coiling Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>21507563.png</Image>
+  </Item>
+  <Item>
+    <id>77417991</id>
+    <Name>Empath&apos;s Cord</Name>
+    <Slot>Waist</Slot>
+    <Image>77417991.png</Image>
+  </Item>
+  <Item>
+    <id>86742948</id>
+    <Name>Exalted Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>86742948.png</Image>
+  </Item>
+  <Item>
+    <id>44805380</id>
+    <Name>Famish</Name>
+    <Slot>Waist</Slot>
+    <Image>44805380.png</Image>
+  </Item>
+  <Item>
+    <id>26587955</id>
+    <Name>Flowing Blight Silk Sash</Name>
+    <Slot>Waist</Slot>
+    <Image>26587955.png</Image>
+  </Item>
+  <Item>
+    <id>23660833</id>
+    <Name>Gem Adorned Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>23660833.png</Image>
+  </Item>
+  <Item>
+    <id>16660796</id>
+    <Name>Granite Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>16660796.png</Image>
+  </Item>
+  <Item>
+    <id>71758611</id>
+    <Name>Gut Cord</Name>
+    <Slot>Waist</Slot>
+    <Image>71758611.png</Image>
+  </Item>
+  <Item>
+    <id>9402187</id>
+    <Name>Lost Girdle</Name>
+    <Slot>Waist</Slot>
+    <Image>9402187.png</Image>
+  </Item>
+  <Item>
+    <id>21261042</id>
+    <Name>Malaroth Sinew Cord</Name>
+    <Slot>Waist</Slot>
+    <Image>21261042.png</Image>
+  </Item>
+  <Item>
+    <id>0</id>
+    <Name>Metal Girdle</Name>
+    <Slot>Waist</Slot>
+    <Image>0.png</Image>
+  </Item>
+  <Item>
+    <id>31662015</id>
+    <Name>Molorai Utility Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>31662015.png</Image>
+  </Item>
+  <Item>
+    <id>1727100</id>
+    <Name>Ogreskin Cord</Name>
+    <Slot>Waist</Slot>
+    <Image>1727100.png</Image>
+  </Item>
+  <Item>
+    <id>49183856</id>
+    <Name>Prismatic Warcord</Name>
+    <Slot>Waist</Slot>
+    <Image>49183856.png</Image>
+  </Item>
+  <Item>
+    <id>21702931</id>
+    <Name>Reinforced Scale Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>21702931.png</Image>
+  </Item>
+  <Item>
+    <id>21653850</id>
+    <Name>Rottenfoot Sash</Name>
+    <Slot>Waist</Slot>
+    <Image>21653850.png</Image>
+  </Item>
+  <Item>
+    <id>63410245</id>
+    <Name>Royal Waistband</Name>
+    <Slot>Waist</Slot>
+    <Image>63410245.png</Image>
+  </Item>
+  <Item>
+    <id>7375686</id>
+    <Name>Sableheart&apos;s Harness</Name>
+    <Slot>Waist</Slot>
+    <Image>7375686.png</Image>
+  </Item>
+  <Item>
+    <id>5871712</id>
+    <Name>Sailor&apos;s Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>5871712.png</Image>
+  </Item>
+  <Item>
+    <id>2265408</id>
+    <Name>Sash of the Lost Guard</Name>
+    <Slot>Waist</Slot>
+    <Image>2265408.png</Image>
+  </Item>
+  <Item>
+    <id>63854622</id>
+    <Name>Spectral Silk Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>63854622.png</Image>
+  </Item>
+  <Item>
+    <id>17604724</id>
+    <Name>Stabilizing Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>17604724.png</Image>
+  </Item>
+  <Item>
+    <id>4890041</id>
+    <Name>Stalwart Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>4890041.png</Image>
+  </Item>
+  <Item>
+    <id>29590060</id>
+    <Name>Steadfast Girdle</Name>
+    <Slot>Waist</Slot>
+    <Image>29590060.png</Image>
+  </Item>
+  <Item>
+    <id>41401668</id>
+    <Name>Swampy Loincloth</Name>
+    <Slot>Waist</Slot>
+    <Image>41401668.png</Image>
+  </Item>
+  <Item>
+    <id>1893213</id>
+    <Name>Toxic Strap</Name>
+    <Slot>Waist</Slot>
+    <Image>1893213.png</Image>
+  </Item>
+  <Item>
+    <id>39606952</id>
+    <Name>Twilight Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>39606952.png</Image>
+  </Item>
+  <Item>
+    <id>10023760</id>
+    <Name>Worn Wolf Collar</Name>
+    <Slot>Neck</Slot>
+    <Image>10023760.png</Image>
+  </Item>
+  <Item>
+    <id>27352102</id>
+    <Name>Woven Stone Belt</Name>
+    <Slot>Waist</Slot>
+    <Image>27352102.png</Image>
+  </Item>
+  <Item>
+    <id>7781004</id>
+    <Name>A Treasure Hunter&apos;s Journal</Name>
+    <Slot>General</Slot>
+    <Image>7781004.png</Image>
+  </Item>
+  <Item>
+    <id>54238644</id>
+    <Name>The Fall of Rockshade Hold</Name>
+    <Slot>General</Slot>
+    <Image>54238644.png</Image>
+  </Item>
+  <Item>
+    <id>44924643</id>
+    <Name>Godless Amarion</Name>
+    <Slot>General</Slot>
+    <Image>44924643.png</Image>
+  </Item>
+  <Item>
+    <id>13041774</id>
+    <Name>Savannah&apos;s Musings</Name>
+    <Slot>General</Slot>
+    <Image>13041774.png</Image>
+  </Item>
+  <Item>
+    <id>2815503</id>
+    <Name>Strange Beasts of Erenshor</Name>
+    <Slot>General</Slot>
+    <Image>2815503.png</Image>
+  </Item>
+  <Item>
+    <id>66604356</id>
+    <Name>The Birth of Port Azure</Name>
+    <Slot>General</Slot>
+    <Image>66604356.png</Image>
+  </Item>
+  <Item>
+    <id>63241352</id>
+    <Name>Charm of Age</Name>
+    <Slot>Charm</Slot>
+    <Image>63241352.png</Image>
+  </Item>
+  <Item>
+    <id>29900783</id>
+    <Name>Charm of Brilliance</Name>
+    <Slot>Charm</Slot>
+    <Image>29900783.png</Image>
+  </Item>
+  <Item>
+    <id>30972869</id>
+    <Name>Charm of Compassion</Name>
+    <Slot>Charm</Slot>
+    <Image>30972869.png</Image>
+  </Item>
+  <Item>
+    <id>77431536</id>
+    <Name>Charm of Talent</Name>
+    <Slot>Charm</Slot>
+    <Image>77431536.png</Image>
+  </Item>
+  <Item>
+    <id>25176741</id>
+    <Name>Charm of Rage</Name>
+    <Slot>Charm</Slot>
+    <Image>25176741.png</Image>
+  </Item>
+  <Item>
+    <id>35790510</id>
+    <Name>Charm of the Stone</Name>
+    <Slot>Charm</Slot>
+    <Image>35790510.png</Image>
+  </Item>
+  <Item>
+    <id>2667993</id>
+    <Name>Charm of the Jester</Name>
+    <Slot>Charm</Slot>
+    <Image>2667993.png</Image>
+  </Item>
+  <Item>
+    <id>5508396</id>
+    <Name>Charm of the Shield</Name>
+    <Slot>Charm</Slot>
+    <Image>5508396.png</Image>
+  </Item>
+  <Item>
+    <id>32826333</id>
+    <Name>Charm of Vanity</Name>
+    <Slot>Charm</Slot>
+    <Image>32826333.png</Image>
+  </Item>
+  <Item>
+    <id>878864</id>
+    <Name>Flamestone</Name>
+    <Slot>Charm</Slot>
+    <Image>878864.png</Image>
+  </Item>
+  <Item>
+    <id>1650846</id>
+    <Name>Magibane Charm</Name>
+    <Slot>Charm</Slot>
+    <Image>1650846.png</Image>
+  </Item>
+  <Item>
+    <id>8981280</id>
+    <Name>Pupil&apos;s Pin</Name>
+    <Slot>Charm</Slot>
+    <Image>8981280.png</Image>
+  </Item>
+  <Item>
+    <id>28315339</id>
+    <Name>Spiderbane Charm</Name>
+    <Slot>Charm</Slot>
+    <Image>28315339.png</Image>
+  </Item>
+  <Item>
+    <id>3172824</id>
+    <Name>Voidstone Charm</Name>
+    <Slot>Charm</Slot>
+    <Image>3172824.png</Image>
+  </Item>
+  <Item>
+    <id>41209146</id>
+    <Name>Ancient Guardian Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>41209146.png</Image>
+  </Item>
+  <Item>
+    <id>25066803</id>
+    <Name>Ascendant&apos;s Embrace</Name>
+    <Slot>Torso</Slot>
+    <Image>25066803.png</Image>
+  </Item>
+  <Item>
+    <id>1384614</id>
+    <Name>Azure Plate Chestguard</Name>
+    <Slot>Torso</Slot>
+    <Image>1384614.png</Image>
+  </Item>
+  <Item>
+    <id>23928652</id>
+    <Name>Aged Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>23928652.png</Image>
+  </Item>
+  <Item>
+    <id>11987160</id>
+    <Name>Battleworn Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>11987160.png</Image>
+  </Item>
+  <Item>
+    <id>16797496</id>
+    <Name>Blightsteel Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>16797496.png</Image>
+  </Item>
+  <Item>
+    <id>11290725</id>
+    <Name>Bloodstained Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>11290725.png</Image>
+  </Item>
+  <Item>
+    <id>1611816</id>
+    <Name>Braxonian Leather Tunic</Name>
+    <Slot>Torso</Slot>
+    <Image>1611816.png</Image>
+  </Item>
+  <Item>
+    <id>7977505</id>
+    <Name>Braxonian Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>7977505.png</Image>
+  </Item>
+  <Item>
+    <id>53553930</id>
+    <Name>Braxonian Royal Tunic</Name>
+    <Slot>Torso</Slot>
+    <Image>53553930.png</Image>
+  </Item>
+  <Item>
+    <id>19249410</id>
+    <Name>Braxonian Wrap</Name>
+    <Slot>Torso</Slot>
+    <Image>19249410.png</Image>
+  </Item>
+  <Item>
+    <id>4135080</id>
+    <Name>Bronzed Solunian Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>4135080.png</Image>
+  </Item>
+  <Item>
+    <id>33944562</id>
+    <Name>Chitin Protector</Name>
+    <Slot>Torso</Slot>
+    <Image>33944562.png</Image>
+  </Item>
+  <Item>
+    <id>35954352</id>
+    <Name>Cloth Shirt</Name>
+    <Slot>Torso</Slot>
+    <Image>35954352.png</Image>
+  </Item>
+  <Item>
+    <id>3802866</id>
+    <Name>Cold Steel Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>3802866.png</Image>
+  </Item>
+  <Item>
+    <id>3172792</id>
+    <Name>Daggersilk Shirt</Name>
+    <Slot>Torso</Slot>
+    <Image>3172792.png</Image>
+  </Item>
+  <Item>
+    <id>1979120</id>
+    <Name>Drakescale Cuirass</Name>
+    <Slot>Torso</Slot>
+    <Image>1979120.png</Image>
+  </Item>
+  <Item>
+    <id>43380006</id>
+    <Name>Eldoth&apos;s Finery</Name>
+    <Slot>Torso</Slot>
+    <Image>43380006.png</Image>
+  </Item>
+  <Item>
+    <id>15595785</id>
+    <Name>Funeral Garb</Name>
+    <Slot>Torso</Slot>
+    <Image>15595785.png</Image>
+  </Item>
+  <Item>
+    <id>5146775</id>
+    <Name>Fungus Covered Tunic</Name>
+    <Slot>Torso</Slot>
+    <Image>5146775.png</Image>
+  </Item>
+  <Item>
+    <id>1345500</id>
+    <Name>Golden Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>1345500.png</Image>
+  </Item>
+  <Item>
+    <id>48389040</id>
+    <Name>Hardened Scale Jacket</Name>
+    <Slot>Torso</Slot>
+    <Image>48389040.png</Image>
+  </Item>
+  <Item>
+    <id>50851735</id>
+    <Name>Lichencoat</Name>
+    <Slot>Torso</Slot>
+    <Image>50851735.png</Image>
+  </Item>
+  <Item>
+    <id>16375130</id>
+    <Name>Light Plate Breastplate</Name>
+    <Slot>Torso</Slot>
+    <Image>16375130.png</Image>
+  </Item>
+  <Item>
+    <id>11871495</id>
+    <Name>Living Chainmail Jacket</Name>
+    <Slot>Torso</Slot>
+    <Image>11871495.png</Image>
+  </Item>
+  <Item>
+    <id>25056235</id>
+    <Name>Malaroth Scale Chestguard</Name>
+    <Slot>Torso</Slot>
+    <Image>25056235.png</Image>
+  </Item>
+  <Item>
+    <id>32447114</id>
+    <Name>Virophan Chestguard</Name>
+    <Slot>Torso</Slot>
+    <Image>32447114.png</Image>
+  </Item>
+  <Item>
+    <id>283385</id>
+    <Name>Molorai Battle Chain</Name>
+    <Slot>Torso</Slot>
+    <Image>283385.png</Image>
+  </Item>
+  <Item>
+    <id>49809480</id>
+    <Name>Muddy Jerkin</Name>
+    <Slot>Torso</Slot>
+    <Image>49809480.png</Image>
+  </Item>
+  <Item>
+    <id>7735263</id>
+    <Name>Plumage</Name>
+    <Slot>Torso</Slot>
+    <Image>7735263.png</Image>
+  </Item>
+  <Item>
+    <id>74125116</id>
+    <Name>Preserved Cloth Coat</Name>
+    <Slot>Torso</Slot>
+    <Image>74125116.png</Image>
+  </Item>
+  <Item>
+    <id>31576162</id>
+    <Name>Ripparian Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>31576162.png</Image>
+  </Item>
+  <Item>
+    <id>30774744</id>
+    <Name>Rotten Chain Tunic</Name>
+    <Slot>Torso</Slot>
+    <Image>30774744.png</Image>
+  </Item>
+  <Item>
+    <id>52337670</id>
+    <Name>Rottenfoot Tribal Strap</Name>
+    <Slot>Torso</Slot>
+    <Image>52337670.png</Image>
+  </Item>
+  <Item>
+    <id>37713050</id>
+    <Name>Shivering Leather Tunic</Name>
+    <Slot>Torso</Slot>
+    <Image>37713050.png</Image>
+  </Item>
+  <Item>
+    <id>37249766</id>
+    <Name>Sivakayan Ceremonial Garb</Name>
+    <Slot>Torso</Slot>
+    <Image>37249766.png</Image>
+  </Item>
+  <Item>
+    <id>20247051</id>
+    <Name>Sivakayan Dresscoat</Name>
+    <Slot>Torso</Slot>
+    <Image>20247051.png</Image>
+  </Item>
+  <Item>
+    <id>35889152</id>
+    <Name>Sivakayan Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>35889152.png</Image>
+  </Item>
+  <Item>
+    <id>18619300</id>
+    <Name>Sivakayan Tunic</Name>
+    <Slot>Torso</Slot>
+    <Image>18619300.png</Image>
+  </Item>
+  <Item>
+    <id>12534767</id>
+    <Name>Spidersilk Shirt</Name>
+    <Slot>Torso</Slot>
+    <Image>12534767.png</Image>
+  </Item>
+  <Item>
+    <id>21914220</id>
+    <Name>Stonelined Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>21914220.png</Image>
+  </Item>
+  <Item>
+    <id>75301776</id>
+    <Name>Tarnished Plate Armor</Name>
+    <Slot>Torso</Slot>
+    <Image>75301776.png</Image>
+  </Item>
+  <Item>
+    <id>15720069</id>
+    <Name>Tattered Leather Tunic</Name>
+    <Slot>Torso</Slot>
+    <Image>15720069.png</Image>
+  </Item>
+  <Item>
+    <id>4116999</id>
+    <Name>Tunic of Undying Faith</Name>
+    <Slot>Torso</Slot>
+    <Image>4116999.png</Image>
+  </Item>
+  <Item>
+    <id>8443640</id>
+    <Name>Worn Dueling Plate</Name>
+    <Slot>Torso</Slot>
+    <Image>8443640.png</Image>
+  </Item>
+  <Item>
+    <id>6025968</id>
+    <Name>Wyrm Skin Protector</Name>
+    <Slot>Torso</Slot>
+    <Image>6025968.png</Image>
+  </Item>
+  <Item>
+    <id>21822156</id>
+    <Name>Breaded Island Fin</Name>
+    <Slot>General</Slot>
+    <Image>21822156.png</Image>
+  </Item>
+  <Item>
+    <id>4360440</id>
+    <Name>Azure Mead</Name>
+    <Slot>General</Slot>
+    <Image>4360440.png</Image>
+  </Item>
+  <Item>
+    <id>8743220</id>
+    <Name>Bottomless Elixir</Name>
+    <Slot>General</Slot>
+    <Image>8743220.png</Image>
+  </Item>
+  <Item>
+    <id>4162410</id>
+    <Name>Brackfruit Juice</Name>
+    <Slot>General</Slot>
+    <Image>4162410.png</Image>
+  </Item>
+  <Item>
+    <id>11823624</id>
+    <Name>Bread</Name>
+    <Slot>General</Slot>
+    <Image>11823624.png</Image>
+  </Item>
+  <Item>
+    <id>2387160</id>
+    <Name>Elixir of Enlightenment I</Name>
+    <Slot>General</Slot>
+    <Image>2387160.png</Image>
+  </Item>
+  <Item>
+    <id>5066116</id>
+    <Name>Elixir of Enlightenment II</Name>
+    <Slot>General</Slot>
+    <Image>5066116.png</Image>
+  </Item>
+  <Item>
+    <id>45610186</id>
+    <Name>Elixir of Enlightenment III</Name>
+    <Slot>General</Slot>
+    <Image>45610186.png</Image>
+  </Item>
+  <Item>
+    <id>14619076</id>
+    <Name>Elixir of Enlightenment IV</Name>
+    <Slot>General</Slot>
+    <Image>14619076.png</Image>
+  </Item>
+  <Item>
+    <id>3617785</id>
+    <Name>Droplet of Lava</Name>
+    <Slot>General</Slot>
+    <Image>3617785.png</Image>
+  </Item>
+  <Item>
+    <id>10321560</id>
+    <Name>Seafruit</Name>
+    <Slot>General</Slot>
+    <Image>10321560.png</Image>
+  </Item>
+  <Item>
+    <id>10091058</id>
+    <Name>Seaspice</Name>
+    <Slot>General</Slot>
+    <Image>10091058.png</Image>
+  </Item>
+  <Item>
+    <id>7822720</id>
+    <Name>Muck Ball</Name>
+    <Slot>General</Slot>
+    <Image>7822720.png</Image>
+  </Item>
+  <Item>
+    <id>21280434</id>
+    <Name>Vithean Brew</Name>
+    <Slot>General</Slot>
+    <Image>21280434.png</Image>
+  </Item>
+  <Item>
+    <id>382775</id>
+    <Name>Water</Name>
+    <Slot>General</Slot>
+    <Image>382775.png</Image>
+  </Item>
+  <Item>
+    <id>7308447</id>
+    <Name>Copper Sceptre</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>7308447.png</Image>
+  </Item>
+  <Item>
+    <id>50758365</id>
+    <Name>Unusual Copper Sceptre</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>50758365.png</Image>
+  </Item>
+  <Item>
+    <id>30843936</id>
+    <Name>Copper Sword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>30843936.png</Image>
+  </Item>
+  <Item>
+    <id>11397375</id>
+    <Name>Hardened Copper Sword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>11397375.png</Image>
+  </Item>
+  <Item>
+    <id>59597670</id>
+    <Name>Empty</Name>
+    <Slot>General</Slot>
+    <Image>59597670.png</Image>
+  </Item>
+  <Item>
+    <id>8303616</id>
+    <Name>A Burgundy Skipper</Name>
+    <Slot>General</Slot>
+    <Image>8303616.png</Image>
+  </Item>
+  <Item>
+    <id>61644492</id>
+    <Name>A Fanged Caveskimmer</Name>
+    <Slot>General</Slot>
+    <Image>61644492.png</Image>
+  </Item>
+  <Item>
+    <id>718599</id>
+    <Name>A Frowny Clowny</Name>
+    <Slot>General</Slot>
+    <Image>718599.png</Image>
+  </Item>
+  <Item>
+    <id>29458539</id>
+    <Name>A Stonemouth Bass</Name>
+    <Slot>General</Slot>
+    <Image>29458539.png</Image>
+  </Item>
+  <Item>
+    <id>62836137</id>
+    <Name>A Worm Eel</Name>
+    <Slot>General</Slot>
+    <Image>62836137.png</Image>
+  </Item>
+  <Item>
+    <id>28298656</id>
+    <Name>A Fingerbiter</Name>
+    <Slot>General</Slot>
+    <Image>28298656.png</Image>
+  </Item>
+  <Item>
+    <id>76452608</id>
+    <Name>A Beaktooth</Name>
+    <Slot>General</Slot>
+    <Image>76452608.png</Image>
+  </Item>
+  <Item>
+    <id>24684852</id>
+    <Name>A Husselfish</Name>
+    <Slot>General</Slot>
+    <Image>24684852.png</Image>
+  </Item>
+  <Item>
+    <id>7030744</id>
+    <Name>Island Fin</Name>
+    <Slot>General</Slot>
+    <Image>7030744.png</Image>
+  </Item>
+  <Item>
+    <id>25808601</id>
+    <Name>A Moongill</Name>
+    <Slot>General</Slot>
+    <Image>25808601.png</Image>
+  </Item>
+  <Item>
+    <id>10538832</id>
+    <Name>An Octorunner</Name>
+    <Slot>General</Slot>
+    <Image>10538832.png</Image>
+  </Item>
+  <Item>
+    <id>41120040</id>
+    <Name>A Sleepyhead</Name>
+    <Slot>General</Slot>
+    <Image>41120040.png</Image>
+  </Item>
+  <Item>
+    <id>36256698</id>
+    <Name>Aged Plate Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>36256698.png</Image>
+  </Item>
+  <Item>
+    <id>95675844</id>
+    <Name>Ancient Guardian Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>95675844.png</Image>
+  </Item>
+  <Item>
+    <id>20925528</id>
+    <Name>Azure Plate Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>20925528.png</Image>
+  </Item>
+  <Item>
+    <id>336973</id>
+    <Name>Balanced Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>336973.png</Image>
+  </Item>
+  <Item>
+    <id>13591647</id>
+    <Name>Blue Leather Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>13591647.png</Image>
+  </Item>
+  <Item>
+    <id>30625160</id>
+    <Name>Boots of Grounding</Name>
+    <Slot>Feet</Slot>
+    <Image>30625160.png</Image>
+  </Item>
+  <Item>
+    <id>6840522</id>
+    <Name>Braxonian Plate Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>6840522.png</Image>
+  </Item>
+  <Item>
+    <id>3085578</id>
+    <Name>Braxonian Leather Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>3085578.png</Image>
+  </Item>
+  <Item>
+    <id>59276768</id>
+    <Name>Braxonian Royal Shoes</Name>
+    <Slot>Feet</Slot>
+    <Image>59276768.png</Image>
+  </Item>
+  <Item>
+    <id>2251548</id>
+    <Name>Charred Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>2251548.png</Image>
+  </Item>
+  <Item>
+    <id>59789928</id>
+    <Name>Cloth Shoes</Name>
+    <Slot>Feet</Slot>
+    <Image>59789928.png</Image>
+  </Item>
+  <Item>
+    <id>37078986</id>
+    <Name>Cratermakers</Name>
+    <Slot>Feet</Slot>
+    <Image>37078986.png</Image>
+  </Item>
+  <Item>
+    <id>5848832</id>
+    <Name>Daggersilk Shoes</Name>
+    <Slot>Feet</Slot>
+    <Image>5848832.png</Image>
+  </Item>
+  <Item>
+    <id>39403944</id>
+    <Name>Devout Moccasins</Name>
+    <Slot>Feet</Slot>
+    <Image>39403944.png</Image>
+  </Item>
+  <Item>
+    <id>12898230</id>
+    <Name>Elder&apos;s Slippers</Name>
+    <Slot>Feet</Slot>
+    <Image>12898230.png</Image>
+  </Item>
+  <Item>
+    <id>65701152</id>
+    <Name>Feathered Booties</Name>
+    <Slot>Feet</Slot>
+    <Image>65701152.png</Image>
+  </Item>
+  <Item>
+    <id>24495417</id>
+    <Name>Flamesoles</Name>
+    <Slot>Feet</Slot>
+    <Image>24495417.png</Image>
+  </Item>
+  <Item>
+    <id>29514139</id>
+    <Name>Journeying Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>29514139.png</Image>
+  </Item>
+  <Item>
+    <id>38003040</id>
+    <Name>Molorai Battle Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>38003040.png</Image>
+  </Item>
+  <Item>
+    <id>3694995</id>
+    <Name>Molorai Warstomps</Name>
+    <Slot>Feet</Slot>
+    <Image>3694995.png</Image>
+  </Item>
+  <Item>
+    <id>2562654</id>
+    <Name>Pious Sandals</Name>
+    <Slot>Feet</Slot>
+    <Image>2562654.png</Image>
+  </Item>
+  <Item>
+    <id>6754440</id>
+    <Name>Salt Encrusted Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>6754440.png</Image>
+  </Item>
+  <Item>
+    <id>27008672</id>
+    <Name>Shadowstep Shoes</Name>
+    <Slot>Feet</Slot>
+    <Image>27008672.png</Image>
+  </Item>
+  <Item>
+    <id>11077175</id>
+    <Name>Shivering Leather Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>11077175.png</Image>
+  </Item>
+  <Item>
+    <id>62801436</id>
+    <Name>Slimetreads</Name>
+    <Slot>Feet</Slot>
+    <Image>62801436.png</Image>
+  </Item>
+  <Item>
+    <id>33520036</id>
+    <Name>Surestep</Name>
+    <Slot>Feet</Slot>
+    <Image>33520036.png</Image>
+  </Item>
+  <Item>
+    <id>47883420</id>
+    <Name>Tattered Leather Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>47883420.png</Image>
+  </Item>
+  <Item>
+    <id>50435541</id>
+    <Name>Thundermakers</Name>
+    <Slot>Feet</Slot>
+    <Image>50435541.png</Image>
+  </Item>
+  <Item>
+    <id>651585</id>
+    <Name>Virophan Leather Slippers</Name>
+    <Slot>Feet</Slot>
+    <Image>651585.png</Image>
+  </Item>
+  <Item>
+    <id>48262000</id>
+    <Name>Wolfhide Boots</Name>
+    <Slot>Feet</Slot>
+    <Image>48262000.png</Image>
+  </Item>
+  <Item>
+    <id>949725</id>
+    <Name>Dock Pass</Name>
+    <Slot>General</Slot>
+    <Image>949725.png</Image>
+  </Item>
+  <Item>
+    <id>57120880</id>
+    <Name>Riftsnare Gem</Name>
+    <Slot>General</Slot>
+    <Image>57120880.png</Image>
+  </Item>
+  <Item>
+    <id>38077611</id>
+    <Name>Coral</Name>
+    <Slot>General</Slot>
+    <Image>38077611.png</Image>
+  </Item>
+  <Item>
+    <id>23674284</id>
+    <Name>A Remnant of Sivakaya</Name>
+    <Slot>General</Slot>
+    <Image>23674284.png</Image>
+  </Item>
+  <Item>
+    <id>4287309</id>
+    <Name>A Rolled Note</Name>
+    <Slot>General</Slot>
+    <Image>4287309.png</Image>
+  </Item>
+  <Item>
+    <id>24575054</id>
+    <Name>Small Cat Statue</Name>
+    <Slot>General</Slot>
+    <Image>24575054.png</Image>
+  </Item>
+  <Item>
+    <id>20740196</id>
+    <Name>Star Stone</Name>
+    <Slot>General</Slot>
+    <Image>20740196.png</Image>
+  </Item>
+  <Item>
+    <id>50688936</id>
+    <Name>Torn Note</Name>
+    <Slot>General</Slot>
+    <Image>50688936.png</Image>
+  </Item>
+  <Item>
+    <id>7174775</id>
+    <Name>Worn Shovel</Name>
+    <Slot>General</Slot>
+    <Image>7174775.png</Image>
+  </Item>
+  <Item>
+    <id>65307649</id>
+    <Name>Aetheria</Name>
+    <Slot>General</Slot>
+    <Image>65307649.png</Image>
+  </Item>
+  <Item>
+    <id>34315968</id>
+    <Name>Aged Interrogation Note</Name>
+    <Slot>General</Slot>
+    <Image>34315968.png</Image>
+  </Item>
+  <Item>
+    <id>15431397</id>
+    <Name>Ancient Bone</Name>
+    <Slot>General</Slot>
+    <Image>15431397.png</Image>
+  </Item>
+  <Item>
+    <id>42492114</id>
+    <Name>Ornate Toolbox</Name>
+    <Slot>General</Slot>
+    <Image>42492114.png</Image>
+  </Item>
+  <Item>
+    <id>12831024</id>
+    <Name>Daggerhart Ancestral Coin</Name>
+    <Slot>General</Slot>
+    <Image>12831024.png</Image>
+  </Item>
+  <Item>
+    <id>32115279</id>
+    <Name>Ancient Fang</Name>
+    <Slot>General</Slot>
+    <Image>32115279.png</Image>
+  </Item>
+  <Item>
+    <id>13397034</id>
+    <Name>Ancient Golem Stone</Name>
+    <Slot>General</Slot>
+    <Image>13397034.png</Image>
+  </Item>
+  <Item>
+    <id>2585632</id>
+    <Name>Ancient Pottery Shard</Name>
+    <Slot>General</Slot>
+    <Image>2585632.png</Image>
+  </Item>
+  <Item>
+    <id>13730109</id>
+    <Name>Awxa&apos;s Commission</Name>
+    <Slot>General</Slot>
+    <Image>13730109.png</Image>
+  </Item>
+  <Item>
+    <id>3303916</id>
+    <Name>Warhound Collar</Name>
+    <Slot>General</Slot>
+    <Image>3303916.png</Image>
+  </Item>
+  <Item>
+    <id>59233436</id>
+    <Name>Azynthian Riftstone</Name>
+    <Slot>General</Slot>
+    <Image>59233436.png</Image>
+  </Item>
+  <Item>
+    <id>88779456</id>
+    <Name>Azynthian Scripture 1</Name>
+    <Slot>General</Slot>
+    <Image>88779456.png</Image>
+  </Item>
+  <Item>
+    <id>19644372</id>
+    <Name>Azynthian Scripture 2</Name>
+    <Slot>General</Slot>
+    <Image>19644372.png</Image>
+  </Item>
+  <Item>
+    <id>29877057</id>
+    <Name>Azynthian Scripture 3</Name>
+    <Slot>General</Slot>
+    <Image>29877057.png</Image>
+  </Item>
+  <Item>
+    <id>11885184</id>
+    <Name>Bag of Offering Stones</Name>
+    <Slot>General</Slot>
+    <Image>11885184.png</Image>
+  </Item>
+  <Item>
+    <id>34471935</id>
+    <Name>Bear Meat</Name>
+    <Slot>General</Slot>
+    <Image>34471935.png</Image>
+  </Item>
+  <Item>
+    <id>13992984</id>
+    <Name>Beast Stone</Name>
+    <Slot>General</Slot>
+    <Image>13992984.png</Image>
+  </Item>
+  <Item>
+    <id>35458599</id>
+    <Name>The Game Continues...</Name>
+    <Slot>General</Slot>
+    <Image>35458599.png</Image>
+  </Item>
+  <Item>
+    <id>27279288</id>
+    <Name>Blight Crystals</Name>
+    <Slot>General</Slot>
+    <Image>27279288.png</Image>
+  </Item>
+  <Item>
+    <id>5471372</id>
+    <Name>Blightwood Slab</Name>
+    <Slot>General</Slot>
+    <Image>5471372.png</Image>
+  </Item>
+  <Item>
+    <id>18925192</id>
+    <Name>Blue Burnstone</Name>
+    <Slot>General</Slot>
+    <Image>18925192.png</Image>
+  </Item>
+  <Item>
+    <id>73923246</id>
+    <Name>Green Pteriaped Feather</Name>
+    <Slot>General</Slot>
+    <Image>73923246.png</Image>
+  </Item>
+  <Item>
+    <id>26864184</id>
+    <Name>Box of Supplies</Name>
+    <Slot>General</Slot>
+    <Image>26864184.png</Image>
+  </Item>
+  <Item>
+    <id>2089780</id>
+    <Name>Brashell</Name>
+    <Slot>General</Slot>
+    <Image>2089780.png</Image>
+  </Item>
+  <Item>
+    <id>781200</id>
+    <Name>Braxonian Portal Shard</Name>
+    <Slot>General</Slot>
+    <Image>781200.png</Image>
+  </Item>
+  <Item>
+    <id>48408030</id>
+    <Name>Braxonian Portal Shard</Name>
+    <Slot>General</Slot>
+    <Image>48408030.png</Image>
+  </Item>
+  <Item>
+    <id>10821438</id>
+    <Name>Braxonian Scripture</Name>
+    <Slot>General</Slot>
+    <Image>10821438.png</Image>
+  </Item>
+  <Item>
+    <id>25472494</id>
+    <Name>Braxonian Scripture</Name>
+    <Slot>General</Slot>
+    <Image>25472494.png</Image>
+  </Item>
+  <Item>
+    <id>10764160</id>
+    <Name>Broken Key Blade</Name>
+    <Slot>General</Slot>
+    <Image>10764160.png</Image>
+  </Item>
+  <Item>
+    <id>597052</id>
+    <Name>Broken Key Bow</Name>
+    <Slot>General</Slot>
+    <Image>597052.png</Image>
+  </Item>
+  <Item>
+    <id>2564712</id>
+    <Name>Custodian of the Flame</Name>
+    <Slot>General</Slot>
+    <Image>2564712.png</Image>
+  </Item>
+  <Item>
+    <id>5169444</id>
+    <Name>Catnip</Name>
+    <Slot>General</Slot>
+    <Image>5169444.png</Image>
+  </Item>
+  <Item>
+    <id>5797440</id>
+    <Name>Celestial Goop</Name>
+    <Slot>General</Slot>
+    <Image>5797440.png</Image>
+  </Item>
+  <Item>
+    <id>66202080</id>
+    <Name>Chunk of Living Ruby</Name>
+    <Slot>General</Slot>
+    <Image>66202080.png</Image>
+  </Item>
+  <Item>
+    <id>47736923</id>
+    <Name>Chunk of Living Sapphire</Name>
+    <Slot>General</Slot>
+    <Image>47736923.png</Image>
+  </Item>
+  <Item>
+    <id>27845252</id>
+    <Name>Chapters of Descent, Passage 1</Name>
+    <Slot>General</Slot>
+    <Image>27845252.png</Image>
+  </Item>
+  <Item>
+    <id>71419062</id>
+    <Name>Chapters of Descent, Passage 2</Name>
+    <Slot>General</Slot>
+    <Image>71419062.png</Image>
+  </Item>
+  <Item>
+    <id>24009900</id>
+    <Name>Chapters of Descent, Passage 3</Name>
+    <Slot>General</Slot>
+    <Image>24009900.png</Image>
+  </Item>
+  <Item>
+    <id>1456050</id>
+    <Name>Chapters of Descent, Passage 4</Name>
+    <Slot>General</Slot>
+    <Image>1456050.png</Image>
+  </Item>
+  <Item>
+    <id>17443828</id>
+    <Name>Chapters of Descent, Passage 5</Name>
+    <Slot>General</Slot>
+    <Image>17443828.png</Image>
+  </Item>
+  <Item>
+    <id>69385200</id>
+    <Name>Chapters of Descent, Passage 6</Name>
+    <Slot>General</Slot>
+    <Image>69385200.png</Image>
+  </Item>
+  <Item>
+    <id>18714373</id>
+    <Name>Chapters of Descent, Passage 7</Name>
+    <Slot>General</Slot>
+    <Image>18714373.png</Image>
+  </Item>
+  <Item>
+    <id>11372150</id>
+    <Name>Chapters of Descent, Passage 8</Name>
+    <Slot>General</Slot>
+    <Image>11372150.png</Image>
+  </Item>
+  <Item>
+    <id>1678908</id>
+    <Name>A Note from Eldoth</Name>
+    <Slot>General</Slot>
+    <Image>1678908.png</Image>
+  </Item>
+  <Item>
+    <id>12105615</id>
+    <Name>Croc Tail</Name>
+    <Slot>General</Slot>
+    <Image>12105615.png</Image>
+  </Item>
+  <Item>
+    <id>14176624</id>
+    <Name>Death&apos;s Decay</Name>
+    <Slot>General</Slot>
+    <Image>14176624.png</Image>
+  </Item>
+  <Item>
+    <id>26706680</id>
+    <Name>Decayed Druid Beads</Name>
+    <Slot>General</Slot>
+    <Image>26706680.png</Image>
+  </Item>
+  <Item>
+    <id>53058336</id>
+    <Name>Demented Brain</Name>
+    <Slot>General</Slot>
+    <Image>53058336.png</Image>
+  </Item>
+  <Item>
+    <id>49549910</id>
+    <Name>Demonic Statue</Name>
+    <Slot>General</Slot>
+    <Image>49549910.png</Image>
+  </Item>
+  <Item>
+    <id>8880146</id>
+    <Name>Kio&apos;s Leave Order</Name>
+    <Slot>General</Slot>
+    <Image>8880146.png</Image>
+  </Item>
+  <Item>
+    <id>87824956</id>
+    <Name>Devoratrix Thorn</Name>
+    <Slot>General</Slot>
+    <Image>87824956.png</Image>
+  </Item>
+  <Item>
+    <id>35046296</id>
+    <Name>Diamond</Name>
+    <Slot>General</Slot>
+    <Image>35046296.png</Image>
+  </Item>
+  <Item>
+    <id>63998151</id>
+    <Name>Droplet of the First Frost</Name>
+    <Slot>General</Slot>
+    <Image>63998151.png</Image>
+  </Item>
+  <Item>
+    <id>13525401</id>
+    <Name>Dusken Giant&apos;s Blood</Name>
+    <Slot>General</Slot>
+    <Image>13525401.png</Image>
+  </Item>
+  <Item>
+    <id>35872080</id>
+    <Name>Aged letter</Name>
+    <Slot>General</Slot>
+    <Image>35872080.png</Image>
+  </Item>
+  <Item>
+    <id>2019240</id>
+    <Name>Ealdred&apos;s Journal</Name>
+    <Slot>General</Slot>
+    <Image>2019240.png</Image>
+  </Item>
+  <Item>
+    <id>12556704</id>
+    <Name>Ear of Kilkay</Name>
+    <Slot>General</Slot>
+    <Image>12556704.png</Image>
+  </Item>
+  <Item>
+    <id>10732755</id>
+    <Name>Ear of Ripper</Name>
+    <Slot>General</Slot>
+    <Image>10732755.png</Image>
+  </Item>
+  <Item>
+    <id>20920640</id>
+    <Name>Elderstone Shard</Name>
+    <Slot>General</Slot>
+    <Image>20920640.png</Image>
+  </Item>
+  <Item>
+    <id>11758084</id>
+    <Name>Eldoth Writings: The Braxonian</Name>
+    <Slot>General</Slot>
+    <Image>11758084.png</Image>
+  </Item>
+  <Item>
+    <id>881280</id>
+    <Name>Eldoth Writings: The Braxonian Pt 2</Name>
+    <Slot>General</Slot>
+    <Image>881280.png</Image>
+  </Item>
+  <Item>
+    <id>150100</id>
+    <Name>Eldoth Writings: The Wisp</Name>
+    <Slot>General</Slot>
+    <Image>150100.png</Image>
+  </Item>
+  <Item>
+    <id>51950259</id>
+    <Name>Eldoth Writings: The Jaws</Name>
+    <Slot>General</Slot>
+    <Image>51950259.png</Image>
+  </Item>
+  <Item>
+    <id>48311014</id>
+    <Name>Molorai Manifesto, Pg. 1</Name>
+    <Slot>General</Slot>
+    <Image>48311014.png</Image>
+  </Item>
+  <Item>
+    <id>7001892</id>
+    <Name>Molorai Manifesto, Pg. 2</Name>
+    <Slot>General</Slot>
+    <Image>7001892.png</Image>
+  </Item>
+  <Item>
+    <id>24913161</id>
+    <Name>Molorai Manifesto, Pg. 3</Name>
+    <Slot>General</Slot>
+    <Image>24913161.png</Image>
+  </Item>
+  <Item>
+    <id>46512375</id>
+    <Name>Molorai Manifesto, Pg. 4</Name>
+    <Slot>General</Slot>
+    <Image>46512375.png</Image>
+  </Item>
+  <Item>
+    <id>37105900</id>
+    <Name>Molorai Manifesto, Pg. 5</Name>
+    <Slot>General</Slot>
+    <Image>37105900.png</Image>
+  </Item>
+  <Item>
+    <id>69683488</id>
+    <Name>Eldoth&apos;s Journal Entry</Name>
+    <Slot>General</Slot>
+    <Image>69683488.png</Image>
+  </Item>
+  <Item>
+    <id>152334</id>
+    <Name>Eldrich Crystal</Name>
+    <Slot>General</Slot>
+    <Image>152334.png</Image>
+  </Item>
+  <Item>
+    <id>896292</id>
+    <Name>Essence of Nature</Name>
+    <Slot>General</Slot>
+    <Image>896292.png</Image>
+  </Item>
+  <Item>
+    <id>15239600</id>
+    <Name>Eternal Ice</Name>
+    <Slot>General</Slot>
+    <Image>15239600.png</Image>
+  </Item>
+  <Item>
+    <id>2687256</id>
+    <Name>Faded Journal Entry</Name>
+    <Slot>General</Slot>
+    <Image>2687256.png</Image>
+  </Item>
+  <Item>
+    <id>70912800</id>
+    <Name>Fading Memory</Name>
+    <Slot>General</Slot>
+    <Image>70912800.png</Image>
+  </Item>
+  <Item>
+    <id>5462199</id>
+    <Name>Bag of Faerie Dust</Name>
+    <Slot>General</Slot>
+    <Image>5462199.png</Image>
+  </Item>
+  <Item>
+    <id>6673468</id>
+    <Name>Intact Faerie Wing</Name>
+    <Slot>General</Slot>
+    <Image>6673468.png</Image>
+  </Item>
+  <Item>
+    <id>23013378</id>
+    <Name>Flint Carapace</Name>
+    <Slot>General</Slot>
+    <Image>23013378.png</Image>
+  </Item>
+  <Item>
+    <id>3568257</id>
+    <Name>Fungal Spore</Name>
+    <Slot>General</Slot>
+    <Image>3568257.png</Image>
+  </Item>
+  <Item>
+    <id>45629948</id>
+    <Name>Ghostly Bone</Name>
+    <Slot>General</Slot>
+    <Image>45629948.png</Image>
+  </Item>
+  <Item>
+    <id>16888962</id>
+    <Name>Ghostly Giant&apos;s Blood</Name>
+    <Slot>General</Slot>
+    <Image>16888962.png</Image>
+  </Item>
+  <Item>
+    <id>37753452</id>
+    <Name>Ghoul Scab</Name>
+    <Slot>General</Slot>
+    <Image>37753452.png</Image>
+  </Item>
+  <Item>
+    <id>44362368</id>
+    <Name>Graveweed Leaf</Name>
+    <Slot>General</Slot>
+    <Image>44362368.png</Image>
+  </Item>
+  <Item>
+    <id>52598336</id>
+    <Name>Scraps of paper</Name>
+    <Slot>General</Slot>
+    <Image>52598336.png</Image>
+  </Item>
+  <Item>
+    <id>27334160</id>
+    <Name>Heart of Astra</Name>
+    <Slot>General</Slot>
+    <Image>27334160.png</Image>
+  </Item>
+  <Item>
+    <id>12898074</id>
+    <Name>Heart of Eldoth Molorai</Name>
+    <Slot>General</Slot>
+    <Image>12898074.png</Image>
+  </Item>
+  <Item>
+    <id>54561984</id>
+    <Name>Guide to Sight</Name>
+    <Slot>General</Slot>
+    <Image>54561984.png</Image>
+  </Item>
+  <Item>
+    <id>51911132</id>
+    <Name>Inert Rune of Brax</Name>
+    <Slot>General</Slot>
+    <Image>51911132.png</Image>
+  </Item>
+  <Item>
+    <id>1747515</id>
+    <Name>Inert Rune of Soluna</Name>
+    <Slot>General</Slot>
+    <Image>1747515.png</Image>
+  </Item>
+  <Item>
+    <id>19156004</id>
+    <Name>Inert Rune of Vitheo</Name>
+    <Slot>General</Slot>
+    <Image>19156004.png</Image>
+  </Item>
+  <Item>
+    <id>796808</id>
+    <Name>Instructions for Warmth</Name>
+    <Slot>General</Slot>
+    <Image>796808.png</Image>
+  </Item>
+  <Item>
+    <id>44189761</id>
+    <Name>Ivory Tusk</Name>
+    <Slot>General</Slot>
+    <Image>44189761.png</Image>
+  </Item>
+  <Item>
+    <id>24177978</id>
+    <Name>Jackal Meat</Name>
+    <Slot>General</Slot>
+    <Image>24177978.png</Image>
+  </Item>
+  <Item>
+    <id>48307176</id>
+    <Name>A Golden Ticket (2/2)</Name>
+    <Slot>General</Slot>
+    <Image>48307176.png</Image>
+  </Item>
+  <Item>
+    <id>58573846</id>
+    <Name>Leena&apos;s Receipt</Name>
+    <Slot>General</Slot>
+    <Image>58573846.png</Image>
+  </Item>
+  <Item>
+    <id>5132540</id>
+    <Name>Loomingwood Branch</Name>
+    <Slot>General</Slot>
+    <Image>5132540.png</Image>
+  </Item>
+  <Item>
+    <id>35010152</id>
+    <Name>Lost Faith</Name>
+    <Slot>General</Slot>
+    <Image>35010152.png</Image>
+  </Item>
+  <Item>
+    <id>6950603</id>
+    <Name>Old Journal Pg. 1</Name>
+    <Slot>General</Slot>
+    <Image>6950603.png</Image>
+  </Item>
+  <Item>
+    <id>47004650</id>
+    <Name>Old Journal Pg. 2</Name>
+    <Slot>General</Slot>
+    <Image>47004650.png</Image>
+  </Item>
+  <Item>
+    <id>1120380</id>
+    <Name>Old Journal Pg. 3</Name>
+    <Slot>General</Slot>
+    <Image>1120380.png</Image>
+  </Item>
+  <Item>
+    <id>2482855</id>
+    <Name>Old Journal Pg. 4</Name>
+    <Slot>General</Slot>
+    <Image>2482855.png</Image>
+  </Item>
+  <Item>
+    <id>25052995</id>
+    <Name>Luminstone</Name>
+    <Slot>General</Slot>
+    <Image>25052995.png</Image>
+  </Item>
+  <Item>
+    <id>315843</id>
+    <Name>A Magical Bag</Name>
+    <Slot>General</Slot>
+    <Image>315843.png</Image>
+  </Item>
+  <Item>
+    <id>2260768</id>
+    <Name>Malaroth Feed</Name>
+    <Slot>General</Slot>
+    <Image>2260768.png</Image>
+  </Item>
+  <Item>
+    <id>25255826</id>
+    <Name>Odd Malaroth Feed</Name>
+    <Slot>General</Slot>
+    <Image>25255826.png</Image>
+  </Item>
+  <Item>
+    <id>7446659</id>
+    <Name>Malaroth Hide</Name>
+    <Slot>General</Slot>
+    <Image>7446659.png</Image>
+  </Item>
+  <Item>
+    <id>18512208</id>
+    <Name>Marching Orders</Name>
+    <Slot>General</Slot>
+    <Image>18512208.png</Image>
+  </Item>
+  <Item>
+    <id>17719975</id>
+    <Name>Mooring Coin</Name>
+    <Slot>General</Slot>
+    <Image>17719975.png</Image>
+  </Item>
+  <Item>
+    <id>38695040</id>
+    <Name>Nagalok Claw</Name>
+    <Slot>General</Slot>
+    <Image>38695040.png</Image>
+  </Item>
+  <Item>
+    <id>4298310</id>
+    <Name>Skull-Shaped Candleholder</Name>
+    <Slot>General</Slot>
+    <Image>4298310.png</Image>
+  </Item>
+  <Item>
+    <id>12167874</id>
+    <Name>Black Flame</Name>
+    <Slot>General</Slot>
+    <Image>12167874.png</Image>
+  </Item>
+  <Item>
+    <id>43796760</id>
+    <Name>Nighthollow Wax</Name>
+    <Slot>General</Slot>
+    <Image>43796760.png</Image>
+  </Item>
+  <Item>
+    <id>76667340</id>
+    <Name>Nighthollow Wick</Name>
+    <Slot>General</Slot>
+    <Image>76667340.png</Image>
+  </Item>
+  <Item>
+    <id>10853480</id>
+    <Name>Nightmare Crystal</Name>
+    <Slot>General</Slot>
+    <Image>10853480.png</Image>
+  </Item>
+  <Item>
+    <id>61671927</id>
+    <Name>Note to Liam</Name>
+    <Slot>General</Slot>
+    <Image>61671927.png</Image>
+  </Item>
+  <Item>
+    <id>20818329</id>
+    <Name>Notes of a Hermit</Name>
+    <Slot>General</Slot>
+    <Image>20818329.png</Image>
+  </Item>
+  <Item>
+    <id>340104</id>
+    <Name>Offering Stone</Name>
+    <Slot>General</Slot>
+    <Image>340104.png</Image>
+  </Item>
+  <Item>
+    <id>1697733</id>
+    <Name>Guide of Offering</Name>
+    <Slot>General</Slot>
+    <Image>1697733.png</Image>
+  </Item>
+  <Item>
+    <id>19548875</id>
+    <Name>Ogrespice Leaf</Name>
+    <Slot>General</Slot>
+    <Image>19548875.png</Image>
+  </Item>
+  <Item>
+    <id>64703340</id>
+    <Name>Old Work Order</Name>
+    <Slot>General</Slot>
+    <Image>64703340.png</Image>
+  </Item>
+  <Item>
+    <id>30256710</id>
+    <Name>Pink Pteriaped Feather</Name>
+    <Slot>General</Slot>
+    <Image>30256710.png</Image>
+  </Item>
+  <Item>
+    <id>1267795</id>
+    <Name>Eye of Plaxitheris</Name>
+    <Slot>General</Slot>
+    <Image>1267795.png</Image>
+  </Item>
+  <Item>
+    <id>5399165</id>
+    <Name>Polished Stone</Name>
+    <Slot>General</Slot>
+    <Image>5399165.png</Image>
+  </Item>
+  <Item>
+    <id>16561967</id>
+    <Name>Priel Note</Name>
+    <Slot>General</Slot>
+    <Image>16561967.png</Image>
+  </Item>
+  <Item>
+    <id>63838425</id>
+    <Name>Priel Note</Name>
+    <Slot>General</Slot>
+    <Image>63838425.png</Image>
+  </Item>
+  <Item>
+    <id>41108832</id>
+    <Name>Pristine Grass Spider Carapace</Name>
+    <Slot>General</Slot>
+    <Image>41108832.png</Image>
+  </Item>
+  <Item>
+    <id>10308480</id>
+    <Name>Pulsating Stone</Name>
+    <Slot>General</Slot>
+    <Image>10308480.png</Image>
+  </Item>
+  <Item>
+    <id>47916420</id>
+    <Name>Rekindling The Flame</Name>
+    <Slot>General</Slot>
+    <Image>47916420.png</Image>
+  </Item>
+  <Item>
+    <id>15399630</id>
+    <Name>The Recipe for Flame</Name>
+    <Slot>General</Slot>
+    <Image>15399630.png</Image>
+  </Item>
+  <Item>
+    <id>18182255</id>
+    <Name>Dark Flame Recipe</Name>
+    <Slot>General</Slot>
+    <Image>18182255.png</Image>
+  </Item>
+  <Item>
+    <id>339754</id>
+    <Name>Life Flame Recipe</Name>
+    <Slot>General</Slot>
+    <Image>339754.png</Image>
+  </Item>
+  <Item>
+    <id>34773658</id>
+    <Name>Remnants of a Daydream</Name>
+    <Slot>General</Slot>
+    <Image>34773658.png</Image>
+  </Item>
+  <Item>
+    <id>9792852</id>
+    <Name>Remnants of a Nightmare</Name>
+    <Slot>General</Slot>
+    <Image>9792852.png</Image>
+  </Item>
+  <Item>
+    <id>12331968</id>
+    <Name>Mavik Easton&apos;s Note</Name>
+    <Slot>General</Slot>
+    <Image>12331968.png</Image>
+  </Item>
+  <Item>
+    <id>14200052</id>
+    <Name>Rotting Meat</Name>
+    <Slot>General</Slot>
+    <Image>14200052.png</Image>
+  </Item>
+  <Item>
+    <id>10631400</id>
+    <Name>Ruby</Name>
+    <Slot>General</Slot>
+    <Image>10631400.png</Image>
+  </Item>
+  <Item>
+    <id>35240976</id>
+    <Name>Ruined Grass Spider Carapace</Name>
+    <Slot>General</Slot>
+    <Image>35240976.png</Image>
+  </Item>
+  <Item>
+    <id>5016816</id>
+    <Name>Rune of Azure</Name>
+    <Slot>General</Slot>
+    <Image>5016816.png</Image>
+  </Item>
+  <Item>
+    <id>12094245</id>
+    <Name>Rune of Brax</Name>
+    <Slot>General</Slot>
+    <Image>12094245.png</Image>
+  </Item>
+  <Item>
+    <id>2810120</id>
+    <Name>Rune of Ripper&apos;s Keep</Name>
+    <Slot>General</Slot>
+    <Image>2810120.png</Image>
+  </Item>
+  <Item>
+    <id>2096280</id>
+    <Name>Rune of Sands</Name>
+    <Slot>General</Slot>
+    <Image>2096280.png</Image>
+  </Item>
+  <Item>
+    <id>71979710</id>
+    <Name>Rune of Silkengrass</Name>
+    <Slot>General</Slot>
+    <Image>71979710.png</Image>
+  </Item>
+  <Item>
+    <id>5388624</id>
+    <Name>Rune of Soluna&apos;s Landing</Name>
+    <Slot>General</Slot>
+    <Image>5388624.png</Image>
+  </Item>
+  <Item>
+    <id>21931875</id>
+    <Name>Samuel&apos;s Note</Name>
+    <Slot>General</Slot>
+    <Image>21931875.png</Image>
+  </Item>
+  <Item>
+    <id>49066260</id>
+    <Name>Reptilian Scales</Name>
+    <Slot>General</Slot>
+    <Image>49066260.png</Image>
+  </Item>
+  <Item>
+    <id>36037008</id>
+    <Name>Scribbles of a Mad Priest</Name>
+    <Slot>General</Slot>
+    <Image>36037008.png</Image>
+  </Item>
+  <Item>
+    <id>582768</id>
+    <Name>A Lost Poem</Name>
+    <Slot>General</Slot>
+    <Image>582768.png</Image>
+  </Item>
+  <Item>
+    <id>8052577</id>
+    <Name>A Lost Poem</Name>
+    <Slot>General</Slot>
+    <Image>8052577.png</Image>
+  </Item>
+  <Item>
+    <id>10178129</id>
+    <Name>A Lost Poem</Name>
+    <Slot>General</Slot>
+    <Image>10178129.png</Image>
+  </Item>
+  <Item>
+    <id>18513960</id>
+    <Name>Scribbles of a mad priest</Name>
+    <Slot>General</Slot>
+    <Image>18513960.png</Image>
+  </Item>
+  <Item>
+    <id>24008910</id>
+    <Name>Sea Glass</Name>
+    <Slot>General</Slot>
+    <Image>24008910.png</Image>
+  </Item>
+  <Item>
+    <id>23877439</id>
+    <Name>Seaweed</Name>
+    <Slot>General</Slot>
+    <Image>23877439.png</Image>
+  </Item>
+  <Item>
+    <id>1026048</id>
+    <Name>Serpentine Blood</Name>
+    <Slot>General</Slot>
+    <Image>1026048.png</Image>
+  </Item>
+  <Item>
+    <id>38699560</id>
+    <Name>Captured Light</Name>
+    <Slot>General</Slot>
+    <Image>38699560.png</Image>
+  </Item>
+  <Item>
+    <id>36835305</id>
+    <Name>Siva-Braxon Teachings (1)</Name>
+    <Slot>General</Slot>
+    <Image>36835305.png</Image>
+  </Item>
+  <Item>
+    <id>11286304</id>
+    <Name>Siva-Braxon Teachings (2)</Name>
+    <Slot>General</Slot>
+    <Image>11286304.png</Image>
+  </Item>
+  <Item>
+    <id>47092992</id>
+    <Name>Siva-Braxon Teachings (3)</Name>
+    <Slot>General</Slot>
+    <Image>47092992.png</Image>
+  </Item>
+  <Item>
+    <id>23431650</id>
+    <Name>Sivakrux</Name>
+    <Slot>General</Slot>
+    <Image>23431650.png</Image>
+  </Item>
+  <Item>
+    <id>283689</id>
+    <Name>Sivakayan Diplomacy</Name>
+    <Slot>General</Slot>
+    <Image>283689.png</Image>
+  </Item>
+  <Item>
+    <id>6775191</id>
+    <Name>Sivakayan Horn</Name>
+    <Slot>General</Slot>
+    <Image>6775191.png</Image>
+  </Item>
+  <Item>
+    <id>1193934</id>
+    <Name>Sivakayan Intel</Name>
+    <Slot>General</Slot>
+    <Image>1193934.png</Image>
+  </Item>
+  <Item>
+    <id>6804</id>
+    <Name>Skeleton Eye</Name>
+    <Slot>General</Slot>
+    <Image>6804.png</Image>
+  </Item>
+  <Item>
+    <id>3769482</id>
+    <Name>Small Engraved Compass</Name>
+    <Slot>General</Slot>
+    <Image>3769482.png</Image>
+  </Item>
+  <Item>
+    <id>1577996</id>
+    <Name>Soul of a Ghostly Beast</Name>
+    <Slot>General</Slot>
+    <Image>1577996.png</Image>
+  </Item>
+  <Item>
+    <id>4570436</id>
+    <Name>Spark of the First Flame</Name>
+    <Slot>General</Slot>
+    <Image>4570436.png</Image>
+  </Item>
+  <Item>
+    <id>41942382</id>
+    <Name>A Golden Ticket (1/2)</Name>
+    <Slot>General</Slot>
+    <Image>41942382.png</Image>
+  </Item>
+  <Item>
+    <id>46005828</id>
+    <Name>Stolen Memories</Name>
+    <Slot>General</Slot>
+    <Image>46005828.png</Image>
+  </Item>
+  <Item>
+    <id>7602147</id>
+    <Name>Stone Giant&apos;s Blood</Name>
+    <Slot>General</Slot>
+    <Image>7602147.png</Image>
+  </Item>
+  <Item>
+    <id>42112517</id>
+    <Name>Swamproot</Name>
+    <Slot>General</Slot>
+    <Image>42112517.png</Image>
+  </Item>
+  <Item>
+    <id>5098203</id>
+    <Name>Sylvan Giant&apos;s Blood</Name>
+    <Slot>General</Slot>
+    <Image>5098203.png</Image>
+  </Item>
+  <Item>
+    <id>77147819</id>
+    <Name>Tempest Stone</Name>
+    <Slot>General</Slot>
+    <Image>77147819.png</Image>
+  </Item>
+  <Item>
+    <id>46417527</id>
+    <Name>Recovered Text</Name>
+    <Slot>General</Slot>
+    <Image>46417527.png</Image>
+  </Item>
+  <Item>
+    <id>41947398</id>
+    <Name>Sivakayan Boat Pass</Name>
+    <Slot>General</Slot>
+    <Image>41947398.png</Image>
+  </Item>
+  <Item>
+    <id>29129128</id>
+    <Name>The Duskenlight Ritual</Name>
+    <Slot>General</Slot>
+    <Image>29129128.png</Image>
+  </Item>
+  <Item>
+    <id>24049998</id>
+    <Name>The Fernallan Ritual</Name>
+    <Slot>General</Slot>
+    <Image>24049998.png</Image>
+  </Item>
+  <Item>
+    <id>49871343</id>
+    <Name>The Malaroth Process</Name>
+    <Slot>General</Slot>
+    <Image>49871343.png</Image>
+  </Item>
+  <Item>
+    <id>27505928</id>
+    <Name>The Mathers Note</Name>
+    <Slot>General</Slot>
+    <Image>27505928.png</Image>
+  </Item>
+  <Item>
+    <id>1176500</id>
+    <Name>The Traitor&apos;s Hall</Name>
+    <Slot>General</Slot>
+    <Image>1176500.png</Image>
+  </Item>
+  <Item>
+    <id>52545498</id>
+    <Name>Thief of Breath</Name>
+    <Slot>General</Slot>
+    <Image>52545498.png</Image>
+  </Item>
+  <Item>
+    <id>28362792</id>
+    <Name>Torn Treasure Map (Bottom Left)</Name>
+    <Slot>General</Slot>
+    <Image>28362792.png</Image>
+  </Item>
+  <Item>
+    <id>270986</id>
+    <Name>Torn Treasure Map (Bottom Right)</Name>
+    <Slot>General</Slot>
+    <Image>270986.png</Image>
+  </Item>
+  <Item>
+    <id>6188236</id>
+    <Name>Torn Treasure Map (Top Left)</Name>
+    <Slot>General</Slot>
+    <Image>6188236.png</Image>
+  </Item>
+  <Item>
+    <id>28043030</id>
+    <Name>Torn Treasure Map (Top Right)</Name>
+    <Slot>General</Slot>
+    <Image>28043030.png</Image>
+  </Item>
+  <Item>
+    <id>11021645</id>
+    <Name>Pg. 1: Faded Entry</Name>
+    <Slot>General</Slot>
+    <Image>11021645.png</Image>
+  </Item>
+  <Item>
+    <id>271648</id>
+    <Name>Pg. 2: Faded Entry</Name>
+    <Slot>General</Slot>
+    <Image>271648.png</Image>
+  </Item>
+  <Item>
+    <id>47404146</id>
+    <Name>Pg. 3: Faded Entry</Name>
+    <Slot>General</Slot>
+    <Image>47404146.png</Image>
+  </Item>
+  <Item>
+    <id>6370245</id>
+    <Name>Pg. 4: Faded Entry</Name>
+    <Slot>General</Slot>
+    <Image>6370245.png</Image>
+  </Item>
+  <Item>
+    <id>21029295</id>
+    <Name>Pg. 5: Faded Entry</Name>
+    <Slot>General</Slot>
+    <Image>21029295.png</Image>
+  </Item>
+  <Item>
+    <id>10653736</id>
+    <Name>Pg. 6: Faded Entry</Name>
+    <Slot>General</Slot>
+    <Image>10653736.png</Image>
+  </Item>
+  <Item>
+    <id>73284435</id>
+    <Name>Pg. 7: Faded Entry</Name>
+    <Slot>General</Slot>
+    <Image>73284435.png</Image>
+  </Item>
+  <Item>
+    <id>2520024</id>
+    <Name>Treasure Hunter&apos;s Pin</Name>
+    <Slot>General</Slot>
+    <Image>2520024.png</Image>
+  </Item>
+  <Item>
+    <id>36302700</id>
+    <Name>Treasure Map</Name>
+    <Slot>General</Slot>
+    <Image>36302700.png</Image>
+  </Item>
+  <Item>
+    <id>2790689</id>
+    <Name>Unborn Phobia</Name>
+    <Slot>General</Slot>
+    <Image>2790689.png</Image>
+  </Item>
+  <Item>
+    <id>20398280</id>
+    <Name>Vampire Fang</Name>
+    <Slot>General</Slot>
+    <Image>20398280.png</Image>
+  </Item>
+  <Item>
+    <id>17096102</id>
+    <Name>Whispers of the Sea</Name>
+    <Slot>General</Slot>
+    <Image>17096102.png</Image>
+  </Item>
+  <Item>
+    <id>31279248</id>
+    <Name>Wishlan&apos;s Hope</Name>
+    <Slot>General</Slot>
+    <Image>31279248.png</Image>
+  </Item>
+  <Item>
+    <id>16183286</id>
+    <Name>Wolf Meat</Name>
+    <Slot>General</Slot>
+    <Image>16183286.png</Image>
+  </Item>
+  <Item>
+    <id>45488238</id>
+    <Name>Citrine Stone</Name>
+    <Slot>General</Slot>
+    <Image>45488238.png</Image>
+  </Item>
+  <Item>
+    <id>20751628</id>
+    <Name>Adorned Mitts</Name>
+    <Slot>Hands</Slot>
+    <Image>20751628.png</Image>
+  </Item>
+  <Item>
+    <id>39082644</id>
+    <Name>Ancient Guardian Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>39082644.png</Image>
+  </Item>
+  <Item>
+    <id>4215132</id>
+    <Name>Braxonian Gauntlets</Name>
+    <Slot>Hands</Slot>
+    <Image>4215132.png</Image>
+  </Item>
+  <Item>
+    <id>63734364</id>
+    <Name>Braxonian Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>63734364.png</Image>
+  </Item>
+  <Item>
+    <id>55747264</id>
+    <Name>Braxonian Mitts</Name>
+    <Slot>Hands</Slot>
+    <Image>55747264.png</Image>
+  </Item>
+  <Item>
+    <id>6042752</id>
+    <Name>Ceremonial Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>6042752.png</Image>
+  </Item>
+  <Item>
+    <id>3523488</id>
+    <Name>Chopping Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>3523488.png</Image>
+  </Item>
+  <Item>
+    <id>67558798</id>
+    <Name>Channeling Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>67558798.png</Image>
+  </Item>
+  <Item>
+    <id>37273824</id>
+    <Name>Cloth Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>37273824.png</Image>
+  </Item>
+  <Item>
+    <id>27899066</id>
+    <Name>Daggersilk Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>27899066.png</Image>
+  </Item>
+  <Item>
+    <id>19558128</id>
+    <Name>Dainty Mitts</Name>
+    <Slot>Hands</Slot>
+    <Image>19558128.png</Image>
+  </Item>
+  <Item>
+    <id>19647135</id>
+    <Name>Digested Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>19647135.png</Image>
+  </Item>
+  <Item>
+    <id>5354280</id>
+    <Name>Dreamborn Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>5354280.png</Image>
+  </Item>
+  <Item>
+    <id>2539724</id>
+    <Name>Gator Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>2539724.png</Image>
+  </Item>
+  <Item>
+    <id>54059851</id>
+    <Name>Giving Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>54059851.png</Image>
+  </Item>
+  <Item>
+    <id>19513478</id>
+    <Name>Gloves of Vitheo</Name>
+    <Slot>Hands</Slot>
+    <Image>19513478.png</Image>
+  </Item>
+  <Item>
+    <id>59427767</id>
+    <Name>Grip of Darkness</Name>
+    <Slot>Hands</Slot>
+    <Image>59427767.png</Image>
+  </Item>
+  <Item>
+    <id>39376558</id>
+    <Name>Grips of Faith</Name>
+    <Slot>Hands</Slot>
+    <Image>39376558.png</Image>
+  </Item>
+  <Item>
+    <id>4965753</id>
+    <Name>Meteorite Gauntlets</Name>
+    <Slot>Hands</Slot>
+    <Image>4965753.png</Image>
+  </Item>
+  <Item>
+    <id>14218800</id>
+    <Name>Mummy Wraps</Name>
+    <Slot>Hands</Slot>
+    <Image>14218800.png</Image>
+  </Item>
+  <Item>
+    <id>469824</id>
+    <Name>Nagalok Claw Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>469824.png</Image>
+  </Item>
+  <Item>
+    <id>57337920</id>
+    <Name>Rootwoven Wraps</Name>
+    <Slot>Hands</Slot>
+    <Image>57337920.png</Image>
+  </Item>
+  <Item>
+    <id>25821894</id>
+    <Name>Rotten Hands</Name>
+    <Slot>Hands</Slot>
+    <Image>25821894.png</Image>
+  </Item>
+  <Item>
+    <id>29032992</id>
+    <Name>Runed Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>29032992.png</Image>
+  </Item>
+  <Item>
+    <id>67494879</id>
+    <Name>Sailor&apos;s Work Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>67494879.png</Image>
+  </Item>
+  <Item>
+    <id>1674244</id>
+    <Name>Shadow Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>1674244.png</Image>
+  </Item>
+  <Item>
+    <id>13297649</id>
+    <Name>Sticky Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>13297649.png</Image>
+  </Item>
+  <Item>
+    <id>48204156</id>
+    <Name>Tattered Leather Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>48204156.png</Image>
+  </Item>
+  <Item>
+    <id>73839600</id>
+    <Name>Thorned Knuckle Gloves</Name>
+    <Slot>Hands</Slot>
+    <Image>73839600.png</Image>
+  </Item>
+  <Item>
+    <id>9213820</id>
+    <Name>Wizarding Mitts</Name>
+    <Slot>Hands</Slot>
+    <Image>9213820.png</Image>
+  </Item>
+  <Item>
+    <id>55034264</id>
+    <Name>Woodland Gauntlets</Name>
+    <Slot>Hands</Slot>
+    <Image>55034264.png</Image>
+  </Item>
+  <Item>
+    <id>39840084</id>
+    <Name>Argo&apos;s Grimoire</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>39840084.png</Image>
+  </Item>
+  <Item>
+    <id>53997971</id>
+    <Name>Ascended Remains</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>53997971.png</Image>
+  </Item>
+  <Item>
+    <id>11581290</id>
+    <Name>Braxonian Testament</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>11581290.png</Image>
+  </Item>
+  <Item>
+    <id>61040760</id>
+    <Name>Celestial Spike</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>61040760.png</Image>
+  </Item>
+  <Item>
+    <id>29424696</id>
+    <Name>Cinder of Birth</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>29424696.png</Image>
+  </Item>
+  <Item>
+    <id>24566942</id>
+    <Name>Crystallized Tactics</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>24566942.png</Image>
+  </Item>
+  <Item>
+    <id>25539100</id>
+    <Name>Glowing Blue Stone</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>25539100.png</Image>
+  </Item>
+  <Item>
+    <id>19834144</id>
+    <Name>Idol of Sivakaya</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>19834144.png</Image>
+  </Item>
+  <Item>
+    <id>24833454</id>
+    <Name>Lamplighter&apos;s Spark</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>24833454.png</Image>
+  </Item>
+  <Item>
+    <id>1345764</id>
+    <Name>Memories of Snow</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>1345764.png</Image>
+  </Item>
+  <Item>
+    <id>4853466</id>
+    <Name>Pearlescent Kelp Totem</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>4853466.png</Image>
+  </Item>
+  <Item>
+    <id>35014556</id>
+    <Name>Priest&apos;s Stein</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>35014556.png</Image>
+  </Item>
+  <Item>
+    <id>2270100</id>
+    <Name>Resonating Crystal</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>2270100.png</Image>
+  </Item>
+  <Item>
+    <id>18034240</id>
+    <Name>Siva-Braxonian Teachings</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>18034240.png</Image>
+  </Item>
+  <Item>
+    <id>63850657</id>
+    <Name>Nighthollow Candle</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>63850657.png</Image>
+  </Item>
+  <Item>
+    <id>16561953</id>
+    <Name>Unlit Nighthollow Candle</Name>
+    <Slot>General</Slot>
+    <Image>16561953.png</Image>
+  </Item>
+  <Item>
+    <id>28820532</id>
+    <Name>Ulor&apos;s Encyclopedia</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>28820532.png</Image>
+  </Item>
+  <Item>
+    <id>42264261</id>
+    <Name>Aetherial Hood</Name>
+    <Slot>Head</Slot>
+    <Image>42264261.png</Image>
+  </Item>
+  <Item>
+    <id>5757672</id>
+    <Name>Aged Plate Mask</Name>
+    <Slot>Head</Slot>
+    <Image>5757672.png</Image>
+  </Item>
+  <Item>
+    <id>33261775</id>
+    <Name>Albino Bear Hood</Name>
+    <Slot>Head</Slot>
+    <Image>33261775.png</Image>
+  </Item>
+  <Item>
+    <id>39201800</id>
+    <Name>Ancient Guardian Helm</Name>
+    <Slot>Head</Slot>
+    <Image>39201800.png</Image>
+  </Item>
+  <Item>
+    <id>18837036</id>
+    <Name>Arcanist Cap</Name>
+    <Slot>Head</Slot>
+    <Image>18837036.png</Image>
+  </Item>
+  <Item>
+    <id>10754525</id>
+    <Name>Ardant&apos;s Crown</Name>
+    <Slot>Head</Slot>
+    <Image>10754525.png</Image>
+  </Item>
+  <Item>
+    <id>13611416</id>
+    <Name>Bandit&apos;s Mask</Name>
+    <Slot>Head</Slot>
+    <Image>13611416.png</Image>
+  </Item>
+  <Item>
+    <id>11842425</id>
+    <Name>Blessed Helm</Name>
+    <Slot>Head</Slot>
+    <Image>11842425.png</Image>
+  </Item>
+  <Item>
+    <id>14668425</id>
+    <Name>Chewed Helmet</Name>
+    <Slot>Head</Slot>
+    <Image>14668425.png</Image>
+  </Item>
+  <Item>
+    <id>386784</id>
+    <Name>Cloth Hood</Name>
+    <Slot>Head</Slot>
+    <Image>386784.png</Image>
+  </Item>
+  <Item>
+    <id>71813064</id>
+    <Name>Cold Steel Helm</Name>
+    <Slot>Head</Slot>
+    <Image>71813064.png</Image>
+  </Item>
+  <Item>
+    <id>12459644</id>
+    <Name>Daggersilk Hood</Name>
+    <Slot>Head</Slot>
+    <Image>12459644.png</Image>
+  </Item>
+  <Item>
+    <id>7981092</id>
+    <Name>Echoes</Name>
+    <Slot>Head</Slot>
+    <Image>7981092.png</Image>
+  </Item>
+  <Item>
+    <id>29075032</id>
+    <Name>Eternal Diadem</Name>
+    <Slot>Head</Slot>
+    <Image>29075032.png</Image>
+  </Item>
+  <Item>
+    <id>44978530</id>
+    <Name>Explorer&apos;s Cap</Name>
+    <Slot>Head</Slot>
+    <Image>44978530.png</Image>
+  </Item>
+  <Item>
+    <id>41639652</id>
+    <Name>Funeral Shroud</Name>
+    <Slot>Head</Slot>
+    <Image>41639652.png</Image>
+  </Item>
+  <Item>
+    <id>17154523</id>
+    <Name>Fury Helm</Name>
+    <Slot>Head</Slot>
+    <Image>17154523.png</Image>
+  </Item>
+  <Item>
+    <id>5586062</id>
+    <Name>Helm of the Deep</Name>
+    <Slot>Head</Slot>
+    <Image>5586062.png</Image>
+  </Item>
+  <Item>
+    <id>17619811</id>
+    <Name>Jackal Hood</Name>
+    <Slot>Head</Slot>
+    <Image>17619811.png</Image>
+  </Item>
+  <Item>
+    <id>5229320</id>
+    <Name>Jellycrown</Name>
+    <Slot>Head</Slot>
+    <Image>5229320.png</Image>
+  </Item>
+  <Item>
+    <id>44835924</id>
+    <Name>Jhalmathir, Helm of Generals</Name>
+    <Slot>Head</Slot>
+    <Image>44835924.png</Image>
+  </Item>
+  <Item>
+    <id>57120405</id>
+    <Name>Knight&apos;s Helm</Name>
+    <Slot>Head</Slot>
+    <Image>57120405.png</Image>
+  </Item>
+  <Item>
+    <id>16375500</id>
+    <Name>Wisdom of the Forest</Name>
+    <Slot>Head</Slot>
+    <Image>16375500.png</Image>
+  </Item>
+  <Item>
+    <id>8183875</id>
+    <Name>Lost Wizarding Hat</Name>
+    <Slot>Head</Slot>
+    <Image>8183875.png</Image>
+  </Item>
+  <Item>
+    <id>22809501</id>
+    <Name>Malaroth Hide Hood</Name>
+    <Slot>Head</Slot>
+    <Image>22809501.png</Image>
+  </Item>
+  <Item>
+    <id>23331904</id>
+    <Name>Mask of Spies</Name>
+    <Slot>Head</Slot>
+    <Image>23331904.png</Image>
+  </Item>
+  <Item>
+    <id>3673050</id>
+    <Name>Monarch&apos;s Mask</Name>
+    <Slot>Head</Slot>
+    <Image>3673050.png</Image>
+  </Item>
+  <Item>
+    <id>559590</id>
+    <Name>Pirate&apos;s Hair Tie</Name>
+    <Slot>Head</Slot>
+    <Image>559590.png</Image>
+  </Item>
+  <Item>
+    <id>76966656</id>
+    <Name>Plague Mask</Name>
+    <Slot>Head</Slot>
+    <Image>76966656.png</Image>
+  </Item>
+  <Item>
+    <id>23031767</id>
+    <Name>Ring of the Sea Giant King</Name>
+    <Slot>Head</Slot>
+    <Image>23031767.png</Image>
+  </Item>
+  <Item>
+    <id>57806280</id>
+    <Name>Ripparian Soldier Helm</Name>
+    <Slot>Head</Slot>
+    <Image>57806280.png</Image>
+  </Item>
+  <Item>
+    <id>65943306</id>
+    <Name>Rottenfoot Cap</Name>
+    <Slot>Head</Slot>
+    <Image>65943306.png</Image>
+  </Item>
+  <Item>
+    <id>27470025</id>
+    <Name>Seafarer&apos;s Hood</Name>
+    <Slot>Head</Slot>
+    <Image>27470025.png</Image>
+  </Item>
+  <Item>
+    <id>6343344</id>
+    <Name>Shivering Leather Skullcap</Name>
+    <Slot>Head</Slot>
+    <Image>6343344.png</Image>
+  </Item>
+  <Item>
+    <id>10317780</id>
+    <Name>Shroud of Barriers</Name>
+    <Slot>Head</Slot>
+    <Image>10317780.png</Image>
+  </Item>
+  <Item>
+    <id>1884800</id>
+    <Name>Siraethe&apos;s Prayercrest</Name>
+    <Slot>Head</Slot>
+    <Image>1884800.png</Image>
+  </Item>
+  <Item>
+    <id>38634710</id>
+    <Name>Sivakayan Cloth Band</Name>
+    <Slot>Head</Slot>
+    <Image>38634710.png</Image>
+  </Item>
+  <Item>
+    <id>44552112</id>
+    <Name>Rotting Sivakayan Helm</Name>
+    <Slot>Head</Slot>
+    <Image>44552112.png</Image>
+  </Item>
+  <Item>
+    <id>35666952</id>
+    <Name>Sivakayan Tricorner</Name>
+    <Slot>Head</Slot>
+    <Image>35666952.png</Image>
+  </Item>
+  <Item>
+    <id>29741149</id>
+    <Name>Slime Coated Helm</Name>
+    <Slot>Head</Slot>
+    <Image>29741149.png</Image>
+  </Item>
+  <Item>
+    <id>26504602</id>
+    <Name>Spinesnap Hide Hood</Name>
+    <Slot>Head</Slot>
+    <Image>26504602.png</Image>
+  </Item>
+  <Item>
+    <id>29716071</id>
+    <Name>Tattered Leather Skullcap</Name>
+    <Slot>Head</Slot>
+    <Image>29716071.png</Image>
+  </Item>
+  <Item>
+    <id>21358800</id>
+    <Name>Terra Crown</Name>
+    <Slot>Head</Slot>
+    <Image>21358800.png</Image>
+  </Item>
+  <Item>
+    <id>5389491</id>
+    <Name>Virophan Helm</Name>
+    <Slot>Head</Slot>
+    <Image>5389491.png</Image>
+  </Item>
+  <Item>
+    <id>45561726</id>
+    <Name>Ancient Braxonian Key</Name>
+    <Slot>General</Slot>
+    <Image>45561726.png</Image>
+  </Item>
+  <Item>
+    <id>4081162</id>
+    <Name>Port Azure Lighthouse Key</Name>
+    <Slot>General</Slot>
+    <Image>4081162.png</Image>
+  </Item>
+  <Item>
+    <id>57312774</id>
+    <Name>Shivering Key (Halloween Event)</Name>
+    <Slot>General</Slot>
+    <Image>57312774.png</Image>
+  </Item>
+  <Item>
+    <id>12701360</id>
+    <Name>Dockhouse Key</Name>
+    <Slot>General</Slot>
+    <Image>12701360.png</Image>
+  </Item>
+  <Item>
+    <id>33692266</id>
+    <Name></Name>
+    <Slot>General</Slot>
+    <Image>33692266.png</Image>
+  </Item>
+  <Item>
+    <id>42522480</id>
+    <Name>Ghostly Key</Name>
+    <Slot>General</Slot>
+    <Image>42522480.png</Image>
+  </Item>
+  <Item>
+    <id>59645670</id>
+    <Name>Intricate Key</Name>
+    <Slot>General</Slot>
+    <Image>59645670.png</Image>
+  </Item>
+  <Item>
+    <id>41026770</id>
+    <Name>Key to Vitheo&apos;s Rest</Name>
+    <Slot>General</Slot>
+    <Image>41026770.png</Image>
+  </Item>
+  <Item>
+    <id>2250018</id>
+    <Name>Key to Vitheo&apos;s Tomb</Name>
+    <Slot>General</Slot>
+    <Image>2250018.png</Image>
+  </Item>
+  <Item>
+    <id>7046010</id>
+    <Name>Krakengard Tower Key</Name>
+    <Slot>General</Slot>
+    <Image>7046010.png</Image>
+  </Item>
+  <Item>
+    <id>8765344</id>
+    <Name>Krakengard Bunk Key</Name>
+    <Slot>General</Slot>
+    <Image>8765344.png</Image>
+  </Item>
+  <Item>
+    <id>55345422</id>
+    <Name>Old Church Key</Name>
+    <Slot>General</Slot>
+    <Image>55345422.png</Image>
+  </Item>
+  <Item>
+    <id>16281</id>
+    <Name>Rockshade Key</Name>
+    <Slot>General</Slot>
+    <Image>16281.png</Image>
+  </Item>
+  <Item>
+    <id>2833017</id>
+    <Name>Sableheart&apos;s Key</Name>
+    <Slot>General</Slot>
+    <Image>2833017.png</Image>
+  </Item>
+  <Item>
+    <id>5403300</id>
+    <Name>Shivering Step Lighthouse Key</Name>
+    <Slot>General</Slot>
+    <Image>5403300.png</Image>
+  </Item>
+  <Item>
+    <id>1213296</id>
+    <Name>Shrines Key</Name>
+    <Slot>General</Slot>
+    <Image>1213296.png</Image>
+  </Item>
+  <Item>
+    <id>236996</id>
+    <Name>Stowaway&apos;s Step Gate Key</Name>
+    <Slot>General</Slot>
+    <Image>236996.png</Image>
+  </Item>
+  <Item>
+    <id>19039860</id>
+    <Name>Stowaway&apos;s Step Lighthouse Key</Name>
+    <Slot>General</Slot>
+    <Image>19039860.png</Image>
+  </Item>
+  <Item>
+    <id>2191808</id>
+    <Name>Key to Traitor&apos;s Halls</Name>
+    <Slot>General</Slot>
+    <Image>2191808.png</Image>
+  </Item>
+  <Item>
+    <id>54507504</id>
+    <Name>Aged Plate Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>54507504.png</Image>
+  </Item>
+  <Item>
+    <id>43790296</id>
+    <Name>Ancient Guardian Legplates</Name>
+    <Slot>Legs</Slot>
+    <Image>43790296.png</Image>
+  </Item>
+  <Item>
+    <id>62297870</id>
+    <Name>Azure Plate Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>62297870.png</Image>
+  </Item>
+  <Item>
+    <id>49793511</id>
+    <Name>Blightsteel Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>49793511.png</Image>
+  </Item>
+  <Item>
+    <id>402426</id>
+    <Name>Braxonian Breeches</Name>
+    <Slot>Legs</Slot>
+    <Image>402426.png</Image>
+  </Item>
+  <Item>
+    <id>2543880</id>
+    <Name>Braxonian Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>2543880.png</Image>
+  </Item>
+  <Item>
+    <id>1980512</id>
+    <Name>Braxonian Linens</Name>
+    <Slot>Legs</Slot>
+    <Image>1980512.png</Image>
+  </Item>
+  <Item>
+    <id>19219356</id>
+    <Name>Bronzed Solunian Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>19219356.png</Image>
+  </Item>
+  <Item>
+    <id>18975850</id>
+    <Name>Cavesilk Trousers</Name>
+    <Slot>Legs</Slot>
+    <Image>18975850.png</Image>
+  </Item>
+  <Item>
+    <id>21142065</id>
+    <Name>Cloth Pants</Name>
+    <Slot>Legs</Slot>
+    <Image>21142065.png</Image>
+  </Item>
+  <Item>
+    <id>510420</id>
+    <Name>Cobwebbed Breeches</Name>
+    <Slot>Legs</Slot>
+    <Image>510420.png</Image>
+  </Item>
+  <Item>
+    <id>11352139</id>
+    <Name>Cold Steel Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>11352139.png</Image>
+  </Item>
+  <Item>
+    <id>50065464</id>
+    <Name>Compression Wraps</Name>
+    <Slot>Legs</Slot>
+    <Image>50065464.png</Image>
+  </Item>
+  <Item>
+    <id>57438374</id>
+    <Name>Creationist&apos;s Legwrap</Name>
+    <Slot>Legs</Slot>
+    <Image>57438374.png</Image>
+  </Item>
+  <Item>
+    <id>56232108</id>
+    <Name>Daggersilk Trousers</Name>
+    <Slot>Legs</Slot>
+    <Image>56232108.png</Image>
+  </Item>
+  <Item>
+    <id>28067895</id>
+    <Name>Dusty Chain Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>28067895.png</Image>
+  </Item>
+  <Item>
+    <id>8454409</id>
+    <Name>Highwayman Pants</Name>
+    <Slot>Legs</Slot>
+    <Image>8454409.png</Image>
+  </Item>
+  <Item>
+    <id>2830721</id>
+    <Name>Illusionist Trousers</Name>
+    <Slot>Legs</Slot>
+    <Image>2830721.png</Image>
+  </Item>
+  <Item>
+    <id>42370480</id>
+    <Name>Light Plate Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>42370480.png</Image>
+  </Item>
+  <Item>
+    <id>4222708</id>
+    <Name>Linen Bedpants</Name>
+    <Slot>Legs</Slot>
+    <Image>4222708.png</Image>
+  </Item>
+  <Item>
+    <id>6640592</id>
+    <Name>Liturgical Pantaloons</Name>
+    <Slot>Legs</Slot>
+    <Image>6640592.png</Image>
+  </Item>
+  <Item>
+    <id>2622680</id>
+    <Name>Living Chainmail Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>2622680.png</Image>
+  </Item>
+  <Item>
+    <id>1025970</id>
+    <Name>Nightstalker Fur Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>1025970.png</Image>
+  </Item>
+  <Item>
+    <id>37234419</id>
+    <Name>Pillars of Pyroclast</Name>
+    <Slot>Legs</Slot>
+    <Image>37234419.png</Image>
+  </Item>
+  <Item>
+    <id>50218560</id>
+    <Name>Pyrelink Pantaloons</Name>
+    <Slot>Legs</Slot>
+    <Image>50218560.png</Image>
+  </Item>
+  <Item>
+    <id>15254492</id>
+    <Name>Reed Trousers</Name>
+    <Slot>Legs</Slot>
+    <Image>15254492.png</Image>
+  </Item>
+  <Item>
+    <id>31595102</id>
+    <Name>Ripparian Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>31595102.png</Image>
+  </Item>
+  <Item>
+    <id>6151222</id>
+    <Name>Shivering Leather Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>6151222.png</Image>
+  </Item>
+  <Item>
+    <id>7490295</id>
+    <Name>Silver Plated Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>7490295.png</Image>
+  </Item>
+  <Item>
+    <id>32144661</id>
+    <Name>Sivakayan Breeches</Name>
+    <Slot>Legs</Slot>
+    <Image>32144661.png</Image>
+  </Item>
+  <Item>
+    <id>19441026</id>
+    <Name>Sivakayan Legplate</Name>
+    <Slot>Legs</Slot>
+    <Image>19441026.png</Image>
+  </Item>
+  <Item>
+    <id>29539104</id>
+    <Name>Spritely Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>29539104.png</Image>
+  </Item>
+  <Item>
+    <id>2067177</id>
+    <Name>Starched Wool Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>2067177.png</Image>
+  </Item>
+  <Item>
+    <id>1670868</id>
+    <Name>Statuesque Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>1670868.png</Image>
+  </Item>
+  <Item>
+    <id>1085760</id>
+    <Name>Tarnished Greaves</Name>
+    <Slot>Legs</Slot>
+    <Image>1085760.png</Image>
+  </Item>
+  <Item>
+    <id>11437506</id>
+    <Name>Tattered Leather Leggings</Name>
+    <Slot>Legs</Slot>
+    <Image>11437506.png</Image>
+  </Item>
+  <Item>
+    <id>26237430</id>
+    <Name>Leggings of Undying Faith</Name>
+    <Slot>Legs</Slot>
+    <Image>26237430.png</Image>
+  </Item>
+  <Item>
+    <id>35120830</id>
+    <Name>Aether&apos;s Blessing</Name>
+    <Slot>Neck</Slot>
+    <Image>35120830.png</Image>
+  </Item>
+  <Item>
+    <id>434070</id>
+    <Name>Amulet of Azure</Name>
+    <Slot>Neck</Slot>
+    <Image>434070.png</Image>
+  </Item>
+  <Item>
+    <id>51866820</id>
+    <Name>Amulet of Birdsong</Name>
+    <Slot>Neck</Slot>
+    <Image>51866820.png</Image>
+  </Item>
+  <Item>
+    <id>9294732</id>
+    <Name>Blackened Iron Amulet</Name>
+    <Slot>Neck</Slot>
+    <Image>9294732.png</Image>
+  </Item>
+  <Item>
+    <id>43019145</id>
+    <Name>Brute&apos;s Chain Collar</Name>
+    <Slot>Neck</Slot>
+    <Image>43019145.png</Image>
+  </Item>
+  <Item>
+    <id>23800400</id>
+    <Name>Collar of the Huntress</Name>
+    <Slot>Neck</Slot>
+    <Image>23800400.png</Image>
+  </Item>
+  <Item>
+    <id>12271853</id>
+    <Name>Crest of Braxonia</Name>
+    <Slot>Neck</Slot>
+    <Image>12271853.png</Image>
+  </Item>
+  <Item>
+    <id>12232940</id>
+    <Name>Decayed Amulet</Name>
+    <Slot>Neck</Slot>
+    <Image>12232940.png</Image>
+  </Item>
+  <Item>
+    <id>35645469</id>
+    <Name>Demon&apos;s Crest</Name>
+    <Slot>Neck</Slot>
+    <Image>35645469.png</Image>
+  </Item>
+  <Item>
+    <id>63553280</id>
+    <Name>Fiery Revival</Name>
+    <Slot>Neck</Slot>
+    <Image>63553280.png</Image>
+  </Item>
+  <Item>
+    <id>52317092</id>
+    <Name>Flamelicked Gorget</Name>
+    <Slot>Neck</Slot>
+    <Image>52317092.png</Image>
+  </Item>
+  <Item>
+    <id>57247840</id>
+    <Name>Fluorite Amulet</Name>
+    <Slot>Neck</Slot>
+    <Image>57247840.png</Image>
+  </Item>
+  <Item>
+    <id>47929460</id>
+    <Name>Forest Pendant</Name>
+    <Slot>Neck</Slot>
+    <Image>47929460.png</Image>
+  </Item>
+  <Item>
+    <id>19809636</id>
+    <Name>Frozen Mana Charm</Name>
+    <Slot>Neck</Slot>
+    <Image>19809636.png</Image>
+  </Item>
+  <Item>
+    <id>1001610</id>
+    <Name>Lover&apos;s Locket</Name>
+    <Slot>Neck</Slot>
+    <Image>1001610.png</Image>
+  </Item>
+  <Item>
+    <id>22872190</id>
+    <Name>Malaroth Tag</Name>
+    <Slot>Neck</Slot>
+    <Image>22872190.png</Image>
+  </Item>
+  <Item>
+    <id>41864394</id>
+    <Name>Moonglow Amulet</Name>
+    <Slot>Neck</Slot>
+    <Image>41864394.png</Image>
+  </Item>
+  <Item>
+    <id>29042550</id>
+    <Name>Neophyte Necklace</Name>
+    <Slot>Neck</Slot>
+    <Image>29042550.png</Image>
+  </Item>
+  <Item>
+    <id>14388011</id>
+    <Name>A Grassland Sap Necklace</Name>
+    <Slot>Neck</Slot>
+    <Image>14388011.png</Image>
+  </Item>
+  <Item>
+    <id>58036473</id>
+    <Name>Pendant of Petrified Wood</Name>
+    <Slot>Neck</Slot>
+    <Image>58036473.png</Image>
+  </Item>
+  <Item>
+    <id>14265295</id>
+    <Name>Plain Necklace</Name>
+    <Slot>Neck</Slot>
+    <Image>14265295.png</Image>
+  </Item>
+  <Item>
+    <id>17310236</id>
+    <Name>Pteriaped Claw Necklace</Name>
+    <Slot>Neck</Slot>
+    <Image>17310236.png</Image>
+  </Item>
+  <Item>
+    <id>3328650</id>
+    <Name>Ripparian Pendant</Name>
+    <Slot>Neck</Slot>
+    <Image>3328650.png</Image>
+  </Item>
+  <Item>
+    <id>4198783</id>
+    <Name>Scarab Necklace</Name>
+    <Slot>Neck</Slot>
+    <Image>4198783.png</Image>
+  </Item>
+  <Item>
+    <id>17726085</id>
+    <Name>Seafarer&apos;s Pendant</Name>
+    <Slot>Neck</Slot>
+    <Image>17726085.png</Image>
+  </Item>
+  <Item>
+    <id>16122766</id>
+    <Name>Seastone Prism</Name>
+    <Slot>Neck</Slot>
+    <Image>16122766.png</Image>
+  </Item>
+  <Item>
+    <id>20832306</id>
+    <Name>Soul Echo</Name>
+    <Slot>Neck</Slot>
+    <Image>20832306.png</Image>
+  </Item>
+  <Item>
+    <id>16924170</id>
+    <Name>Swirlstone Amulet</Name>
+    <Slot>Neck</Slot>
+    <Image>16924170.png</Image>
+  </Item>
+  <Item>
+    <id>5920152</id>
+    <Name>Temporal Shard</Name>
+    <Slot>Neck</Slot>
+    <Image>5920152.png</Image>
+  </Item>
+  <Item>
+    <id>15144192</id>
+    <Name>The Gift of Eloquence</Name>
+    <Slot>Neck</Slot>
+    <Image>15144192.png</Image>
+  </Item>
+  <Item>
+    <id>77895450</id>
+    <Name>Twinkling Pendant</Name>
+    <Slot>Neck</Slot>
+    <Image>77895450.png</Image>
+  </Item>
+  <Item>
+    <id>21230440</id>
+    <Name>Ancient Coal</Name>
+    <Slot>General</Slot>
+    <Image>21230440.png</Image>
+  </Item>
+  <Item>
+    <id>604476</id>
+    <Name>Braxonian Ore</Name>
+    <Slot>General</Slot>
+    <Image>604476.png</Image>
+  </Item>
+  <Item>
+    <id>48574785</id>
+    <Name>Chunk of Copper Ore</Name>
+    <Slot>General</Slot>
+    <Image>48574785.png</Image>
+  </Item>
+  <Item>
+    <id>41947641</id>
+    <Name>Chunk of Citrine Sandsilver</Name>
+    <Slot>General</Slot>
+    <Image>41947641.png</Image>
+  </Item>
+  <Item>
+    <id>18041364</id>
+    <Name>Coal</Name>
+    <Slot>General</Slot>
+    <Image>18041364.png</Image>
+  </Item>
+  <Item>
+    <id>74455375</id>
+    <Name>Chunk of Iron Ore</Name>
+    <Slot>General</Slot>
+    <Image>74455375.png</Image>
+  </Item>
+  <Item>
+    <id>10770144</id>
+    <Name>Chunk of Obsidian</Name>
+    <Slot>General</Slot>
+    <Image>10770144.png</Image>
+  </Item>
+  <Item>
+    <id>14470533</id>
+    <Name>Planar Stone Shards</Name>
+    <Slot>General</Slot>
+    <Image>14470533.png</Image>
+  </Item>
+  <Item>
+    <id>46289586</id>
+    <Name>Planar Stone</Name>
+    <Slot>General</Slot>
+    <Image>46289586.png</Image>
+  </Item>
+  <Item>
+    <id>9521448</id>
+    <Name>Rock</Name>
+    <Slot>General</Slot>
+    <Image>9521448.png</Image>
+  </Item>
+  <Item>
+    <id>8441796</id>
+    <Name>Sivakayan Ore</Name>
+    <Slot>General</Slot>
+    <Image>8441796.png</Image>
+  </Item>
+  <Item>
+    <id>15607765</id>
+    <Name>Stardust</Name>
+    <Slot>General</Slot>
+    <Image>15607765.png</Image>
+  </Item>
+  <Item>
+    <id>45333696</id>
+    <Name>Vithean Ore</Name>
+    <Slot>General</Slot>
+    <Image>45333696.png</Image>
+  </Item>
+  <Item>
+    <id>16960411</id>
+    <Name>Afternoon on the Isle</Name>
+    <Slot>General</Slot>
+    <Image>16960411.png</Image>
+  </Item>
+  <Item>
+    <id>21019953</id>
+    <Name>Bellwain Attic Key</Name>
+    <Slot>General</Slot>
+    <Image>21019953.png</Image>
+  </Item>
+  <Item>
+    <id>4086274</id>
+    <Name>Bellwain Bathroom Key</Name>
+    <Slot>General</Slot>
+    <Image>4086274.png</Image>
+  </Item>
+  <Item>
+    <id>586908</id>
+    <Name>Bellwain&apos;s Master Key</Name>
+    <Slot>General</Slot>
+    <Image>586908.png</Image>
+  </Item>
+  <Item>
+    <id>850704</id>
+    <Name>Bellwain Bedroom Key</Name>
+    <Slot>General</Slot>
+    <Image>850704.png</Image>
+  </Item>
+  <Item>
+    <id>38656873</id>
+    <Name>Bellsie&apos;s Wine</Name>
+    <Slot>General</Slot>
+    <Image>38656873.png</Image>
+  </Item>
+  <Item>
+    <id>30149670</id>
+    <Name>Detective Books</Name>
+    <Slot>General</Slot>
+    <Image>30149670.png</Image>
+  </Item>
+  <Item>
+    <id>15856580</id>
+    <Name>A collection of notes</Name>
+    <Slot>General</Slot>
+    <Image>15856580.png</Image>
+  </Item>
+  <Item>
+    <id>64017378</id>
+    <Name>Drafty Baths</Name>
+    <Slot>General</Slot>
+    <Image>64017378.png</Image>
+  </Item>
+  <Item>
+    <id>2955955</id>
+    <Name>Eroding Rockwall</Name>
+    <Slot>General</Slot>
+    <Image>2955955.png</Image>
+  </Item>
+  <Item>
+    <id>56658056</id>
+    <Name>Evening on the Isle</Name>
+    <Slot>General</Slot>
+    <Image>56658056.png</Image>
+  </Item>
+  <Item>
+    <id>43137696</id>
+    <Name>Bellwain&apos;s Last Entry</Name>
+    <Slot>General</Slot>
+    <Image>43137696.png</Image>
+  </Item>
+  <Item>
+    <id>23612484</id>
+    <Name>The Flint</Name>
+    <Slot>General</Slot>
+    <Image>23612484.png</Image>
+  </Item>
+  <Item>
+    <id>12096612</id>
+    <Name>The Garden Song</Name>
+    <Slot>General</Slot>
+    <Image>12096612.png</Image>
+  </Item>
+  <Item>
+    <id>14042332</id>
+    <Name>Mid Day on the Isle</Name>
+    <Slot>General</Slot>
+    <Image>14042332.png</Image>
+  </Item>
+  <Item>
+    <id>19808222</id>
+    <Name>Morning on the Isle</Name>
+    <Slot>General</Slot>
+    <Image>19808222.png</Image>
+  </Item>
+  <Item>
+    <id>46546698</id>
+    <Name>The Recipe</Name>
+    <Slot>General</Slot>
+    <Image>46546698.png</Image>
+  </Item>
+  <Item>
+    <id>23499150</id>
+    <Name>Relaxation</Name>
+    <Slot>General</Slot>
+    <Image>23499150.png</Image>
+  </Item>
+  <Item>
+    <id>47393892</id>
+    <Name>The Stash</Name>
+    <Slot>General</Slot>
+    <Image>47393892.png</Image>
+  </Item>
+  <Item>
+    <id>21474040</id>
+    <Name>Bellwain Study Key</Name>
+    <Slot>General</Slot>
+    <Image>21474040.png</Image>
+  </Item>
+  <Item>
+    <id>23143406</id>
+    <Name>The Sun Lilies</Name>
+    <Slot>General</Slot>
+    <Image>23143406.png</Image>
+  </Item>
+  <Item>
+    <id>66142125</id>
+    <Name>The Warning</Name>
+    <Slot>General</Slot>
+    <Image>66142125.png</Image>
+  </Item>
+  <Item>
+    <id>45118800</id>
+    <Name>Charged Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>45118800.png</Image>
+  </Item>
+  <Item>
+    <id>9590672</id>
+    <Name>Charged Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>9590672.png</Image>
+  </Item>
+  <Item>
+    <id>27931596</id>
+    <Name>Charged Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>27931596.png</Image>
+  </Item>
+  <Item>
+    <id>1223677</id>
+    <Name>Charged Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>1223677.png</Image>
+  </Item>
+  <Item>
+    <id>27349353</id>
+    <Name>Charged Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>27349353.png</Image>
+  </Item>
+  <Item>
+    <id>3879663</id>
+    <Name>Empty Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>3879663.png</Image>
+  </Item>
+  <Item>
+    <id>9771586</id>
+    <Name>Blaze Fiend</Name>
+    <Slot>General</Slot>
+    <Image>9771586.png</Image>
+  </Item>
+  <Item>
+    <id>18459968</id>
+    <Name>Ember Acolyte</Name>
+    <Slot>General</Slot>
+    <Image>18459968.png</Image>
+  </Item>
+  <Item>
+    <id>15981108</id>
+    <Name>Kingsman</Name>
+    <Slot>General</Slot>
+    <Image>15981108.png</Image>
+  </Item>
+  <Item>
+    <id>42827151</id>
+    <Name>Monarch of Flame</Name>
+    <Slot>General</Slot>
+    <Image>42827151.png</Image>
+  </Item>
+  <Item>
+    <id>18871371</id>
+    <Name>Peon</Name>
+    <Slot>General</Slot>
+    <Image>18871371.png</Image>
+  </Item>
+  <Item>
+    <id>41121216</id>
+    <Name>A Strange Figurine</Name>
+    <Slot>General</Slot>
+    <Image>41121216.png</Image>
+  </Item>
+  <Item>
+    <id>32076</id>
+    <Name>The Faceless</Name>
+    <Slot>General</Slot>
+    <Image>32076.png</Image>
+  </Item>
+  <Item>
+    <id>7556335</id>
+    <Name>The Necromancer</Name>
+    <Slot>General</Slot>
+    <Image>7556335.png</Image>
+  </Item>
+  <Item>
+    <id>7608162</id>
+    <Name>Loss Stone</Name>
+    <Slot>General</Slot>
+    <Image>7608162.png</Image>
+  </Item>
+  <Item>
+    <id>47164594</id>
+    <Name>Rainbow Flint</Name>
+    <Slot>General</Slot>
+    <Image>47164594.png</Image>
+  </Item>
+  <Item>
+    <id>532704</id>
+    <Name>Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>532704.png</Image>
+  </Item>
+  <Item>
+    <id>12143015</id>
+    <Name>Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>12143015.png</Image>
+  </Item>
+  <Item>
+    <id>9946448</id>
+    <Name>Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>9946448.png</Image>
+  </Item>
+  <Item>
+    <id>3506662</id>
+    <Name>Soul Gem</Name>
+    <Slot>General</Slot>
+    <Image>3506662.png</Image>
+  </Item>
+  <Item>
+    <id>62567200</id>
+    <Name>Aged Ring of Barriers</Name>
+    <Slot>Ring</Slot>
+    <Image>62567200.png</Image>
+  </Item>
+  <Item>
+    <id>76283144</id>
+    <Name>Ceremonial Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>76283144.png</Image>
+  </Item>
+  <Item>
+    <id>25852196</id>
+    <Name>Pristine Ceremonial Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>25852196.png</Image>
+  </Item>
+  <Item>
+    <id>15659420</id>
+    <Name>Angler&apos;s Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>15659420.png</Image>
+  </Item>
+  <Item>
+    <id>972192</id>
+    <Name>Birdbone Band</Name>
+    <Slot>Ring</Slot>
+    <Image>972192.png</Image>
+  </Item>
+  <Item>
+    <id>27754245</id>
+    <Name>Bladeturner</Name>
+    <Slot>Ring</Slot>
+    <Image>27754245.png</Image>
+  </Item>
+  <Item>
+    <id>35183216</id>
+    <Name>Bog Hoop</Name>
+    <Slot>Ring</Slot>
+    <Image>35183216.png</Image>
+  </Item>
+  <Item>
+    <id>27370392</id>
+    <Name>Clouded Diamond Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>27370392.png</Image>
+  </Item>
+  <Item>
+    <id>7611989</id>
+    <Name>Decayed Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>7611989.png</Image>
+  </Item>
+  <Item>
+    <id>10173864</id>
+    <Name>Elderstone Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>10173864.png</Image>
+  </Item>
+  <Item>
+    <id>98936</id>
+    <Name>Green Emerald Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>98936.png</Image>
+  </Item>
+  <Item>
+    <id>581780</id>
+    <Name>Fiery Sapphire Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>581780.png</Image>
+  </Item>
+  <Item>
+    <id>15835312</id>
+    <Name>Fire Emerald Band</Name>
+    <Slot>Ring</Slot>
+    <Image>15835312.png</Image>
+  </Item>
+  <Item>
+    <id>18068875</id>
+    <Name>Frozen Lava Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>18068875.png</Image>
+  </Item>
+  <Item>
+    <id>19247374</id>
+    <Name>Gapped Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>19247374.png</Image>
+  </Item>
+  <Item>
+    <id>10050534</id>
+    <Name>Golden Luminstone Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>10050534.png</Image>
+  </Item>
+  <Item>
+    <id>1062925</id>
+    <Name>Shivering Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>1062925.png</Image>
+  </Item>
+  <Item>
+    <id>6702762</id>
+    <Name>Hardened Slime Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>6702762.png</Image>
+  </Item>
+  <Item>
+    <id>20885445</id>
+    <Name>Insect Shell Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>20885445.png</Image>
+  </Item>
+  <Item>
+    <id>11590722</id>
+    <Name>Inspiration</Name>
+    <Slot>Ring</Slot>
+    <Image>11590722.png</Image>
+  </Item>
+  <Item>
+    <id>4672452</id>
+    <Name>Jackalbone Loop</Name>
+    <Slot>Ring</Slot>
+    <Image>4672452.png</Image>
+  </Item>
+  <Item>
+    <id>2808621</id>
+    <Name>Living Ruby Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>2808621.png</Image>
+  </Item>
+  <Item>
+    <id>18605298</id>
+    <Name>Living Sapphire Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>18605298.png</Image>
+  </Item>
+  <Item>
+    <id>35367625</id>
+    <Name>Molorai Allegiant Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>35367625.png</Image>
+  </Item>
+  <Item>
+    <id>20072394</id>
+    <Name>Eldoth&apos;s Heirloom Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>20072394.png</Image>
+  </Item>
+  <Item>
+    <id>9052494</id>
+    <Name>Monarch&apos;s Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>9052494.png</Image>
+  </Item>
+  <Item>
+    <id>28683140</id>
+    <Name>Phoenix Loop</Name>
+    <Slot>Ring</Slot>
+    <Image>28683140.png</Image>
+  </Item>
+  <Item>
+    <id>66952500</id>
+    <Name>Priel Insignia Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>66952500.png</Image>
+  </Item>
+  <Item>
+    <id>5021268</id>
+    <Name>Priel Officer&apos;s Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>5021268.png</Image>
+  </Item>
+  <Item>
+    <id>24955840</id>
+    <Name>Ring of Clarity</Name>
+    <Slot>Ring</Slot>
+    <Image>24955840.png</Image>
+  </Item>
+  <Item>
+    <id>17138316</id>
+    <Name>Ring of Echoes</Name>
+    <Slot>Ring</Slot>
+    <Image>17138316.png</Image>
+  </Item>
+  <Item>
+    <id>20675200</id>
+    <Name>Ring of Magic Bolt</Name>
+    <Slot>Ring</Slot>
+    <Image>20675200.png</Image>
+  </Item>
+  <Item>
+    <id>5696034</id>
+    <Name>Ring of Repeated Thoughts</Name>
+    <Slot>Ring</Slot>
+    <Image>5696034.png</Image>
+  </Item>
+  <Item>
+    <id>30688280</id>
+    <Name>Ring of the Ascended</Name>
+    <Slot>Ring</Slot>
+    <Image>30688280.png</Image>
+  </Item>
+  <Item>
+    <id>37177440</id>
+    <Name>Ring of the Deceiver</Name>
+    <Slot>Ring</Slot>
+    <Image>37177440.png</Image>
+  </Item>
+  <Item>
+    <id>8981049</id>
+    <Name>Ring of The Mystics</Name>
+    <Slot>Ring</Slot>
+    <Image>8981049.png</Image>
+  </Item>
+  <Item>
+    <id>19604620</id>
+    <Name>Ring of the Old</Name>
+    <Slot>Ring</Slot>
+    <Image>19604620.png</Image>
+  </Item>
+  <Item>
+    <id>36622894</id>
+    <Name>Ring of the Pious</Name>
+    <Slot>Ring</Slot>
+    <Image>36622894.png</Image>
+  </Item>
+  <Item>
+    <id>24087168</id>
+    <Name>Ring of the Sky</Name>
+    <Slot>Ring</Slot>
+    <Image>24087168.png</Image>
+  </Item>
+  <Item>
+    <id>7667484</id>
+    <Name>Ring of Visions</Name>
+    <Slot>Ring</Slot>
+    <Image>7667484.png</Image>
+  </Item>
+  <Item>
+    <id>52438623</id>
+    <Name>Ripper Insignia Badge</Name>
+    <Slot>General</Slot>
+    <Image>52438623.png</Image>
+  </Item>
+  <Item>
+    <id>80809925</id>
+    <Name>Rottenfoot Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>80809925.png</Image>
+  </Item>
+  <Item>
+    <id>15647310</id>
+    <Name>Ocean Aged Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>15647310.png</Image>
+  </Item>
+  <Item>
+    <id>751140</id>
+    <Name>Shielded Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>751140.png</Image>
+  </Item>
+  <Item>
+    <id>12977086</id>
+    <Name>Simple Engagement Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>12977086.png</Image>
+  </Item>
+  <Item>
+    <id>10523975</id>
+    <Name>Sivakaya&apos;s Touch</Name>
+    <Slot>Ring</Slot>
+    <Image>10523975.png</Image>
+  </Item>
+  <Item>
+    <id>3296459</id>
+    <Name>Skyfolk Band</Name>
+    <Slot>Ring</Slot>
+    <Image>3296459.png</Image>
+  </Item>
+  <Item>
+    <id>28555527</id>
+    <Name>Slumberbloom Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>28555527.png</Image>
+  </Item>
+  <Item>
+    <id>67368072</id>
+    <Name>Solar Forged Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>67368072.png</Image>
+  </Item>
+  <Item>
+    <id>3580947</id>
+    <Name>Strategist&apos;s Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>3580947.png</Image>
+  </Item>
+  <Item>
+    <id>5702144</id>
+    <Name>Tempestalia, Ring of Storms</Name>
+    <Slot>Ring</Slot>
+    <Image>5702144.png</Image>
+  </Item>
+  <Item>
+    <id>1169380</id>
+    <Name>Toxin Warped Band</Name>
+    <Slot>Ring</Slot>
+    <Image>1169380.png</Image>
+  </Item>
+  <Item>
+    <id>546057</id>
+    <Name>Unsocketed Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>546057.png</Image>
+  </Item>
+  <Item>
+    <id>4404131</id>
+    <Name>Vessel&apos;s Band</Name>
+    <Slot>Ring</Slot>
+    <Image>4404131.png</Image>
+  </Item>
+  <Item>
+    <id>50370420</id>
+    <Name>Vithean Sea Salt Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>50370420.png</Image>
+  </Item>
+  <Item>
+    <id>12877260</id>
+    <Name>Voidbloom Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>12877260.png</Image>
+  </Item>
+  <Item>
+    <id>4082120</id>
+    <Name>Waldorf Family Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>4082120.png</Image>
+  </Item>
+  <Item>
+    <id>53963496</id>
+    <Name>Wild Colossus Ring</Name>
+    <Slot>Ring</Slot>
+    <Image>53963496.png</Image>
+  </Item>
+  <Item>
+    <id>7870735</id>
+    <Name>Wisdom Band</Name>
+    <Slot>Ring</Slot>
+    <Image>7870735.png</Image>
+  </Item>
+  <Item>
+    <id>60824396</id>
+    <Name>Bastion</Name>
+    <Slot>Secondary</Slot>
+    <Image>60824396.png</Image>
+  </Item>
+  <Item>
+    <id>16758324</id>
+    <Name>Braxonian Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>16758324.png</Image>
+  </Item>
+  <Item>
+    <id>41753612</id>
+    <Name>Crested Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>41753612.png</Image>
+  </Item>
+  <Item>
+    <id>43072825</id>
+    <Name>Cursed Hide Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>43072825.png</Image>
+  </Item>
+  <Item>
+    <id>29324202</id>
+    <Name>Diamondine Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>29324202.png</Image>
+  </Item>
+  <Item>
+    <id>47141402</id>
+    <Name>Dusken Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>47141402.png</Image>
+  </Item>
+  <Item>
+    <id>59638479</id>
+    <Name>Erandian Avenger</Name>
+    <Slot>Secondary</Slot>
+    <Image>59638479.png</Image>
+  </Item>
+  <Item>
+    <id>6704400</id>
+    <Name>Griefwarden</Name>
+    <Slot>Secondary</Slot>
+    <Image>6704400.png</Image>
+  </Item>
+  <Item>
+    <id>43055028</id>
+    <Name>Magus Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>43055028.png</Image>
+  </Item>
+  <Item>
+    <id>8064604</id>
+    <Name>Mudmold Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>8064604.png</Image>
+  </Item>
+  <Item>
+    <id>58052085</id>
+    <Name>Old Buckler</Name>
+    <Slot>Secondary</Slot>
+    <Image>58052085.png</Image>
+  </Item>
+  <Item>
+    <id>12794904</id>
+    <Name>Rotting Metal Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>12794904.png</Image>
+  </Item>
+  <Item>
+    <id>84620118</id>
+    <Name>Royal Carapace</Name>
+    <Slot>Secondary</Slot>
+    <Image>84620118.png</Image>
+  </Item>
+  <Item>
+    <id>21833055</id>
+    <Name>Runed Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>21833055.png</Image>
+  </Item>
+  <Item>
+    <id>11529762</id>
+    <Name>Shivering Torch</Name>
+    <Slot>Secondary</Slot>
+    <Image>11529762.png</Image>
+  </Item>
+  <Item>
+    <id>46915344</id>
+    <Name>Sivakayan Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>46915344.png</Image>
+  </Item>
+  <Item>
+    <id>14861638</id>
+    <Name>Slab of Meteorite</Name>
+    <Slot>Secondary</Slot>
+    <Image>14861638.png</Image>
+  </Item>
+  <Item>
+    <id>33021609</id>
+    <Name>Twilight Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>33021609.png</Image>
+  </Item>
+  <Item>
+    <id>69253223</id>
+    <Name>Volcanic Shield</Name>
+    <Slot>Secondary</Slot>
+    <Image>69253223.png</Image>
+  </Item>
+  <Item>
+    <id>6687324</id>
+    <Name>Skill Book: Arcane Proficiency</Name>
+    <Slot>General</Slot>
+    <Image>6687324.png</Image>
+  </Item>
+  <Item>
+    <id>49058786</id>
+    <Name>Skill Book: Arcane Recovery</Name>
+    <Slot>General</Slot>
+    <Image>49058786.png</Image>
+  </Item>
+  <Item>
+    <id>37406475</id>
+    <Name>Skill Book: Backstab</Name>
+    <Slot>General</Slot>
+    <Image>37406475.png</Image>
+  </Item>
+  <Item>
+    <id>40626701</id>
+    <Name>Skill Book: Shield Bash</Name>
+    <Slot>General</Slot>
+    <Image>40626701.png</Image>
+  </Item>
+  <Item>
+    <id>1905358</id>
+    <Name>Skill Book: Block</Name>
+    <Slot>General</Slot>
+    <Image>1905358.png</Image>
+  </Item>
+  <Item>
+    <id>33230897</id>
+    <Name>Skill Book: Block II</Name>
+    <Slot>General</Slot>
+    <Image>33230897.png</Image>
+  </Item>
+  <Item>
+    <id>13131339</id>
+    <Name>Skill Book: Block III</Name>
+    <Slot>General</Slot>
+    <Image>13131339.png</Image>
+  </Item>
+  <Item>
+    <id>30022236</id>
+    <Name>Skill Book: Block IV</Name>
+    <Slot>General</Slot>
+    <Image>30022236.png</Image>
+  </Item>
+  <Item>
+    <id>15310968</id>
+    <Name>Skill Book: Blood Feast</Name>
+    <Slot>General</Slot>
+    <Image>15310968.png</Image>
+  </Item>
+  <Item>
+    <id>6278998</id>
+    <Name>Skill Book: Cleave</Name>
+    <Slot>General</Slot>
+    <Image>6278998.png</Image>
+  </Item>
+  <Item>
+    <id>46151532</id>
+    <Name>Skill Book: Melee Proficiency</Name>
+    <Slot>General</Slot>
+    <Image>46151532.png</Image>
+  </Item>
+  <Item>
+    <id>10432938</id>
+    <Name>Skill Book: Crippling Blow</Name>
+    <Slot>General</Slot>
+    <Image>10432938.png</Image>
+  </Item>
+  <Item>
+    <id>228774</id>
+    <Name>Skill Book: Dodge</Name>
+    <Slot>General</Slot>
+    <Image>228774.png</Image>
+  </Item>
+  <Item>
+    <id>4411142</id>
+    <Name>Skill Book: Dodge II</Name>
+    <Slot>General</Slot>
+    <Image>4411142.png</Image>
+  </Item>
+  <Item>
+    <id>6461871</id>
+    <Name>Skill Book: Dodge III</Name>
+    <Slot>General</Slot>
+    <Image>6461871.png</Image>
+  </Item>
+  <Item>
+    <id>35689575</id>
+    <Name>Skill Book: Dodge IV</Name>
+    <Slot>General</Slot>
+    <Image>35689575.png</Image>
+  </Item>
+  <Item>
+    <id>20753328</id>
+    <Name>Skill Book: Double Attack</Name>
+    <Slot>General</Slot>
+    <Image>20753328.png</Image>
+  </Item>
+  <Item>
+    <id>1233414</id>
+    <Name>Skill Book: Dual Wield</Name>
+    <Slot>General</Slot>
+    <Image>1233414.png</Image>
+  </Item>
+  <Item>
+    <id>15382125</id>
+    <Name>Skill book: Fishing</Name>
+    <Slot>General</Slot>
+    <Image>15382125.png</Image>
+  </Item>
+  <Item>
+    <id>25108196</id>
+    <Name>Skill Book: Kick</Name>
+    <Slot>General</Slot>
+    <Image>25108196.png</Image>
+  </Item>
+  <Item>
+    <id>22662632</id>
+    <Name>Skill Book: Lingering Inferno</Name>
+    <Slot>General</Slot>
+    <Image>22662632.png</Image>
+  </Item>
+  <Item>
+    <id>2291289</id>
+    <Name>Skill Book: Victor&apos;s Pride</Name>
+    <Slot>General</Slot>
+    <Image>2291289.png</Image>
+  </Item>
+  <Item>
+    <id>15637880</id>
+    <Name>Skill Book: Priel Strike</Name>
+    <Slot>General</Slot>
+    <Image>15637880.png</Image>
+  </Item>
+  <Item>
+    <id>22473724</id>
+    <Name>Skill Book: Reap and Renew</Name>
+    <Slot>General</Slot>
+    <Image>22473724.png</Image>
+  </Item>
+  <Item>
+    <id>8971325</id>
+    <Name>Skill Book: Celestial Smite</Name>
+    <Slot>General</Slot>
+    <Image>8971325.png</Image>
+  </Item>
+  <Item>
+    <id>6247692</id>
+    <Name>Skill Book: Soluna&apos;s Touch</Name>
+    <Slot>General</Slot>
+    <Image>6247692.png</Image>
+  </Item>
+  <Item>
+    <id>49727426</id>
+    <Name>Skill Book: Stunning Strike</Name>
+    <Slot>General</Slot>
+    <Image>49727426.png</Image>
+  </Item>
+  <Item>
+    <id>42022708</id>
+    <Name>Spell Scroll: Aetherstorm</Name>
+    <Slot>General</Slot>
+    <Image>42022708.png</Image>
+  </Item>
+  <Item>
+    <id>46165438</id>
+    <Name>Spell Scroll: Annihilate</Name>
+    <Slot>General</Slot>
+    <Image>46165438.png</Image>
+  </Item>
+  <Item>
+    <id>68027552</id>
+    <Name>Spell Scroll: Antidote</Name>
+    <Slot>General</Slot>
+    <Image>68027552.png</Image>
+  </Item>
+  <Item>
+    <id>50471658</id>
+    <Name>Spell Scroll: Arterial Collapse</Name>
+    <Slot>General</Slot>
+    <Image>50471658.png</Image>
+  </Item>
+  <Item>
+    <id>52088082</id>
+    <Name>Spell Scroll: Biting Vines</Name>
+    <Slot>General</Slot>
+    <Image>52088082.png</Image>
+  </Item>
+  <Item>
+    <id>32597910</id>
+    <Name>Spell Scroll: Brax&apos;s Fury</Name>
+    <Slot>General</Slot>
+    <Image>32597910.png</Image>
+  </Item>
+  <Item>
+    <id>20771432</id>
+    <Name>Spell Scroll: Brax&apos;s Rage</Name>
+    <Slot>General</Slot>
+    <Image>20771432.png</Image>
+  </Item>
+  <Item>
+    <id>15302448</id>
+    <Name>Spell Scroll: Brax&apos;s Touch</Name>
+    <Slot>General</Slot>
+    <Image>15302448.png</Image>
+  </Item>
+  <Item>
+    <id>2864176</id>
+    <Name>Spell Scroll: Burning Chains</Name>
+    <Slot>General</Slot>
+    <Image>2864176.png</Image>
+  </Item>
+  <Item>
+    <id>46631694</id>
+    <Name>Spell Scroll: Call of the Void</Name>
+    <Slot>General</Slot>
+    <Image>46631694.png</Image>
+  </Item>
+  <Item>
+    <id>65530080</id>
+    <Name>Spell Scroll: Celestial Pull</Name>
+    <Slot>General</Slot>
+    <Image>65530080.png</Image>
+  </Item>
+  <Item>
+    <id>35987364</id>
+    <Name>Spell Scroll: Coma</Name>
+    <Slot>General</Slot>
+    <Image>35987364.png</Image>
+  </Item>
+  <Item>
+    <id>461696</id>
+    <Name>Spell Scroll: Concuss</Name>
+    <Slot>General</Slot>
+    <Image>461696.png</Image>
+  </Item>
+  <Item>
+    <id>41868112</id>
+    <Name>Spell Scroll: Dazzle</Name>
+    <Slot>General</Slot>
+    <Image>41868112.png</Image>
+  </Item>
+  <Item>
+    <id>335358</id>
+    <Name>Spell Scroll: Death&apos;s Embrace</Name>
+    <Slot>General</Slot>
+    <Image>335358.png</Image>
+  </Item>
+  <Item>
+    <id>3631578</id>
+    <Name>Spell Scroll: Death&apos;s Embrace II</Name>
+    <Slot>General</Slot>
+    <Image>3631578.png</Image>
+  </Item>
+  <Item>
+    <id>1036679</id>
+    <Name>Spell Scroll: Devour</Name>
+    <Slot>General</Slot>
+    <Image>1036679.png</Image>
+  </Item>
+  <Item>
+    <id>9291642</id>
+    <Name>Spell Scroll: Dissipate Storm</Name>
+    <Slot>General</Slot>
+    <Image>9291642.png</Image>
+  </Item>
+  <Item>
+    <id>39465398</id>
+    <Name>Spell Scroll: Dooming Undertow</Name>
+    <Slot>General</Slot>
+    <Image>39465398.png</Image>
+  </Item>
+  <Item>
+    <id>4739592</id>
+    <Name>Spell Scroll: Blast of Thorns</Name>
+    <Slot>General</Slot>
+    <Image>4739592.png</Image>
+  </Item>
+  <Item>
+    <id>5059950</id>
+    <Name>Spell Scroll: Cull the Unfit</Name>
+    <Slot>General</Slot>
+    <Image>5059950.png</Image>
+  </Item>
+  <Item>
+    <id>20969270</id>
+    <Name>Spell Scroll: Extinction Bloom</Name>
+    <Slot>General</Slot>
+    <Image>20969270.png</Image>
+  </Item>
+  <Item>
+    <id>2959000</id>
+    <Name>Spell Scroll: Forest&apos;s Reckoning</Name>
+    <Slot>General</Slot>
+    <Image>2959000.png</Image>
+  </Item>
+  <Item>
+    <id>1876844</id>
+    <Name>Spell Scroll: The Wild&apos;s Grasp</Name>
+    <Slot>General</Slot>
+    <Image>1876844.png</Image>
+  </Item>
+  <Item>
+    <id>920</id>
+    <Name>Spell Scroll: Ethereal Rending</Name>
+    <Slot>General</Slot>
+    <Image>920.png</Image>
+  </Item>
+  <Item>
+    <id>939816</id>
+    <Name>Spell Scroll: Expose Weakness</Name>
+    <Slot>General</Slot>
+    <Image>939816.png</Image>
+  </Item>
+  <Item>
+    <id>628764</id>
+    <Name>Spell Scroll: Flight of Foot</Name>
+    <Slot>General</Slot>
+    <Image>628764.png</Image>
+  </Item>
+  <Item>
+    <id>2689005</id>
+    <Name>Spell Scroll: Focus</Name>
+    <Slot>General</Slot>
+    <Image>2689005.png</Image>
+  </Item>
+  <Item>
+    <id>17433350</id>
+    <Name>Spell Scroll: Funeral Pyre</Name>
+    <Slot>General</Slot>
+    <Image>17433350.png</Image>
+  </Item>
+  <Item>
+    <id>50412558</id>
+    <Name>Spell Scroll: Gift of Vitae</Name>
+    <Slot>General</Slot>
+    <Image>50412558.png</Image>
+  </Item>
+  <Item>
+    <id>24024064</id>
+    <Name>Spell Scroll: Glare of Soluna</Name>
+    <Slot>General</Slot>
+    <Image>24024064.png</Image>
+  </Item>
+  <Item>
+    <id>16169966</id>
+    <Name>Spell Scroll: Glimpse of Truth</Name>
+    <Slot>General</Slot>
+    <Image>16169966.png</Image>
+  </Item>
+  <Item>
+    <id>15577916</id>
+    <Name>Spell Scroll: Greater Regrowth</Name>
+    <Slot>General</Slot>
+    <Image>15577916.png</Image>
+  </Item>
+  <Item>
+    <id>13655072</id>
+    <Name>Spell Scroll: Group Healing</Name>
+    <Slot>General</Slot>
+    <Image>13655072.png</Image>
+  </Item>
+  <Item>
+    <id>27641460</id>
+    <Name>Spell Scroll: Major Group Healing</Name>
+    <Slot>General</Slot>
+    <Image>27641460.png</Image>
+  </Item>
+  <Item>
+    <id>32944485</id>
+    <Name>Spell Scroll: Group Revitalize</Name>
+    <Slot>General</Slot>
+    <Image>32944485.png</Image>
+  </Item>
+  <Item>
+    <id>1616292</id>
+    <Name>Spell Scroll: Hardened Skin</Name>
+    <Slot>General</Slot>
+    <Image>1616292.png</Image>
+  </Item>
+  <Item>
+    <id>3508692</id>
+    <Name>Spell Scroll: Healing</Name>
+    <Slot>General</Slot>
+    <Image>3508692.png</Image>
+  </Item>
+  <Item>
+    <id>18550015</id>
+    <Name>Spell Scroll: Ice Bolt</Name>
+    <Slot>General</Slot>
+    <Image>18550015.png</Image>
+  </Item>
+  <Item>
+    <id>27294017</id>
+    <Name>Spell Scroll: Ice Spear</Name>
+    <Slot>General</Slot>
+    <Image>27294017.png</Image>
+  </Item>
+  <Item>
+    <id>44347632</id>
+    <Name>Spell Scroll: Immolation</Name>
+    <Slot>General</Slot>
+    <Image>44347632.png</Image>
+  </Item>
+  <Item>
+    <id>77409729</id>
+    <Name>Spell Scroll: Impending Doom</Name>
+    <Slot>General</Slot>
+    <Image>77409729.png</Image>
+  </Item>
+  <Item>
+    <id>965760</id>
+    <Name>Spell Scroll: Infernis</Name>
+    <Slot>General</Slot>
+    <Image>965760.png</Image>
+  </Item>
+  <Item>
+    <id>19299875</id>
+    <Name>Spell Scroll: Internal Rot</Name>
+    <Slot>General</Slot>
+    <Image>19299875.png</Image>
+  </Item>
+  <Item>
+    <id>40696455</id>
+    <Name>Spell Scroll: Intrusive Ideas</Name>
+    <Slot>General</Slot>
+    <Image>40696455.png</Image>
+  </Item>
+  <Item>
+    <id>34080984</id>
+    <Name>Spell Scroll: Invasive Thoughts</Name>
+    <Slot>General</Slot>
+    <Image>34080984.png</Image>
+  </Item>
+  <Item>
+    <id>2224000</id>
+    <Name>Spell Scroll: Invoke Storm</Name>
+    <Slot>General</Slot>
+    <Image>2224000.png</Image>
+  </Item>
+  <Item>
+    <id>53370144</id>
+    <Name>Spell Scroll: Jolt</Name>
+    <Slot>General</Slot>
+    <Image>53370144.png</Image>
+  </Item>
+  <Item>
+    <id>3530571</id>
+    <Name>Spell Scroll: Lunar Madness</Name>
+    <Slot>General</Slot>
+    <Image>3530571.png</Image>
+  </Item>
+  <Item>
+    <id>3698275</id>
+    <Name>Spell Scroll: Magic Bolt</Name>
+    <Slot>General</Slot>
+    <Image>3698275.png</Image>
+  </Item>
+  <Item>
+    <id>30972000</id>
+    <Name>Spell Scroll: Magical Skin</Name>
+    <Slot>General</Slot>
+    <Image>30972000.png</Image>
+  </Item>
+  <Item>
+    <id>2006430</id>
+    <Name>Spell Scroll: Magical Skin II</Name>
+    <Slot>General</Slot>
+    <Image>2006430.png</Image>
+  </Item>
+  <Item>
+    <id>42582132</id>
+    <Name>Spell Scroll: Major Healing</Name>
+    <Slot>General</Slot>
+    <Image>42582132.png</Image>
+  </Item>
+  <Item>
+    <id>11645900</id>
+    <Name>Spell Scroll: Major Lightning</Name>
+    <Slot>General</Slot>
+    <Image>11645900.png</Image>
+  </Item>
+  <Item>
+    <id>66621012</id>
+    <Name>Spell Scroll: Mana Charge</Name>
+    <Slot>General</Slot>
+    <Image>66621012.png</Image>
+  </Item>
+  <Item>
+    <id>42713706</id>
+    <Name>Spell Scroll: Minor Healing</Name>
+    <Slot>General</Slot>
+    <Image>42713706.png</Image>
+  </Item>
+  <Item>
+    <id>70712727</id>
+    <Name>Spell Scroll: Minor Lightning</Name>
+    <Slot>General</Slot>
+    <Image>70712727.png</Image>
+  </Item>
+  <Item>
+    <id>3060700</id>
+    <Name>Spell Scroll: Minor Protection</Name>
+    <Slot>General</Slot>
+    <Image>3060700.png</Image>
+  </Item>
+  <Item>
+    <id>52525158</id>
+    <Name>Spell Scroll: Minor Regen</Name>
+    <Slot>General</Slot>
+    <Image>52525158.png</Image>
+  </Item>
+  <Item>
+    <id>17476126</id>
+    <Name>Spell Scroll: Moonburst</Name>
+    <Slot>General</Slot>
+    <Image>17476126.png</Image>
+  </Item>
+  <Item>
+    <id>72854820</id>
+    <Name>Spell Scroll: Moonlit Frenzy</Name>
+    <Slot>General</Slot>
+    <Image>72854820.png</Image>
+  </Item>
+  <Item>
+    <id>58116994</id>
+    <Name>Spell Scroll: Morbidity&apos;s Grasp</Name>
+    <Slot>General</Slot>
+    <Image>58116994.png</Image>
+  </Item>
+  <Item>
+    <id>19377162</id>
+    <Name>Spell Scroll: Ocean&apos;s Lull</Name>
+    <Slot>General</Slot>
+    <Image>19377162.png</Image>
+  </Item>
+  <Item>
+    <id>38332441</id>
+    <Name>Spell Scroll: Flight of Foot</Name>
+    <Slot>General</Slot>
+    <Image>38332441.png</Image>
+  </Item>
+  <Item>
+    <id>15327195</id>
+    <Name>Spell Scroll: Protection</Name>
+    <Slot>General</Slot>
+    <Image>15327195.png</Image>
+  </Item>
+  <Item>
+    <id>8613220</id>
+    <Name>Spell Scroll: Regrowth</Name>
+    <Slot>General</Slot>
+    <Image>8613220.png</Image>
+  </Item>
+  <Item>
+    <id>46655301</id>
+    <Name>Spell Scroll: Sleep</Name>
+    <Slot>General</Slot>
+    <Image>46655301.png</Image>
+  </Item>
+  <Item>
+    <id>12054072</id>
+    <Name>Spell Scroll: Soluna&apos;s Solar Blessing</Name>
+    <Slot>General</Slot>
+    <Image>12054072.png</Image>
+  </Item>
+  <Item>
+    <id>14453926</id>
+    <Name>Spell Scroll: Soluna&apos;s Solar Invigoration</Name>
+    <Slot>General</Slot>
+    <Image>14453926.png</Image>
+  </Item>
+  <Item>
+    <id>11691227</id>
+    <Name>Spell Scroll: Soul Tap</Name>
+    <Slot>General</Slot>
+    <Image>11691227.png</Image>
+  </Item>
+  <Item>
+    <id>16322066</id>
+    <Name>Spell Scroll: Spectrum</Name>
+    <Slot>General</Slot>
+    <Image>16322066.png</Image>
+  </Item>
+  <Item>
+    <id>29052624</id>
+    <Name>Spell Scroll: Theft of Vigor</Name>
+    <Slot>General</Slot>
+    <Image>29052624.png</Image>
+  </Item>
+  <Item>
+    <id>173565</id>
+    <Name>Spell Scroll: Summon Brute</Name>
+    <Slot>General</Slot>
+    <Image>173565.png</Image>
+  </Item>
+  <Item>
+    <id>15331736</id>
+    <Name>Spell Scroll: Summon Cursed Fawn</Name>
+    <Slot>General</Slot>
+    <Image>15331736.png</Image>
+  </Item>
+  <Item>
+    <id>2200698</id>
+    <Name>Spell Scroll: Summon Decayed Fawn</Name>
+    <Slot>General</Slot>
+    <Image>2200698.png</Image>
+  </Item>
+  <Item>
+    <id>1683468</id>
+    <Name>Spell Scroll: Summon Dire Wolf</Name>
+    <Slot>General</Slot>
+    <Image>1683468.png</Image>
+  </Item>
+  <Item>
+    <id>17814888</id>
+    <Name>Spell Scroll: Summon Forest Spirit</Name>
+    <Slot>General</Slot>
+    <Image>17814888.png</Image>
+  </Item>
+  <Item>
+    <id>11260674</id>
+    <Name>Spell Scroll: Summon Wretched Fawn</Name>
+    <Slot>General</Slot>
+    <Image>11260674.png</Image>
+  </Item>
+  <Item>
+    <id>28385210</id>
+    <Name>Spell Scroll: Sunburst</Name>
+    <Slot>General</Slot>
+    <Image>28385210.png</Image>
+  </Item>
+  <Item>
+    <id>7018503</id>
+    <Name>Spell Scroll: Supreme Healing</Name>
+    <Slot>General</Slot>
+    <Image>7018503.png</Image>
+  </Item>
+  <Item>
+    <id>74869938</id>
+    <Name>Spell Scroll: Tangle</Name>
+    <Slot>General</Slot>
+    <Image>74869938.png</Image>
+  </Item>
+  <Item>
+    <id>33997428</id>
+    <Name>Spell Scroll: Tenebris</Name>
+    <Slot>General</Slot>
+    <Image>33997428.png</Image>
+  </Item>
+  <Item>
+    <id>4044822</id>
+    <Name>Spell Scroll: Theft of Life</Name>
+    <Slot>General</Slot>
+    <Image>4044822.png</Image>
+  </Item>
+  <Item>
+    <id>13339997</id>
+    <Name>Spell Scroll: Toxicity</Name>
+    <Slot>General</Slot>
+    <Image>13339997.png</Image>
+  </Item>
+  <Item>
+    <id>46318909</id>
+    <Name>Spell Scroll: Twisting Mind</Name>
+    <Slot>General</Slot>
+    <Image>46318909.png</Image>
+  </Item>
+  <Item>
+    <id>45576339</id>
+    <Name>Spell Scroll: Vithean Breeze</Name>
+    <Slot>General</Slot>
+    <Image>45576339.png</Image>
+  </Item>
+  <Item>
+    <id>56667765</id>
+    <Name>Spell Scroll: Vithean Frenzy</Name>
+    <Slot>General</Slot>
+    <Image>56667765.png</Image>
+  </Item>
+  <Item>
+    <id>3812688</id>
+    <Name>Spell Scroll: Vithean Gale</Name>
+    <Slot>General</Slot>
+    <Image>3812688.png</Image>
+  </Item>
+  <Item>
+    <id>66684513</id>
+    <Name>Spell Scroll: Vithean Wind</Name>
+    <Slot>General</Slot>
+    <Image>66684513.png</Image>
+  </Item>
+  <Item>
+    <id>462920</id>
+    <Name>Spell Scroll: Vitheo&apos;s Blessing of the Sea</Name>
+    <Slot>General</Slot>
+    <Image>462920.png</Image>
+  </Item>
+  <Item>
+    <id>831816</id>
+    <Name>Spell Scroll: Vitheo&apos;s Blessing of the Wind</Name>
+    <Slot>General</Slot>
+    <Image>831816.png</Image>
+  </Item>
+  <Item>
+    <id>51900576</id>
+    <Name>Spell Scroll: Weak Poison</Name>
+    <Slot>General</Slot>
+    <Image>51900576.png</Image>
+  </Item>
+  <Item>
+    <id>89376</id>
+    <Name>Spell Scroll: Weight of the Sea</Name>
+    <Slot>General</Slot>
+    <Image>89376.png</Image>
+  </Item>
+  <Item>
+    <id>31530204</id>
+    <Name>Spell Scroll: Winter&apos;s Bite</Name>
+    <Slot>General</Slot>
+    <Image>31530204.png</Image>
+  </Item>
+  <Item>
+    <id>8561245</id>
+    <Name>Mold: A Ceremonial Ring</Name>
+    <Slot>General</Slot>
+    <Image>8561245.png</Image>
+  </Item>
+  <Item>
+    <id>34923434</id>
+    <Name>Mold: A Ghostly Key</Name>
+    <Slot>General</Slot>
+    <Image>34923434.png</Image>
+  </Item>
+  <Item>
+    <id>13232086</id>
+    <Name>Mold: A Strange Figurine</Name>
+    <Slot>General</Slot>
+    <Image>13232086.png</Image>
+  </Item>
+  <Item>
+    <id>31377423</id>
+    <Name>Mold: An Otherwordly Box</Name>
+    <Slot>General</Slot>
+    <Image>31377423.png</Image>
+  </Item>
+  <Item>
+    <id>73900728</id>
+    <Name>Mold: Angler&apos;s Ring</Name>
+    <Slot>General</Slot>
+    <Image>73900728.png</Image>
+  </Item>
+  <Item>
+    <id>31945104</id>
+    <Name>Mold: Copper Sceptre</Name>
+    <Slot>General</Slot>
+    <Image>31945104.png</Image>
+  </Item>
+  <Item>
+    <id>31576832</id>
+    <Name>Mold: Copper Sword</Name>
+    <Slot>General</Slot>
+    <Image>31576832.png</Image>
+  </Item>
+  <Item>
+    <id>307192</id>
+    <Name>Mold: Charm of Age</Name>
+    <Slot>General</Slot>
+    <Image>307192.png</Image>
+  </Item>
+  <Item>
+    <id>23383545</id>
+    <Name>Mold: Charm of Brilliance</Name>
+    <Slot>General</Slot>
+    <Image>23383545.png</Image>
+  </Item>
+  <Item>
+    <id>5730456</id>
+    <Name>Mold: Charm of Compassion</Name>
+    <Slot>General</Slot>
+    <Image>5730456.png</Image>
+  </Item>
+  <Item>
+    <id>9608508</id>
+    <Name>Mold: Charm of Rage</Name>
+    <Slot>General</Slot>
+    <Image>9608508.png</Image>
+  </Item>
+  <Item>
+    <id>8984640</id>
+    <Name>Mold: Charm of Stone</Name>
+    <Slot>General</Slot>
+    <Image>8984640.png</Image>
+  </Item>
+  <Item>
+    <id>57687762</id>
+    <Name>Mold: Charm of the Jester</Name>
+    <Slot>General</Slot>
+    <Image>57687762.png</Image>
+  </Item>
+  <Item>
+    <id>23272545</id>
+    <Name>Mold: Charm of Vanity</Name>
+    <Slot>General</Slot>
+    <Image>23272545.png</Image>
+  </Item>
+  <Item>
+    <id>16570960</id>
+    <Name>Mold: Firestone Charm</Name>
+    <Slot>General</Slot>
+    <Image>16570960.png</Image>
+  </Item>
+  <Item>
+    <id>2298018</id>
+    <Name>Inert Diamond</Name>
+    <Slot>General</Slot>
+    <Image>2298018.png</Image>
+  </Item>
+  <Item>
+    <id>76379800</id>
+    <Name>Mold: Magibane Charm</Name>
+    <Slot>General</Slot>
+    <Image>76379800.png</Image>
+  </Item>
+  <Item>
+    <id>28852848</id>
+    <Name>Mold: Nighthollow Wax</Name>
+    <Slot>General</Slot>
+    <Image>28852848.png</Image>
+  </Item>
+  <Item>
+    <id>3397200</id>
+    <Name>Resolving Fluid</Name>
+    <Slot>General</Slot>
+    <Image>3397200.png</Image>
+  </Item>
+  <Item>
+    <id>46802719</id>
+    <Name>Mold: Spiderbane Charm</Name>
+    <Slot>General</Slot>
+    <Image>46802719.png</Image>
+  </Item>
+  <Item>
+    <id>54654335</id>
+    <Name>Mold: Voidstone Charm</Name>
+    <Slot>General</Slot>
+    <Image>54654335.png</Image>
+  </Item>
+  <Item>
+    <id>32620720</id>
+    <Name>Adept Wand</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>32620720.png</Image>
+  </Item>
+  <Item>
+    <id>31427040</id>
+    <Name>Boneweaver&apos;s Leg</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>31427040.png</Image>
+  </Item>
+  <Item>
+    <id>47409984</id>
+    <Name>Brax&apos;s Candle</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>47409984.png</Image>
+  </Item>
+  <Item>
+    <id>55277254</id>
+    <Name>Eyestalk Wand</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>55277254.png</Image>
+  </Item>
+  <Item>
+    <id>4214124</id>
+    <Name>Fungal Bouquet</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>4214124.png</Image>
+  </Item>
+  <Item>
+    <id>52381840</id>
+    <Name>Garg Wand</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>52381840.png</Image>
+  </Item>
+  <Item>
+    <id>41050704</id>
+    <Name>Hardened Sceptre</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>41050704.png</Image>
+  </Item>
+  <Item>
+    <id>79500585</id>
+    <Name>Ogrespice Bundle</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>79500585.png</Image>
+  </Item>
+  <Item>
+    <id>11537478</id>
+    <Name>Singularity, Vessel of Creation</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>11537478.png</Image>
+  </Item>
+  <Item>
+    <id>3239916</id>
+    <Name>Sivakayan Sceptre</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>3239916.png</Image>
+  </Item>
+  <Item>
+    <id>23926573</id>
+    <Name>Sivakayan Wand</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>23926573.png</Image>
+  </Item>
+  <Item>
+    <id>3794175</id>
+    <Name>Spectral Sceptre</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>3794175.png</Image>
+  </Item>
+  <Item>
+    <id>46328832</id>
+    <Name>Volcanic Sceptre</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>46328832.png</Image>
+  </Item>
+  <Item>
+    <id>1624168</id>
+    <Name>Wand of Air</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>1624168.png</Image>
+  </Item>
+  <Item>
+    <id>58835400</id>
+    <Name>Weak Wand</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>58835400.png</Image>
+  </Item>
+  <Item>
+    <id>25005990</id>
+    <Name>Petrified Club</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>25005990.png</Image>
+  </Item>
+  <Item>
+    <id>12401205</id>
+    <Name>Acolyte&apos;s Cudgel</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>12401205.png</Image>
+  </Item>
+  <Item>
+    <id>24104440</id>
+    <Name>Anointed Sword</Name>
+    <Slot>Primary</Slot>
+    <Image>24104440.png</Image>
+  </Item>
+  <Item>
+    <id>65826329</id>
+    <Name>Apotheosis</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>65826329.png</Image>
+  </Item>
+  <Item>
+    <id>13105400</id>
+    <Name>Asp&apos;s Fang</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>13105400.png</Image>
+  </Item>
+  <Item>
+    <id>10407852</id>
+    <Name>Awaken</Name>
+    <Slot>Primary</Slot>
+    <Image>10407852.png</Image>
+  </Item>
+  <Item>
+    <id>49343820</id>
+    <Name>Azynthian Blade</Name>
+    <Slot>Primary</Slot>
+    <Image>49343820.png</Image>
+  </Item>
+  <Item>
+    <id>19559730</id>
+    <Name>Azynthian Dagger</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>19559730.png</Image>
+  </Item>
+  <Item>
+    <id>38656400</id>
+    <Name>Basic Pick</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>38656400.png</Image>
+  </Item>
+  <Item>
+    <id>10389378</id>
+    <Name>Bear Bone Club</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>10389378.png</Image>
+  </Item>
+  <Item>
+    <id>4801680</id>
+    <Name>Blackbone Axe</Name>
+    <Slot>Primary</Slot>
+    <Image>4801680.png</Image>
+  </Item>
+  <Item>
+    <id>20176773</id>
+    <Name>Blackflame Torch</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>20176773.png</Image>
+  </Item>
+  <Item>
+    <id>27811592</id>
+    <Name>Blade of the Sea</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>27811592.png</Image>
+  </Item>
+  <Item>
+    <id>51552773</id>
+    <Name>Bloodletter</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>51552773.png</Image>
+  </Item>
+  <Item>
+    <id>5205588</id>
+    <Name>Brackwood Mace</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>5205588.png</Image>
+  </Item>
+  <Item>
+    <id>14299392</id>
+    <Name>Bramblecull</Name>
+    <Slot>Primary</Slot>
+    <Image>14299392.png</Image>
+  </Item>
+  <Item>
+    <id>2186835</id>
+    <Name>Braxonian Mace</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>2186835.png</Image>
+  </Item>
+  <Item>
+    <id>19592993</id>
+    <Name>Ceto</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>19592993.png</Image>
+  </Item>
+  <Item>
+    <id>27746595</id>
+    <Name>Charged Sword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>27746595.png</Image>
+  </Item>
+  <Item>
+    <id>13126795</id>
+    <Name>Cryptid Claws</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>13126795.png</Image>
+  </Item>
+  <Item>
+    <id>2277010</id>
+    <Name>Diamond Claymore</Name>
+    <Slot>Primary</Slot>
+    <Image>2277010.png</Image>
+  </Item>
+  <Item>
+    <id>31677786</id>
+    <Name>Diamond Claw</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>31677786.png</Image>
+  </Item>
+  <Item>
+    <id>20742414</id>
+    <Name>Diamondine Mace</Name>
+    <Slot>Primary</Slot>
+    <Image>20742414.png</Image>
+  </Item>
+  <Item>
+    <id>7850025</id>
+    <Name>Dreamslayer</Name>
+    <Slot>Primary</Slot>
+    <Image>7850025.png</Image>
+  </Item>
+  <Item>
+    <id>13662159</id>
+    <Name>Dusken Staff</Name>
+    <Slot>Primary</Slot>
+    <Image>13662159.png</Image>
+  </Item>
+  <Item>
+    <id>3919974</id>
+    <Name>Ebonshade</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>3919974.png</Image>
+  </Item>
+  <Item>
+    <id>32152666</id>
+    <Name>End&apos;s Bane</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>32152666.png</Image>
+  </Item>
+  <Item>
+    <id>80395704</id>
+    <Name>Eon, Blade of Time</Name>
+    <Slot>Primary</Slot>
+    <Image>80395704.png</Image>
+  </Item>
+  <Item>
+    <id>1619552</id>
+    <Name>Ephermalia, Blade of Waning</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>1619552.png</Image>
+  </Item>
+  <Item>
+    <id>26062822</id>
+    <Name>Esen</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>26062822.png</Image>
+  </Item>
+  <Item>
+    <id>3063575</id>
+    <Name>Eternox, Remnant of the Void</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>3063575.png</Image>
+  </Item>
+  <Item>
+    <id>21129813</id>
+    <Name>Executioner of Azure</Name>
+    <Slot>Primary</Slot>
+    <Image>21129813.png</Image>
+  </Item>
+  <Item>
+    <id>36179260</id>
+    <Name>Fishing Pole</Name>
+    <Slot>Primary</Slot>
+    <Image>36179260.png</Image>
+  </Item>
+  <Item>
+    <id>6216180</id>
+    <Name>Frostmaker</Name>
+    <Slot>Primary</Slot>
+    <Image>6216180.png</Image>
+  </Item>
+  <Item>
+    <id>10748148</id>
+    <Name>Fungal Staff</Name>
+    <Slot>Primary</Slot>
+    <Image>10748148.png</Image>
+  </Item>
+  <Item>
+    <id>27758097</id>
+    <Name>Gourd Carver</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>27758097.png</Image>
+  </Item>
+  <Item>
+    <id>19083702</id>
+    <Name>Heavy Bladed Mace</Name>
+    <Slot>Primary</Slot>
+    <Image>19083702.png</Image>
+  </Item>
+  <Item>
+    <id>23366313</id>
+    <Name>Horn of Aeiros</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>23366313.png</Image>
+  </Item>
+  <Item>
+    <id>42069048</id>
+    <Name>Jellystick</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>42069048.png</Image>
+  </Item>
+  <Item>
+    <id>1192285</id>
+    <Name>Journeyman&apos;s Pick</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>1192285.png</Image>
+  </Item>
+  <Item>
+    <id>2200320</id>
+    <Name>Lamentation</Name>
+    <Slot>Primary</Slot>
+    <Image>2200320.png</Image>
+  </Item>
+  <Item>
+    <id>52361760</id>
+    <Name>Looming Reaper</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>52361760.png</Image>
+  </Item>
+  <Item>
+    <id>215350</id>
+    <Name>Lux, Carver of Stars</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>215350.png</Image>
+  </Item>
+  <Item>
+    <id>3940321</id>
+    <Name>Mason&apos;s Pick</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>3940321.png</Image>
+  </Item>
+  <Item>
+    <id>7545312</id>
+    <Name>Mino Hatchet</Name>
+    <Slot>Primary</Slot>
+    <Image>7545312.png</Image>
+  </Item>
+  <Item>
+    <id>25190405</id>
+    <Name>Minoaxe</Name>
+    <Slot>Primary</Slot>
+    <Image>25190405.png</Image>
+  </Item>
+  <Item>
+    <id>528565</id>
+    <Name>Mithril Short Sword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>528565.png</Image>
+  </Item>
+  <Item>
+    <id>1810908</id>
+    <Name>Molorai Axe</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>1810908.png</Image>
+  </Item>
+  <Item>
+    <id>4875826</id>
+    <Name>Molorai Broadsword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>4875826.png</Image>
+  </Item>
+  <Item>
+    <id>3527998</id>
+    <Name>Molorai Parrying Dagger</Name>
+    <Slot>Secondary</Slot>
+    <Image>3527998.png</Image>
+  </Item>
+  <Item>
+    <id>72779188</id>
+    <Name>Molten Axe</Name>
+    <Slot>Primary</Slot>
+    <Image>72779188.png</Image>
+  </Item>
+  <Item>
+    <id>31627755</id>
+    <Name>Monarch&apos;s Blade</Name>
+    <Slot>Primary</Slot>
+    <Image>31627755.png</Image>
+  </Item>
+  <Item>
+    <id>12200706</id>
+    <Name>Nightfall</Name>
+    <Slot>Primary</Slot>
+    <Image>12200706.png</Image>
+  </Item>
+  <Item>
+    <id>34806941</id>
+    <Name>Ogre Tooth Club</Name>
+    <Slot>Primary</Slot>
+    <Image>34806941.png</Image>
+  </Item>
+  <Item>
+    <id>27224410</id>
+    <Name>Oslind&apos;s Eviscerator</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>27224410.png</Image>
+  </Item>
+  <Item>
+    <id>53249370</id>
+    <Name>Pathfinder&apos;s Staff</Name>
+    <Slot>Primary</Slot>
+    <Image>53249370.png</Image>
+  </Item>
+  <Item>
+    <id>49375795</id>
+    <Name>Petrified Wood Cane</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>49375795.png</Image>
+  </Item>
+  <Item>
+    <id>7315352</id>
+    <Name>Sleeper&apos;s Pin</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>7315352.png</Image>
+  </Item>
+  <Item>
+    <id>14629164</id>
+    <Name>Polished Longsword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>14629164.png</Image>
+  </Item>
+  <Item>
+    <id>12795800</id>
+    <Name>Priel Knife</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>12795800.png</Image>
+  </Item>
+  <Item>
+    <id>45634050</id>
+    <Name>Queen&apos;s Fang</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>45634050.png</Image>
+  </Item>
+  <Item>
+    <id>46904496</id>
+    <Name>Razor Waveblade</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>46904496.png</Image>
+  </Item>
+  <Item>
+    <id>4509481</id>
+    <Name>Ripparian Axe</Name>
+    <Slot>Primary</Slot>
+    <Image>4509481.png</Image>
+  </Item>
+  <Item>
+    <id>17668274</id>
+    <Name>Fungal Edge</Name>
+    <Slot>Primary</Slot>
+    <Image>17668274.png</Image>
+  </Item>
+  <Item>
+    <id>25519290</id>
+    <Name>Rotting Cudgel</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>25519290.png</Image>
+  </Item>
+  <Item>
+    <id>49572</id>
+    <Name>Rusty Greatsword</Name>
+    <Slot>Primary</Slot>
+    <Image>49572.png</Image>
+  </Item>
+  <Item>
+    <id>26368464</id>
+    <Name>Rusty Hatchet</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>26368464.png</Image>
+  </Item>
+  <Item>
+    <id>3821650</id>
+    <Name>Rusty Shortsword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>3821650.png</Image>
+  </Item>
+  <Item>
+    <id>5403384</id>
+    <Name>Rusty Dagger</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>5403384.png</Image>
+  </Item>
+  <Item>
+    <id>7912436</id>
+    <Name>Scorched Walking Stick</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>7912436.png</Image>
+  </Item>
+  <Item>
+    <id>547230</id>
+    <Name>Sea Giant&apos;s Cutlass</Name>
+    <Slot>Primary</Slot>
+    <Image>547230.png</Image>
+  </Item>
+  <Item>
+    <id>18769800</id>
+    <Name>Short Sword of Viropha</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>18769800.png</Image>
+  </Item>
+  <Item>
+    <id>2772876</id>
+    <Name>Sivakayan Axe</Name>
+    <Slot>Primary</Slot>
+    <Image>2772876.png</Image>
+  </Item>
+  <Item>
+    <id>21027609</id>
+    <Name>Sivakayan Hookblade</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>21027609.png</Image>
+  </Item>
+  <Item>
+    <id>47216834</id>
+    <Name>Sivakayan Straightsword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>47216834.png</Image>
+  </Item>
+  <Item>
+    <id>9950545</id>
+    <Name>Smoldering Blade</Name>
+    <Slot>Primary</Slot>
+    <Image>9950545.png</Image>
+  </Item>
+  <Item>
+    <id>41583104</id>
+    <Name>Soulshiver</Name>
+    <Slot>Primary</Slot>
+    <Image>41583104.png</Image>
+  </Item>
+  <Item>
+    <id>29356280</id>
+    <Name>Spectral Dagger</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>29356280.png</Image>
+  </Item>
+  <Item>
+    <id>16938834</id>
+    <Name>Spectral Sword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>16938834.png</Image>
+  </Item>
+  <Item>
+    <id>44188746</id>
+    <Name>Spidersmasher</Name>
+    <Slot>Primary</Slot>
+    <Image>44188746.png</Image>
+  </Item>
+  <Item>
+    <id>8247596</id>
+    <Name>Standard Halberd</Name>
+    <Slot>Primary</Slot>
+    <Image>8247596.png</Image>
+  </Item>
+  <Item>
+    <id>40371400</id>
+    <Name>Steel Long Sword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>40371400.png</Image>
+  </Item>
+  <Item>
+    <id>10972997</id>
+    <Name>Stirrer of Sleep</Name>
+    <Slot>Primary</Slot>
+    <Image>10972997.png</Image>
+  </Item>
+  <Item>
+    <id>10652567</id>
+    <Name>Stone Sword</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>10652567.png</Image>
+  </Item>
+  <Item>
+    <id>21573936</id>
+    <Name>Tarnished Halberd</Name>
+    <Slot>Primary</Slot>
+    <Image>21573936.png</Image>
+  </Item>
+  <Item>
+    <id>29417310</id>
+    <Name>The Interrogator</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>29417310.png</Image>
+  </Item>
+  <Item>
+    <id>15304068</id>
+    <Name>Thorn</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>15304068.png</Image>
+  </Item>
+  <Item>
+    <id>42934520</id>
+    <Name>Thryne, Sledge of Creation</Name>
+    <Slot>Primary</Slot>
+    <Image>42934520.png</Image>
+  </Item>
+  <Item>
+    <id>51236240</id>
+    <Name>Songmaker</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>51236240.png</Image>
+  </Item>
+  <Item>
+    <id>78490728</id>
+    <Name>Traitor&apos;s Steel</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>78490728.png</Image>
+  </Item>
+  <Item>
+    <id>1947252</id>
+    <Name>Twisted Branch</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>1947252.png</Image>
+  </Item>
+  <Item>
+    <id>2338860</id>
+    <Name>Woebringer - Halberd of Stone</Name>
+    <Slot>Primary</Slot>
+    <Image>2338860.png</Image>
+  </Item>
+  <Item>
+    <id>4037123</id>
+    <Name>Wyrm Bone</Name>
+    <Slot>PrimaryOrSecondary</Slot>
+    <Image>4037123.png</Image>
+  </Item>
+  <Item>
+    <id>19838925</id>
+    <Name>Officer&apos;s Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>19838925.png</Image>
+  </Item>
+  <Item>
+    <id>8408496</id>
+    <Name>Aged Plate Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>8408496.png</Image>
+  </Item>
+  <Item>
+    <id>21539763</id>
+    <Name>Ancient Guardian Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>21539763.png</Image>
+  </Item>
+  <Item>
+    <id>35817760</id>
+    <Name>Azure Plate Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>35817760.png</Image>
+  </Item>
+  <Item>
+    <id>14217632</id>
+    <Name>Blessed Braxonian Bracelet</Name>
+    <Slot>Wrist</Slot>
+    <Image>14217632.png</Image>
+  </Item>
+  <Item>
+    <id>53089498</id>
+    <Name>Blessed Braxonian Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>53089498.png</Image>
+  </Item>
+  <Item>
+    <id>13086880</id>
+    <Name>Blessed Braxonian Wristlet</Name>
+    <Slot>Wrist</Slot>
+    <Image>13086880.png</Image>
+  </Item>
+  <Item>
+    <id>17677440</id>
+    <Name>Blighted Silk Wraps</Name>
+    <Slot>Wrist</Slot>
+    <Image>17677440.png</Image>
+  </Item>
+  <Item>
+    <id>15458050</id>
+    <Name>Braxonian Bracelet</Name>
+    <Slot>Wrist</Slot>
+    <Image>15458050.png</Image>
+  </Item>
+  <Item>
+    <id>30276924</id>
+    <Name>Braxonian Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>30276924.png</Image>
+  </Item>
+  <Item>
+    <id>32709715</id>
+    <Name>Braxonian Wristlet</Name>
+    <Slot>Wrist</Slot>
+    <Image>32709715.png</Image>
+  </Item>
+  <Item>
+    <id>47577777</id>
+    <Name>Bronzed Solunian Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>47577777.png</Image>
+  </Item>
+  <Item>
+    <id>38905604</id>
+    <Name>Burial Cloth Wristwrap</Name>
+    <Slot>Wrist</Slot>
+    <Image>38905604.png</Image>
+  </Item>
+  <Item>
+    <id>4538569</id>
+    <Name>Chitin Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>4538569.png</Image>
+  </Item>
+  <Item>
+    <id>812316</id>
+    <Name>Cracked Wristguard</Name>
+    <Slot>Wrist</Slot>
+    <Image>812316.png</Image>
+  </Item>
+  <Item>
+    <id>44992374</id>
+    <Name>Crafted Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>44992374.png</Image>
+  </Item>
+  <Item>
+    <id>24844142</id>
+    <Name>Earthen Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>24844142.png</Image>
+  </Item>
+  <Item>
+    <id>29520785</id>
+    <Name>Embalmed Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>29520785.png</Image>
+  </Item>
+  <Item>
+    <id>33256192</id>
+    <Name>Eroded Bangle</Name>
+    <Slot>Wrist</Slot>
+    <Image>33256192.png</Image>
+  </Item>
+  <Item>
+    <id>10375605</id>
+    <Name>Exploding Brace</Name>
+    <Slot>Wrist</Slot>
+    <Image>10375605.png</Image>
+  </Item>
+  <Item>
+    <id>16581714</id>
+    <Name>Fungal Wrapped Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>16581714.png</Image>
+  </Item>
+  <Item>
+    <id>173442</id>
+    <Name>Gardener&apos;s Wrist Wrap</Name>
+    <Slot>Wrist</Slot>
+    <Image>173442.png</Image>
+  </Item>
+  <Item>
+    <id>594624</id>
+    <Name>Pull of Insomnia</Name>
+    <Slot>Wrist</Slot>
+    <Image>594624.png</Image>
+  </Item>
+  <Item>
+    <id>13653145</id>
+    <Name>Pull of Sleep</Name>
+    <Slot>Wrist</Slot>
+    <Image>13653145.png</Image>
+  </Item>
+  <Item>
+    <id>77655286</id>
+    <Name>Hero Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>77655286.png</Image>
+  </Item>
+  <Item>
+    <id>780825</id>
+    <Name>Hollowed Crustacean Leg</Name>
+    <Slot>Wrist</Slot>
+    <Image>780825.png</Image>
+  </Item>
+  <Item>
+    <id>44113248</id>
+    <Name>Mirrored Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>44113248.png</Image>
+  </Item>
+  <Item>
+    <id>3338832</id>
+    <Name>Moonstone Bangle</Name>
+    <Slot>Wrist</Slot>
+    <Image>3338832.png</Image>
+  </Item>
+  <Item>
+    <id>17758488</id>
+    <Name>Obsidian Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>17758488.png</Image>
+  </Item>
+  <Item>
+    <id>1824224</id>
+    <Name>Perfect Links</Name>
+    <Slot>Wrist</Slot>
+    <Image>1824224.png</Image>
+  </Item>
+  <Item>
+    <id>12451740</id>
+    <Name>Resonating Brace</Name>
+    <Slot>Wrist</Slot>
+    <Image>12451740.png</Image>
+  </Item>
+  <Item>
+    <id>11364474</id>
+    <Name>Runewoven Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>11364474.png</Image>
+  </Item>
+  <Item>
+    <id>15022290</id>
+    <Name>Salt Soaked Cuff</Name>
+    <Slot>Wrist</Slot>
+    <Image>15022290.png</Image>
+  </Item>
+  <Item>
+    <id>21315584</id>
+    <Name>Searing Wristwrap</Name>
+    <Slot>Wrist</Slot>
+    <Image>21315584.png</Image>
+  </Item>
+  <Item>
+    <id>4482425</id>
+    <Name>Seaslimed Bracelet</Name>
+    <Slot>Wrist</Slot>
+    <Image>4482425.png</Image>
+  </Item>
+  <Item>
+    <id>61170386</id>
+    <Name>Shackle of Bidding</Name>
+    <Slot>Wrist</Slot>
+    <Image>61170386.png</Image>
+  </Item>
+  <Item>
+    <id>8241972</id>
+    <Name>Sivakayan Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>8241972.png</Image>
+  </Item>
+  <Item>
+    <id>3279352</id>
+    <Name>Spelunker&apos;s Brace</Name>
+    <Slot>Wrist</Slot>
+    <Image>3279352.png</Image>
+  </Item>
+  <Item>
+    <id>17284608</id>
+    <Name>Stinging Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>17284608.png</Image>
+  </Item>
+  <Item>
+    <id>15167780</id>
+    <Name>A Twisted Spider Leg</Name>
+    <Slot>Wrist</Slot>
+    <Image>15167780.png</Image>
+  </Item>
+  <Item>
+    <id>46442784</id>
+    <Name>Bracelet of the Vessel</Name>
+    <Slot>Wrist</Slot>
+    <Image>46442784.png</Image>
+  </Item>
+  <Item>
+    <id>45884862</id>
+    <Name>Warded Brace</Name>
+    <Slot>Wrist</Slot>
+    <Image>45884862.png</Image>
+  </Item>
+  <Item>
+    <id>26124478</id>
+    <Name>Workworn Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>26124478.png</Image>
+  </Item>
+  <Item>
+    <id>24121284</id>
+    <Name>Xasxi Bone Bracer</Name>
+    <Slot>Wrist</Slot>
+    <Image>24121284.png</Image>
+  </Item>
+</Items>
