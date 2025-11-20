@@ -140,4 +140,54 @@
     <name>Stunning Strike</name>
     <image>59819904.png</image>
   </Skill>
+  <Skill>
+    <id>1068264</id>
+    <name>Envenomed Arrow</name>
+    <image>1068264.png</image>
+  </Skill>
+  <Skill>
+    <id>10823930</id>
+    <name>Chant Control</name>
+    <image>10823930.png</image>
+  </Skill>
+  <Skill>
+    <id>24603690</id>
+    <name>Razor Tipped Arrow</name>
+    <image>24603690.png</image>
+  </Skill>
+  <Skill>
+    <id>26241651</id>
+    <name>Execute</name>
+    <image>26241651.png</image>
+  </Skill>
+  <Skill>
+    <id>2744280</id>
+    <name>Flaming Arrow</name>
+    <image>2744280.png</image>
+  </Skill>
+  <Skill>
+    <id>35876675</id>
+    <name>Precision</name>
+    <image>35876675.png</image>
+  </Skill>
+  <Skill>
+    <id>45445146</id>
+    <name>Skycall</name>
+    <image>45445146.png</image>
+  </Skill>
+  <Skill>
+    <id>48749016</id>
+    <name>Blunted Arrow</name>
+    <image>48749016.png</image>
+  </Skill>
+  <Skill>
+    <id>58018670</id>
+    <name>Imbued Arrow</name>
+    <image>58018670.png</image>
+  </Skill>
+  <Skill>
+    <id>66354480</id>
+    <name>Trick Shot</name>
+    <image>66354480.png</image>
+  </Skill>
 </Skills>

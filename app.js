@@ -9,6 +9,13 @@ document.addEventListener('DOMContentLoaded', () => {
   const keyInput         = document.getElementById('key-input');
   const discordInput     = document.getElementById('discord-input');
   const uploadMsg        = document.getElementById('upload-message');
+  const deleteModal = document.getElementById('delete-modal');
+  const closeDeleteModalBtn = document.getElementById('close-delete-modal');
+  const deleteCharacterNameEl = document.getElementById('delete-character-name');
+  const deleteKeyInput = document.getElementById('delete-key-input');
+  const deleteMessageEl = document.getElementById('delete-message');
+  const cancelDeleteBtn = document.getElementById('cancel-delete-btn');
+  const confirmDeleteBtn = document.getElementById('confirm-delete-btn');
 
   const searchInput      = document.getElementById('search-input');
   const showAllBtn       = document.getElementById('show-all-btn');
@@ -18,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const modal            = document.getElementById('modal');
   const closeModal       = document.getElementById('close-modal');
 
-  const API_BASE     = '/SiteRoot/api';
+  const API_BASE     = '/ScrubbyVision/api';
   const ITEM_XML_URL = '../items.xml';
   const SPELL_XML_URL = '../spells.xml';
   const SKILL_XML_URL = '../skills.xml';
@@ -31,6 +38,9 @@ document.addEventListener('DOMContentLoaded', () => {
   let itemDefsMap  = {};
   let spellDefsMap = {};
   let skillDefsMap = {};
+  let currentCharacterToDelete = null;
+  // track whether the details modal was visible before opening delete modal
+  let detailsModalWasVisible = false;
 
   // Fixed slot layout: 4 – 5 – 3 – 5
   const rows = [
@@ -40,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
     ['Primary','Waist','Feet','Back','Secondary']
   ];
 
-  // Helper: fetch text→JSON with error propagation
+  // fetch text→JSON with error propagation
   function fetchJson(url, opts = {}) {
     return fetch(url, opts).then(res => {
       if (!res.ok) return res.text().then(t => { throw new Error(`HTTP ${res.status}: ${t}`); });
@@ -124,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
         resultsBody.appendChild(tr);
       });
 
-      // wire up detail‐modal links
+      // detail modal links
       document.querySelectorAll('.char-link').forEach(a => {
         a.addEventListener('click', e => {
           e.preventDefault();
@@ -136,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
     renderPaginationControls();
   }
 
-  // 4) Build pagination buttons
+  // 4) pagination buttons
   function renderPaginationControls() {
     const totalPages = Math.ceil(filteredChars.length / ROWS_PER_PAGE);
     if (totalPages <= 1) {
@@ -177,8 +187,11 @@ document.addEventListener('DOMContentLoaded', () => {
       const asc = !th.classList.contains('asc');
 
       characters.sort((a, b) => {
-        if (a[key] < b[key]) return asc ? -1 : 1;
-        if (a[key] > b[key]) return asc ? 1 : -1;
+        const aVal = String(a[key]).toLowerCase();
+        const bVal = String(b[key]).toLowerCase();
+
+        if (aVal < bVal) return asc ? -1 : 1;
+        if (aVal > bVal) return asc ? 1 : -1;
         return 0;
       });
 
@@ -214,7 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
       : characters.filter(c => c.CharName.toLowerCase().includes(term));
   }
 
-  // 7) Hook up tab buttons
+  // 7) tab buttons
   document.querySelectorAll('.modal-tab').forEach(btn => {
     btn.addEventListener('click', () => {
       // Deactivate all tabs and panels
@@ -223,6 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Activate clicked tab
       btn.classList.add('active');
+
       // Show matching panel
       const panel = document.getElementById('tab-' + btn.dataset.tab);
       panel.classList.add('active');
@@ -230,20 +244,67 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Delete character functionality
-  function deleteCharacter(characterName) {
-    const key = prompt("Please enter your secret key to confirm deletion:");
-    if (!key) {
-      return; // User cancelled
+  function showDeleteModal(characterName) {
+    currentCharacterToDelete = characterName;
+
+    deleteCharacterNameEl.textContent = characterName;
+    deleteKeyInput.value = '';
+    deleteMessageEl.innerHTML = '';
+    confirmDeleteBtn.disabled = true;
+
+    // If the main details modal is visible, hide it and remember to restore it on close
+    detailsModalWasVisible = !modal.classList.contains('hidden');
+    if (detailsModalWasVisible) modal.classList.add('hidden');
+
+    deleteModal.classList.remove('hidden');
+    deleteKeyInput.focus();
+  }
+
+  function closeDeleteModal() {
+    deleteModal.classList.add('hidden');
+    // If we hid the details modal when opening delete, restore it
+    if (detailsModalWasVisible) {
+      modal.classList.remove('hidden');
     }
+    detailsModalWasVisible = false;
+    currentCharacterToDelete = null;
+    deleteKeyInput.value = '';
+    deleteMessageEl.innerHTML = '';
+    confirmDeleteBtn.disabled = false;
+    confirmDeleteBtn.textContent = 'Delete Character';
+  }
+
+  function showDeleteMessage(message, type) {
+    const className = type === 'error' ? 'error-message' : 'success-message';
+    deleteMessageEl.innerHTML = `<div class="${className}">${message}</div>`;
+  }
+
+  function performDelete() {
+    const key = deleteKeyInput.value.trim();
+
+    if (!key) {
+      showDeleteMessage('Please enter your secret key.', 'error');
+      return;
+    }
+
+    if (!currentCharacterToDelete) {
+      showDeleteMessage('No character selected for deletion.', 'error');
+      return;
+    }
+
+    // Disable the button and show loading state
+    confirmDeleteBtn.disabled = true;
+    confirmDeleteBtn.textContent = 'Deleting...';
+    deleteMessageEl.innerHTML = '';
 
     fetch(`${API_BASE}/character`, {
       method: 'DELETE',
       headers: {
         'Content-Type': 'application/json'
-      },
+    },
       body: JSON.stringify({
-        characterName,
-        key
+        characterName: currentCharacterToDelete,
+        key: key
       })
     })
     .then(response => {
@@ -255,14 +316,54 @@ document.addEventListener('DOMContentLoaded', () => {
       return response.json();
     })
     .then(data => {
-      alert('Character deleted successfully');
-      modal.classList.add('hidden');
-      loadCharacters(); // Refresh the character list
+      showDeleteMessage('Character deleted successfully!', 'success');
+
+      // Close modal after a brief delay
+      setTimeout(() => {
+        closeDeleteModal();
+        modal.classList.add('hidden');
+        loadCharacters();
+      }, 1500);
     })
     .catch(error => {
-      alert(error.message || 'Failed to delete character');
+      console.error('Delete failed:', error);
+      showDeleteMessage(error.message || 'Failed to delete character', 'error');
+
+      // Re-enable the button
+      confirmDeleteBtn.disabled = false;
+      confirmDeleteBtn.textContent = 'Delete Character';
     });
   }
+
+  // Enable/disable delete button based on key input
+  deleteKeyInput.addEventListener('input', function() {
+    confirmDeleteBtn.disabled = this.value.trim() === '';
+  });
+
+  // Handle Enter key in password field
+  deleteKeyInput.addEventListener('keypress', function(e) {
+    if (e.key === 'Enter' && !confirmDeleteBtn.disabled) {
+      performDelete();
+    }
+  });
+
+  // Close modal events
+  closeDeleteModalBtn.addEventListener('click', closeDeleteModal);
+  cancelDeleteBtn.addEventListener('click', closeDeleteModal);
+
+  // Close modal when clicking outside
+  deleteModal.addEventListener('click', function(e) {
+    if (e.target === deleteModal) {
+      closeDeleteModal();
+    }
+  });
+
+  // Confirm delete function
+  confirmDeleteBtn.addEventListener('click', performDelete);
+
+  // hide modal
+  deleteModal.classList.add('hidden');
+
 
   // 8) Details modal for one character
   function showDetails(idx) {
@@ -282,14 +383,14 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('char-class-level').textContent =
           `${data.CharClass || 'Unknown Class'} • Level ${data.CharLevel || '?'}`;
 
-        // build slot→item map
+        // slot→item map
         const equipIds = data.CharacterEquip || [];
         const equipped = {};
         const ringList = [];
         const wristList = [];
         const weaponList = [];
 
-        // Handle Aura item separately since it comes from AuraItem field
+        // Handle Aura item separately
         if (data.AuraItem) {
           const auraItem = itemDefsMap[data.AuraItem];
           if (auraItem) {
@@ -297,7 +398,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         }
 
-        // Handle Charm item separately since it comes from AuraItem field
+        // Handle Charm item separately
         if (data.CharmItem) {
           const CharmItem = itemDefsMap[data.CharmItem];
           if (CharmItem) {
@@ -327,7 +428,7 @@ document.addEventListener('DOMContentLoaded', () => {
             equipped['Secondary'] = { id: itemId, name: def.name, image: def.image };
           }
           else {
-            // everything else goes straight to its named slot
+            // everything else
             equipped[def.slot] = { id: itemId, name: def.name, image: def.image };
           }
         });
@@ -340,7 +441,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
 
-      // drop them into the two numbered slots (if present)
+      // add them to slots as available
       equipped['Ring 1']   = ringList[0] || null;
       equipped['Ring 2']   = ringList[1] || null;
       equipped['Wrist 1']  = wristList[0] || null;
@@ -379,10 +480,15 @@ document.addEventListener('DOMContentLoaded', () => {
               img.style.maxHeight = '80%';
               img.onerror = () => {
                 img.remove();
-                const span = document.createElement('span');
-                span.textContent = item.id;
-                span.classList.add('item-id-fallback');
-                newSlot.appendChild(span);
+                // Special case: if item.id is 59597670 (Empty), do not show the id, just leave blank
+                if (item.id === '59597670' || item.id === 59597670) {
+                  // Do nothing, leave slot blank
+                } else {
+                  const span = document.createElement('span');
+                  span.textContent = item.id;
+                  span.classList.add('item-id-fallback');
+                  newSlot.appendChild(span);
+                }
               };
               img.src = `/assets/items/${item.image}?v=${Date.now()}`;
               newSlot.appendChild(img);
@@ -412,15 +518,15 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
         </div>
 
-  <div class="quest-column">
-    <h4>Active (${activeQuests.length})</h4>
-    <div class="quest-scroll">
-      ${activeHtml}
-    </div>
-  </div>
-`;
+        <div class="quest-column">
+          <h4>Active (${activeQuests.length})</h4>
+          <div class="quest-scroll">
+            ${activeHtml}
+          </div>
+        </div>
+      `;
 
-        // Populate Skills (object of id → level)
+        // Populate Skills
         const skillsArray = Array.isArray(data.CharacterSkills)
           ? data.CharacterSkills
           : [];
@@ -466,6 +572,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let spellRowItems = [];
 
         (data.CharacterSpells || []).forEach(spellId => {
+          if ((spellId || '').trim().toLowerCase() === 'expulsion.wellstone') return; // Exclude modded spell robustly
           const def = spellDefsMap[spellId] || {};
           const label = def.name || spellId;
           const image = def.image
@@ -498,21 +605,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
         modal.classList.remove('hidden');
 
-        // Add event listener for delete button
+        // Update the delete button event listener
         const deleteBtn = document.getElementById('delete-char-btn');
         if (deleteBtn) {
           // Remove any existing click handlers
-          deleteBtn.removeEventListener('click', deleteBtn.onclick);
+          deleteBtn.replaceWith(deleteBtn.cloneNode(true));
+          const newDeleteBtn = document.getElementById('delete-char-btn');
+
           // Add new click handler
-          deleteBtn.addEventListener('click', () => {
-            if (confirm('Are you sure you want to delete this character? This action cannot be undone.')) {
-              deleteCharacter(data.CharName);
-            }
+          newDeleteBtn.addEventListener('click', () => {
+            showDeleteModal(data.CharName);
           });
         } else {
           console.error('Delete button not found! Make sure you have added <button id="delete-char-btn">Delete Character</button> to your modal HTML');
         }
-
       })
       .catch(err => console.error('Failed to load details:', err));
   }
@@ -550,9 +656,9 @@ document.addEventListener('DOMContentLoaded', () => {
   reader.onload = function(e) {
     try {
       const fileContent = e.target.result;
-      JSON.parse(fileContent); // This will throw if invalid JSON
-      
-      // If JSON is valid, proceed with your original upload logic
+      JSON.parse(fileContent);
+
+      // If JSON is valid, proceed
       const fd = new FormData();
       fd.append('file', file);
       fd.append('key', key);

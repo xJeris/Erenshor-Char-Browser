@@ -112,7 +112,7 @@
   </Spell>
   <Spell>
     <id>23358166</id>
-    <name>Intruisive Ideas</name>
+    <name>Intrusive Ideas</name>
     <image>23358166.png</image>
   </Spell>
   <Spell>
@@ -207,7 +207,7 @@
   </Spell>
   <Spell>
     <id>39532889</id>
-    <name>Twisting MInd</name>
+    <name>Twisting Mind</name>
     <image>39532889.png</image>
   </Spell>
   <Spell>
@@ -527,7 +527,7 @@
   </Spell>
   <Spell>
     <id>18272240</id>
-    <name>SummonDire Wolf</name>
+    <name>Summon Dire Wolf</name>
     <image>18272240.png</image>
   </Spell>
   <Spell>
@@ -989,5 +989,225 @@
     <id>37659720</id>
     <name>Sunburst</name>
     <image>37659720.png</image>
+  </Spell>
+  <Spell>
+    <id>10775537</id>
+    <name>Lava Coat</name>
+    <image>10775537.png</image>
+  </Spell>
+  <Spell>
+    <id>1133865</id>
+    <name>Vithean Judgement</name>
+    <image>1133865.png</image>
+  </Spell>
+  <Spell>
+    <id>11403891</id>
+    <name>Aura: Presence of Storms II</name>
+    <image>11403891.png</image>
+  </Spell>
+  <Spell>
+    <id>12644334</id>
+    <name>Stunning Bolt</name>
+    <image>12644334.png</image>
+  </Spell>
+  <Spell>
+    <id>12936696</id>
+    <name>Aura: Presence of Storms I</name>
+    <image>12936696.png</image>
+  </Spell>
+  <Spell>
+    <id>13143840</id>
+    <name>Arcstorm</name>
+    <image>13143840.png</image>
+  </Spell>
+  <Spell>
+    <id>14737962</id>
+    <name>Meditative Trance</name>
+    <image>14737962.png</image>
+  </Spell>
+  <Spell>
+    <id>15430636</id>
+    <name>Fury of the Sky</name>
+    <image>15430636.png</image>
+  </Spell>
+  <Spell>
+    <id>16613100</id>
+    <name>Hint of Shadow</name>
+    <image>16613100.png</image>
+  </Spell>
+  <Spell>
+    <id>1690416</id>
+    <name>Dark Haste II</name>
+    <image>1690416.png</image>
+  </Spell>
+  <Spell>
+    <id>17610550</id>
+    <name>Portal to Hidden</name>
+    <image>17610550.png</image>
+  </Spell>
+  <Spell>
+    <id>18065310</id>
+    <name>Aura: Presence of Storms IV</name>
+    <image>18065310.png</image>
+  </Spell>
+  <Spell>
+    <id>19869075</id>
+    <name>Moon Bolt II</name>
+    <image>19869075.png</image>
+  </Spell>
+  <Spell>
+    <id>20695740</id>
+    <name>Aura: Presence of Storms III</name>
+    <image>20695740.png</image>
+  </Spell>
+  <Spell>
+    <id>22661712</id>
+    <name>Light Healing</name>
+    <image>22661712.png</image>
+  </Spell>
+  <Spell>
+    <id>258099</id>
+    <name>Targeted Windstorm</name>
+    <image>258099.png</image>
+  </Spell>
+  <Spell>
+    <id>2588378</id>
+    <name>Ball Lightning</name>
+    <image>2588378.png</image>
+  </Spell>
+  <Spell>
+    <id>2605209</id>
+    <name>Summon Skeleton</name>
+    <image>2605209.png</image>
+  </Spell>
+  <Spell>
+    <id>27814967</id>
+    <name>Break Fossil</name>
+    <image>27814967.png</image>
+  </Spell>
+  <Spell>
+    <id>30589865</id>
+    <name>Fernalla's Insight</name>
+    <image>30589865.png</image>
+  </Spell>
+  <Spell>
+    <id>31539688</id>
+    <name>Focus Target</name>
+    <image>31539688.png</image>
+  </Spell>
+  <Spell>
+    <id>32319000</id>
+    <name>Light of the Lantern</name>
+    <image>32319000.png</image>
+  </Spell>
+  <Spell>
+    <id>33916388</id>
+    <name>Vitheo's Wrath</name>
+    <image>33916388.png</image>
+  </Spell>
+  <Spell>
+    <id>36862728</id>
+    <name>Targeted Gust</name>
+    <image>36862728.png</image>
+  </Spell>
+  <Spell>
+    <id>3823521</id>
+    <name>Summon Widow</name>
+    <image>3823521.png</image>
+  </Spell>
+  <Spell>
+    <id>40764120</id>
+    <name>Time Stone</name>
+    <image>40764120.png</image>
+  </Spell>
+  <Spell>
+    <id>41178456</id>
+    <name>Fernalla's Presence</name>
+    <image>41178456.png</image>
+  </Spell>
+  <Spell>
+    <id>44968149</id>
+    <name>Blessed Quiver</name>
+    <image>44968149.png</image>
+  </Spell>
+  <Spell>
+    <id>49491128</id>
+    <name>Envenomed Arrow</name>
+    <image>49491128.png</image>
+  </Spell>
+  <Spell>
+    <id>5069675</id>
+    <name>Ice Shock</name>
+    <image>5069675.png</image>
+  </Spell>
+  <Spell>
+    <id>55369075</id>
+    <name>Lightning</name>
+    <image>55369075.png</image>
+  </Spell>
+  <Spell>
+    <id>5595198</id>
+    <name>Static Invocation</name>
+    <image>5595198.png</image>
+  </Spell>
+  <Spell>
+    <id>5880452</id>
+    <name>Sivakaya's Blessing</name>
+    <image>5880452.png</image>
+  </Spell>
+  <Spell>
+    <id>66897414</id>
+    <name>Wyrm's Bane</name>
+    <image>66897414.png</image>
+  </Spell>
+  <Spell>
+    <id>67599726</id>
+    <name>Moon Bolt</name>
+    <image>67599726.png</image>
+  </Spell>
+  <Spell>
+    <id>70424464</id>
+    <name>Lesser Lightning</name>
+    <image>70424464.png</image>
+  </Spell>
+  <Spell>
+    <id>7180815</id>
+    <name>Storm Bolt</name>
+    <image>7180815.png</image>
+  </Spell>
+  <Spell>
+    <id>73440540</id>
+    <name>Ionize</name>
+    <image>73440540.png</image>
+  </Spell>
+  <Spell>
+    <id>73732530</id>
+    <name>Aura: The Sage</name>
+    <image>73732530.png</image>
+  </Spell>
+  <Spell>
+    <id>77987322</id>
+    <name>Skycall</name>
+    <image>77987322.png</image>
+  </Spell>
+  <Spell>
+    <id>8060751</id>
+    <name>Bleed</name>
+    <image>8060751.png</image>
+  </Spell>
+  <Spell>
+    <id>8793590</id>
+    <name>Crushing Current</name>
+    <image>8793590.png</image>
+  </Spell>
+  <Spell>
+    <id>8804076</id>
+    <name>Exploding Arrow</name>
+    <image>8804076.png</image>
+  </Spell>
+  <Spell>
+    <id>913744</id>
+    <name>Mana Charge II</name>
+    <image>913744.png</image>
   </Spell>
 </Spells>

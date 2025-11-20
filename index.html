@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Erenshor Character Manager</title>
-  <link rel="stylesheet" href="styles.css?v=0.0.1" />
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <title>ScrubbyVision - Erenshor Character Manager</title>
+  <link rel="stylesheet" href="styles.css?v=0.92" />
 </head>
 <body>
 
   <!-- Banner -->
   <header class="banner">
     <img src="../assets/banner_bg.png" alt="Banner background" class="banner-bg" />
-    <h1 class="banner-title">Banner Title</h1>
+    <h1 class="banner-title">ScrubbyVision</h1>
   </header>
 
   <main>
@@ -80,6 +81,24 @@
     </div>
   </div>
 
+  <!-- Delete Confirmation Modal -->
+  <div id="delete-modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="close-delete-modal" class="close-btn">&times;</button>
+      <h2>Delete Character</h2>
+      <p>Are you sure you want to delete <strong id="delete-character-name"></strong>?</p>
+      <label>
+        Enter your secret key to confirm:
+        <input type="password" id="delete-key-input" placeholder="Your secret key" />
+      </label>
+      <div id="delete-message"></div>
+      <div class="modal-buttons">
+        <button id="cancel-delete-btn" class="cancel-btn">Cancel</button>
+        <button id="confirm-delete-btn" class="danger-btn" disabled>Delete Character</button>
+      </div>
+    </div>
+  </div>
+
   <!-- Character Details Modal -->
   <div id="modal" class="modal hidden">
     <div class="modal-content">
@@ -137,17 +156,14 @@
 
     <!-- Quests Tab Content -->
       <div class="modal-tab-content" id="tab-quests">
-        <h3>Quests</h3>
-        <div id="quest-columns" class="quest-columns">
-          <!-- Will be populated by JavaScript -->
-        </div>
+        <div id="quest-columns"></div>
       </div>
 
       <!-- Skills Tab Content -->
       <div class="modal-tab-content" id="tab-skills">
         <h3>Skills</h3>
         <div id="skills-grid" class="skills-grid">
-          <!-- Populated dynamically with rows of 5 skill tiles -->
+          <!-- Will be populated dynamically with rows of 5 skill tiles -->
         </div>
       </div>
 
@@ -155,7 +171,7 @@
       <div class="modal-tab-content" id="tab-spells">
         <h3>Spells</h3>
         <div id="spells-grid" class="spells-grid">
-          <!-- Populated dynamically with rows of 5 spell tiles -->
+          <!-- Will be populated dynamically with rows of 5 spell tiles -->
         </div>
       </div>
 
@@ -163,6 +179,6 @@
 </div>
 
   <div id="item-tooltip"></div>  
-  <script src="app.js?v=0.0.1"></script>
+  <script src="app.js?v=0.95.27"></script>
 </body>
 </html>
